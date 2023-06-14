@@ -297,11 +297,10 @@ survived.
     **Publisher:** Self Publishing, 1936\
     List of emigrants from Unterschlechtbach.   
 
--   [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/).\
-    A list of 19th emigrants to America from Kreis Herford; arrangement is
-    by town then year of emigration, with a name index. Many settled in
-    the Middle West. You can download the PDF [Amerikaauswanderer-Kreis-Herford.pdf](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
-    that consists of these three volumes:
+-   [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/).
+    [Amerikaauswanderer-Kreis-Herford.pdf](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
+
+    You can download the PDF that consists of these three volumes:
 
     -   Volume 1: “America Emigrants from the Spenge and Enger Offices”,
         June 1987
@@ -310,8 +309,12 @@ survived.
         Vlotho in the 19th Century", November 1988
 
     -   Volume 3: "America emigrants from the offices of Bünde,
-        Rödinghausen, Kirchlengern and Gohfeld-Mennighüffen in the 19th
-        century", September 1990.
+        Rödinghausen, Kirchlengern and Gohfeld-Mennighüffen in the 19th century", September 1990.
+
+    A list of 19th emigrants to America from Kreis Herford; arrangement is
+    by town then year of emigration, with a name index. Many settled in
+    the Middle West.
+       
 
 -   [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
     by Monika Minninger.
