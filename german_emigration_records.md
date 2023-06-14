@@ -596,6 +596,7 @@ survived.
 ## Note to self: I have checked the accuracy of the link below and all those that follow for Annette Kunselman Burgett
 
 -   Burgert, Annette Kunselman and Jones, Henry Z Jr.
+
     - [Westerwald to America : some 18th century German immigrants](https://worldcat.org/title/20526140?oclcNum=20526140)
       **Publisher:** Publisher:Picton Press, Camden, Me., 1989
       **Summary:** 284pp. 9 pages of reproductions of original immigration lists; place index and Every Name index. 2000 (1989) This book by two of the best-known German migration researchers
@@ -609,9 +610,7 @@ survived.
        **Publisher:** AKB Publications, Myerstown, Pa., 2000
 
     -  [Brethren from Gimbsheim in the Palatinate to Ephrata and Bermudian in Pennsylvania](https://worldcat.org/title/31199348?oclcNum=31199348)
-
        **Publisher:** AKB Publications, Myerstown, PA, ©1994
-
        **Summary:** Some 22 men with families immigrated in 1749 and
        1751 from Gimbsheim, Hessen, Germany, to America eventually
        settling in the Ephrata community in Lancaster County,
