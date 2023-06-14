@@ -292,16 +292,15 @@ survived.
 
 -   [Auswanderer aus Villingendorf](https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/labw_auswanderer/12763/Auswanderer%20aus%20Villingendorf)
     
--   [Auswanderer der Gemeinde Unterschlechtbach; ein Beitrag zum Schwäbischen Weltwanderbuch](https://www.zvab.com/buch-suchen/titel/auswanderer-der-gemeinde-unterschlechtbach/autor/ackermann/)
-    **Author:**Ackermann, Gotthilf 
-    **Publisher:** Self Publishing, 1936
+-   [Auswanderer der Gemeinde Unterschlechtbach; ein Beitrag zum Schwäbischen Weltwanderbuch](https://www.zvab.com/buch-suchen/titel/auswanderer-der-gemeinde-unterschlechtbach/autor/ackermann/)\
+    **Author:**Ackermann, Gotthilf\
+    **Publisher:** Self Publishing, 1936\
     List of emigrants from Unterschlechtbach.   
 
--   [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/). 
+-   [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/).\
     A list of 19th emigrants to America from Kreis Herford; arrangement is
     by town then year of emigration, with a name index. Many settled in
-    the Middle West. You can download the PDF
-    [Amerikaauswanderer-Kreis-Herford.pdf](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
+    the Middle West. You can download the PDF [Amerikaauswanderer-Kreis-Herford.pdf](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
     that consists of these three volumes:
 
     -   Volume 1: “America Emigrants from the Spenge and Enger Offices”,
@@ -314,19 +313,21 @@ survived.
         Rödinghausen, Kirchlengern and Gohfeld-Mennighüffen in the 19th
         century", September 1990.
 
--   [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
-      by Monika Minninger. The archivist Dr. Monika Minninger
-    (1941-2010) published a list of emigrants from the city and district
-    of Bielefeld from 1815 to 1900 on the website
-    www.bielefelder-in-nordamerika.de, which was shut down in 2018. The
+-   [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)\
+    by Monika Minninger.
+
+    The archivist Dr. Monika Minninger (1941-2010) published a list of emigrants from the city and district
+    of Bielefeld from 1815 to 1900 on the website www.bielefelder-in-nordamerika.de, which was shut down in 2018. The
     list is now permanently available as a PDF.
 
 -   [Diekmann, Norbert: Emigrants from Gronau and Epe](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-aus-Gronau-und-Epe.pdf)
+
     The PDF is a summary of the personal data on emigration collected by
     Norbert Diekmann in several episodes of the series "Emigrants and
     'distant' relatives" in the Gronau and Epe civil register
 
 -   [Holz, Martin: List of Münsterland clergymen in 1882 in US-Münsterland Catholic communities](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Aufstellung-M%C3%BCnsterl%C3%A4nder-Geistlicher-1882.pdf)
+
     List of Münsterland clergymen in 1882 in US-Münsterland Catholic
     communities, under the original heading of the then author and
     priest Müller, JB: Schematism of the Münsterland German-speaking
@@ -334,17 +335,20 @@ survived.
     States of North America
 
 -   [Brinkkötter, Alois: Emigration from Greven in Westphalia in the 19th century ](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-Greven.pdf)
+
     Here you can see a certainly not exhaustive list of 419 women and
     men and their children who left Greven to start a new and better
     life in the New World, mainly in North America:
 
 -   [Holz, Martin: Auswanderer nach Brasilien](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-nach-Brasilien.pdf).
+
     Source: Amtsblätter der Königlichen Regierung zu Münster von 1860
     – 1871. The emigrants are mainly reservists and conscripts who did
     not follow the mobilization order or the call-up for military
     service and emigrated without permission.
 
 -   [Holz, Martin: German Immigrants from Bremen to New York, 1847-1871](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/German-Immigrants-from-Bremen-to-New-York-1847-1871.pdf)
+
     In Germany, as in other countries, there are places and farming
     communities of the same name in different parts of the country. If
     you use this source, you have to check the evaluation in the church
@@ -352,8 +356,10 @@ survived.
     Münsterland (worked out by Irmgard Niehaus from Beckum, 62 pages).
     Based on an idea by Martin Holz.
 
--   [Niermann, Wilhelm: Emigrant Database for Stemwede](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf).
-    [Stemwede Emigrant Namelist](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf).
+-   [Niermann, Wilhelm: Emigrant Database for Stemwede](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
+
+    [Stemwede Emigrant Namelist](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
+
     Stemwede is in central Germany, between Hannover and Osnabrück, not
     far from the Dümmer See. Stemwede is a relatively new name for the
     area, becoming a municipality in 1973 when the villages in the
@@ -361,8 +367,10 @@ survived.
     together.
 
 -   [Amerikanetz Netzwerk westfälische Amerika-Auswanderung seit dem 19. Jahrhundert.#](http://www.amerikanetz.de/)
-    **Note: This link is broken. www.amerikanetz.de is no longer online.** Network
-    Westphalian Emigration to America since the 19th century. A loose
+
+    **Note: This link is broken. www.amerikanetz.de is no longer online.**\
+
+    Network Westphalian Emigration to America since the 19th century. A loose
     yet comprehensive network of individuals combing their work on the
     Westphalian emigration. Many links; also access to databases.  
 
