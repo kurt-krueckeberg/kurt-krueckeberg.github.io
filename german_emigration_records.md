@@ -595,30 +595,24 @@ survived.
 
 ## Note to self: I have checked the accuracy of the link below and all those that follow for Annette Kunselman Burgett
 
--   Burgert, Annette Kunselman and Jones, Henry Z Jr.
+-  [Westerwald to America : some 18th century German immigrants](https://worldcat.org/title/20526140?oclcNum=20526140)\
+   **Authors::* Burgert, Annette Kunselman and Jones, Henry Z Jr.\
+   **Publisher:** Publisher:Picton Press, Camden, Me., 1989\
+   **Summary:** 284pp. 9 pages of reproductions of original immigration lists; place index and Every Name index. 2000 (1989) This book by two of the best-known German migration researchers
+   documents the German origins, in the Westerwald Region of southern Germany, of more than 265 individuals and/or families which emigrated to America in the mid-18th century. Their German
+   ancestry is included and, in many cases, exactly where they settled in Pennsylvania, New Jersey, New York, Maryland, and the Shenandoah Valley of Virginia
 
-    - [Westerwald to America : some 18th century German immigrants](https://worldcat.org/title/20526140?oclcNum=20526140)\
-      **Publisher:** Publisher:Picton Press, Camden, Me., 1989\
-      **Summary:** 284pp. 9 pages of reproductions of original immigration lists; place index and Every Name index. 2000 (1989) This book by two of the best-known German migration researchers
-      documents the German origins, in the Westerwald Region of southern Germany, of more than 265 individuals and/or families which emigrated to America in the mid-18th century. Their German
-      ancestry is included and, in many cases, exactly where they settled in Pennsylvania, New Jersey, New York, Maryland, and the Shenandoah Valley of Virginia
-
--   Burgert, Annette Kunselman.  
+-   Works authored by Burgert, Annette Kunselman:
 
     -  [Master index to the emigrants documented in the published works of Annette K. Burgert, F.A.S.G., F.G.S.P.](https://www.worldcat.org/search?slug=genealogy&q=ti%3AMaster+index+to+the+emigrants+documented+in+the+published+works+of+Annette+K.+Burgert)\
-       **Author:** Annette K. Burgert\
        **Publisher:** AKB Publications, Myerstown, Pa., 2000
 
     -  [Brethren from Gimbsheim in the Palatinate to Ephrata and Bermudian in Pennsylvania](https://worldcat.org/title/31199348?oclcNum=31199348)\
        **Publisher:** AKB Publications, Myerstown, PA, ©1994\
-       **Summary:** Some 22 men with families immigrated in 1749 and
-       1751 from Gimbsheim, Hessen, Germany, to America eventually
-       settling in the Ephrata community in Lancaster County,
-       Pennsylvania, and near Bermudian in York County. Transcripts
-       from all areas are given
+       **Summary:** Some 22 men with families immigrated in 1749 and 1751 from Gimbsheim, Hessen, Germany, to America eventually
+       settling in the Ephrata community in Lancaster County, Pennsylvania, and near Bermudian in York County. Transcripts from all areas are given.
 
     -  [Colonial Pennsylvania immigrants from Freinsheim in the Palatinate](https://worldcat.org/title/20615216?oclcNum=20615216)
-
        **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1989\       
        **Summary:** List of 18th century emigrants from Freinsheim who settled in Pennsylvania; contains extensive genealogical information.  
 
@@ -629,91 +623,81 @@ survived.
 
     -  [Eighteenth century emigrants from German-speaking lands to North
        America](https://worldcat.org/search?q=_Eighteenth+century+emigrants+from+German-speaking+lands+to+North+America)  
-       **Publisher:** Pennsylvania German Society, Birdsboro, Pa., 1985
-       **Summary:** Volume 1 lists emigrants from the Northern
-       Kraichgau; volume 2, emigrants from the Western Palatinate. Both
-       volumes include considerable  
-       genealogical information as well as indexes of ships, European
-       place names, and surnames.  
+       **Publisher:** Pennsylvania German Society, Birdsboro, Pa., 1985\
+       **Summary:** Volume 1 lists emigrants from the Northern Kraichgau; volume 2, emigrants from the Western Palatinate. Both
+       volumes include considerable genealogical information as well as indexes of ships, European place names, and surnames.  
        **Contents:**
 
        -   v\. 1. The Northern Kraichgau
 
        -   v\. 2. The Western Palatinate   
 
-    -  [Eighteenth and nineteenth century emigrants from Lachen-Speyerdorf in the Palatinate](https://worldcat.org/title/20662221?oclcNum=20662221)  
-       **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown
-       Rd., Myerstown 17067), ©1989  
-       **Summary:** Immigrants came from Lachen-Speyerdorf, Bayern,
-       Germany, and settled in various parts of Pennsylvania  
+    -  [Eighteenth and nineteenth century emigrants from Lachen-Speyerdorf in the Palatinate](https://worldcat.org/title/20662221?oclcNum=20662221)\
+       **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1989\
+       **Summary:** Immigrants came from Lachen-Speyerdorf, Bayern, Germany, and settled in various parts of Pennsylvania  
 
-    -  [Eighteenth century emigrants from Langenselbold in Hesse to America](https://worldcat.org/title/38050507)  
-       **Publisher:** AKB Publications, Myerstown, Pa., 1997  
-       **Summary:** The emigrants from the Langenselbold area settled
-       mainly in Berks County, Pennsylvania. A large group settled in
-       Lower Heidelberg Township. Also includes emigrants who went to
-       New York in 1710
+    -  [Eighteenth century emigrants from Langenselbold in Hesse to America](https://worldcat.org/title/38050507) \
+       **Publisher:** AKB Publications, Myerstown, Pa., 1997\
+       **Summary:** The emigrants from the Langenselbold area settled mainly in Berks County, Pennsylvania. A large group settled in
+       Lower Heidelberg Township. Also includes emigrants who went to New York in 1710
 
-    -  [Eighteenth-century emigrants from Pfungstadt, Hessen-Darmstadt to Pennsylvania](https://worldcat.org/title/747097646?oclcNum=747097646)  
-       **Publisher:** Masthof Press, Morgantown, Pa., 2011 ©1995  
-       **Summary:** List of 18th century emigrants from Pfungstadt who
-       settled in Pennsylvania; contains extensive genealogical
+    -  [Eighteenth-century emigrants from Pfungstadt, Hessen-Darmstadt to Pennsylvania](https://worldcat.org/title/747097646?oclcNum=747097646)\
+       **Publisher:** Masthof Press, Morgantown, Pa., 2011 ©1995\  
+       **Summary:** List of 18th century emigrants from Pfungstadt who settled in Pennsylvania; contains extensive genealogical
        information.  
 
-    -  [Eighteenth Century Emigrants from the Northern Alsace to America](https://worldcat.org/title/27244738)
-       **Publisher:** Picton Press ; Available from AKB Publications, Camden, Me., Myerstown, Pa. (691 Weavertown Rd., Myerstown 17067-2642), ©1992
-       "Prepared for distribution to members of the Pennsylvania German Society during 1992
+    -  [Eighteenth Century Emigrants from the Northern Alsace to America](https://worldcat.org/title/27244738)\
+       **Publisher:** Picton Press ; Available from AKB Publications, Camden, Me., Myerstown, Pa. (691 Weavertown Rd., Myerstown 17067-2642), ©1992\
+       "Prepared for distribution to members of the Pennsylvania German Society during 1992 
        as Volume XXVI in its series of publications on Pennsylvania German history and culture". 
        Alphabetical list of emigrants from the Northern Alsace, now part of France; contains indexes of ships and surnames.  
 
-    -  [Eighteenth century Pennsylvania emigrants from Hassloch and Böhl in the Palatinate](https://worldcat.org/title/10276565?oclcNum=10276565)
-       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
-       A list of 18th century emigrants who settled in Pennsylvania; contains
-       extensive genealogical information.  
+    -  [Eighteenth century Pennsylvania emigrants from Hassloch and Böhl in the Palatinate](https://worldcat.org/title/10276565?oclcNum=10276565)\
+       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983\
+       **Summary:** A list of 18th century emigrants who settled in Pennsylvania; contains extensive genealogical information.  
 
-    -  [Emigrants from Eppingen to America in the eighteenth and nineteenth centuries](https://worldcat.org/search?q=Emigrants+from+Eppingen+to+America+in+the+eighteenth+and+nineteenth+centuries)
-       **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1987
-       List of emigrants from Eppingen; contains considerable genealogical information.  
+    -  [Emigrants from Eppingen to America in the eighteenth and nineteenth centuries](https://worldcat.org/search?q=Emigrants+from+Eppingen+to+America+in+the+eighteenth+and+nineteenth+centuries)\
+       **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1987\
+       List of emigrants from Eppingen; contains considerable genealogical information.
 
-    -  [Grossgartach, Wuerttemberg, to Pennsylvania  : some early colonial German immigrants](https://worldcat.org/title/42249159). Myerstown, Pa. :  
-       **Publisher:** AKB Publications, Myerstown, Pa., 1999. 
-       Extensive genealogical information on the 18th century emigrants from Grossgartach who settled in
-       Pennsylvania.  
+    -  [Grossgartach, Wuerttemberg, to Pennsylvania  : some early colonial German immigrants](https://worldcat.org/title/42249159)\
+       **Publisher:** AKB Publications, Myerstown, Pa., 1999.\ 
+       Extensive genealogical information on the 18th century emigrants from Grossgartach who settled in Pennsylvania.  
 
     -  [The Hochstadt origins of some of the early settlers at Host Church, Berks County, Pa](https://worldcat.org/search?q=The+Hochstadt+origins+of+some+of+the+early+settlers+at+)
-       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
-       A list of emigrants from Hochstadt who settled in Berks County, Pennsylvania.  
+       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983\
+       **Summary:** A list of emigrants from Hochstadt who settled in Berks County, Pennsylvania.  
  
-    -  [Palatine origins of some Pennsylvania pioneers](https://www.worldcat.org/title/44927152)
-       **Author:** Annette K. Burgert
-       **Publisher:** AKB Publications, Myerstown, Pa., 2000.  
+    -  [Palatine origins of some Pennsylvania pioneers](https://www.worldcat.org/title/44927152)\
+       **Author:** Annette K. Burgert\
+       **Publisher:** AKB Publications, Myerstown, Pa., 2000.\
        **Summary:** "This volume is not intended to be a complete record of the families mentioned. The sole purpose is to provide the information on the emigrating generation from the German church records, with enough substantiating evidence from Pennsylvania records to attempt to prove the connection"--Introd. p. xvii
        
-    -  [Pennsylvania pioneers from Wolfersweiler Parish, Saarland, Germany](https://www.worldcat.org/title/10331747?oclcNum=10331747)
-       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
+    -  [Pennsylvania pioneers from Wolfersweiler Parish, Saarland, Germany](https://www.worldcat.org/title/10331747?oclcNum=10331747)\
+       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983\
        **Summary:** Summary:Wolfersweiler is part of Nohfelden, Oldenburg, Germany. A list of 18th century emigrants from Wolfersweiler Parish, who settled in Pennsylvania; contains extensive genealogical  information.  
 
-    -  [York County pioneers from Friedelsheim and Gönnheim in the Palatinate](https://www.worldcat.org/title/10940174?oclcNum=10940174)
-       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1984
+    -  [York County pioneers from Friedelsheim and Gönnheim in the Palatinate](https://www.worldcat.org/title/10940174?oclcNum=10940174)\
+       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1984\
        **Summary:** Immigrants came from Friedelsheim and Gönnheim in Bayern, Germany. A list of 18th century Palatine emigrants who settled in York County, Pennsylvania.
 
-    -  [Emigrants from Baden and Württemberg in the Eighteenth Century](https://worldcat.org/title/36712834)
-       **Publisher:** Publisher:Picton Press, Camden, Me., ©1996-
+    -  [Emigrants from Baden and Württemberg in the Eighteenth Century](https://worldcat.org/title/36712834)\
+       **Publisher:** Publisher:Picton Press, Camden, Me., ©1996-\
        **Contents:** Baden-Durlach and vicinity
 
-## I have checked these sources up to RESUME B
+## Note to self: I have checked these sources up to RESUME at A
 
 -   [Amish immigrants of Waldeck and Hesse : a record of 263 immigrants, with a record of their descendants to those who were married by about 1865, plus historical records of Germany, shiplists, etc.](https://worldcat.org/title/29649380?oclcNum=29649380)
     **Author:** John M. Byler
     ** Publisher:** J.M. Byler, Bellville, OH, 1993
 
--   [Cooper County, Missouri Immigration Records](https://www.mogenweb.org/cooper/CooperBitsImmig.htm). 
+-   [Cooper County, Missouri Immigration Records](https://www.mogenweb.org/cooper/CooperBitsImmig.htm)\ 
     Includes separate databases for emigrants from Sachsen-Coburg, Sachsen-Kronach, and Sachsen-Meiningen.  
 
--   [Hapag-Halle Cuxhaven Emigration Database](https://hapaghalle-cuxhaven.de/en/database-of-emigrants/)
+-   [Hapag-Halle Cuxhaven Emigration Database](https://hapaghalle-cuxhaven.de/en/database-of-emigrants/)\
     CUXAUS is a regional emigration database. Approximately 6,000 records from emigrants of today’s district Cuxhaven for the period between about 1830 and 1930 are available – almost all of them imply the destination New York
 
--   [Mercenary troops from Anhalt-Zerbst, Germany, who served with the British forces during the American Revolution](https://worldcat.org/search?q=1940+Mercenary+troops+from+Anhalt-Zerbst%2C+Germany%2C+who   +served+with+the+British+forces+during+the+American+Revolution)
+-   [Mercenary troops from Anhalt-Zerbst, Germany, who served with the British forces during the American Revolution](https://worldcat.org/search?q=1940+Mercenary+troops+from+Anhalt-Zerbst%2C+Germany%2C+who   +served+with+the+British+forces+during+the+American+Revolution)\
     **Author:** Virginia Easley DeMarce
     **Publisher:** Westland Publications, McNeal, Ariz., 1984
     **Contents:**
@@ -721,7 +705,7 @@ survived.
     pt. 2. Surnames Ku through Z
     Mercenaries from Anhalt-Zerbst, some of whom stayed in America.
 
--   [Deutsche Einwanderung in die Vereinigten Staaten, 1820-1915](http://www.forum-auswanderung.de/auswanderung2.html).
+-   [Deutsche Einwanderung in die Vereinigten Staaten, 1820-1915](http://www.forum-auswanderung.de/auswanderung2.html)\
     Graph showing the German emigration to the United States, 1820-1915.
 
 -   [Die Auswanderung in die Neuengland-Staaten aus Orten des Enzkreises im 18. Jahrhundert](https://worldcat.org/title/4711293?oclcNum=4711293)
@@ -769,7 +753,7 @@ survived.
     Searching is free, but emigrant’s place of origin provided by
     compiler upon fee payment.  
 
-## RESUME B HERE:
+## RESUME A HERE:
 
 -   [Emigrant List from the former Duchy of Braunschweig 1846-1871](http://www.thomas-erbe.de/ahnen/buch/001.htm) except the
     City of Braunschweig & the County of Holzminden, by Fritz Gruhne
