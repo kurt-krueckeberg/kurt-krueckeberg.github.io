@@ -701,8 +701,8 @@ survived.
     **Author:** Virginia Easley DeMarce\
     **Publisher:** Westland Publications, McNeal, Ariz., 1984\
     **Contents:**\
-    pt. 1. Surnames A through Kr\
-    pt. 2. Surnames Ku through Z\
+    - pt. 1. Surnames A through Kr
+    - pt. 2. Surnames Ku through Z
     Mercenaries from Anhalt-Zerbst, some of whom stayed in America.
 
 -   [Deutsche Einwanderung in die Vereinigten Staaten, 1820-1915](http://www.forum-auswanderung.de/auswanderung2.html)\
