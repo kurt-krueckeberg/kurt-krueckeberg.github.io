@@ -628,7 +628,7 @@ survived.
        place names, and surnames.  
        **Contents:**
 
-       -   V. 1. The Northern Kraichgau
+       -   v\. 1. The Northern Kraichgau
 
        -   v\. 2. The Western Palatinate   
 
