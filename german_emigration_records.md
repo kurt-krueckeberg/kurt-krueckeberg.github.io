@@ -596,7 +596,7 @@ survived.
 ## Note to self: I have checked the accuracy of the link below and all those that follow for Annette Kunselman Burgett
 
 -  [Westerwald to America : some 18th century German immigrants](https://worldcat.org/title/20526140?oclcNum=20526140)\
-   **Authors::* Burgert, Annette Kunselman and Jones, Henry Z Jr.\
+   **Authors:** Burgert, Annette Kunselman and Jones, Henry Z Jr.\
    **Publisher:** Publisher:Picton Press, Camden, Me., 1989\
    **Summary:** 284pp. 9 pages of reproductions of original immigration lists; place index and Every Name index. 2000 (1989) This book by two of the best-known German migration researchers
    documents the German origins, in the Westerwald Region of southern Germany, of more than 265 individuals and/or families which emigrated to America in the mid-18th century. Their German
