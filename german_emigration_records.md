@@ -292,7 +292,7 @@ survived.
 
 -   [Auswanderer aus Villingendorf](https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/labw_auswanderer/12763/Auswanderer%20aus%20Villingendorf)
     
--   [Auswanderer der Gemeinde Unterschlechtbach; ein Beitrag zum Schwäbischen Weltwanderbuch](https://www.zvab.com/buch-suchen/titel/auswanderer-der-gemeinde-unterschlechtbach/autor/ackermann/)\
+-   [Auswanderer der Gemeinde Unterschlechtbach; ein Beitrag zum Schwäbischen Weltwanderbuch](https://www.zvab.com/buch-suchen/titel/auswanderer-der-gemeinde-unterschlechtbach/autor/ackermann/)
     **Author:**Ackermann, Gotthilf\
     **Publisher:** Self Publishing, 1936\
     List of emigrants from Unterschlechtbach.   
@@ -313,7 +313,7 @@ survived.
         Rödinghausen, Kirchlengern and Gohfeld-Mennighüffen in the 19th
         century", September 1990.
 
--   [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)\
+-   [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
     by Monika Minninger.
 
     The archivist Dr. Monika Minninger (1941-2010) published a list of emigrants from the city and district
@@ -603,19 +603,24 @@ survived.
 
 ## Note to self: I have checked the accuracy of the link below and all those that follow for Annette Kunselman Burgett
 
--  [Westerwald to America : some 18th century German immigrants](https://worldcat.org/title/20526140?oclcNum=20526140)\
+-  [Westerwald to America : some 18th century German immigrants](https://worldcat.org/title/20526140?oclcNum=20526140)
+
    **Authors:** Burgert, Annette Kunselman and Jones, Henry Z Jr.\
+
    **Publisher:** Publisher:Picton Press, Camden, Me., 1989\
+
    **Summary:** 284pp. 9 pages of reproductions of original immigration lists; place index and Every Name index. 2000 (1989) This book by two of the best-known German migration researchers
    documents the German origins, in the Westerwald Region of southern Germany, of more than 265 individuals and/or families which emigrated to America in the mid-18th century. Their German
    ancestry is included and, in many cases, exactly where they settled in Pennsylvania, New Jersey, New York, Maryland, and the Shenandoah Valley of Virginia
 
 -   Works authored by Burgert, Annette Kunselman:
 
-    -  [Master index to the emigrants documented in the published works of Annette K. Burgert, F.A.S.G., F.G.S.P.](https://www.worldcat.org/search?slug=genealogy&q=ti%3AMaster+index+to+the+emigrants+documented+in+the+published+works+of+Annette+K.+Burgert)\
+    -  [Master index to the emigrants documented in the published works of Annette K. Burgert, F.A.S.G., F.G.S.P.](https://www.worldcat.org/search?slug=genealogy&q=ti%3AMaster+index+to+the+emigrants+documented+in+the+published+works+of+Annette+K.+Burgert)
+
        **Publisher:** AKB Publications, Myerstown, Pa., 2000
 
-    -  [Brethren from Gimbsheim in the Palatinate to Ephrata and Bermudian in Pennsylvania](https://worldcat.org/title/31199348?oclcNum=31199348)\
+    -  [Brethren from Gimbsheim in the Palatinate to Ephrata and Bermudian in Pennsylvania](https://worldcat.org/title/31199347?oclcNum=31199348)
+
        **Publisher:** AKB Publications, Myerstown, PA, ©1994
        
        **Summary:** Some 22 men with families immigrated in 1749 and 1751 from Gimbsheim, Hessen, Germany, to America eventually
@@ -626,59 +631,63 @@ survived.
               
        **Summary:** List of 18th century emigrants from Freinsheim who settled in Pennsylvania; contains extensive genealogical information.  
 
-    -  [Early Pennsylvania pioneers from Mutterstadt in the Palatinate](https://worldcat.org/title/18080589)\  
+    -  [Early Pennsylvania pioneers from Mutterstadt in the Palatinate](https://worldcat.org/title/18080589)
+
        **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
 
        **Summary:** List of 18th century immigrants to Pennsylvania
        from Mutterstadt; contains extensive genealogical information.  
 
     -  [Eighteenth century emigrants from German-speaking lands to North
-       America](https://worldcat.org/search?q=_Eighteenth+century+emigrants+from+German-speaking+lands+to+North+America)  
+       America](https://worldcat.org/search?q=_Eighteenth+century+emigrants+from+German-speaking+lands+to+North+America)
+
        **Publisher:** Pennsylvania German Society, Birdsboro, Pa., 1985
 
        **Summary:** Volume 1 lists emigrants from the Northern Kraichgau; volume 2, emigrants from the Western Palatinate. Both
        volumes include considerable genealogical information as well as indexes of ships, European place names, and surnames.  
+
        **Contents:**
 
        -   v\. 1. The Northern Kraichgau
 
        -   v\. 2. The Western Palatinate   
 
-    -  [Eighteenth and nineteenth century emigrants from Lachen-Speyerdorf in the Palatinate](https://worldcat.org/title/20662221?oclcNum=20662221)\
+    -  [Eighteenth and nineteenth century emigrants from Lachen-Speyerdorf in the Palatinate](https://worldcat.org/title/20662221?oclcNum=20662221)
+
        **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1989
 
        **Summary:** Immigrants came from Lachen-Speyerdorf, Bayern, Germany, and settled in various parts of Pennsylvania  
 
-    -  [Eighteenth century emigrants from Langenselbold in Hesse to America](https://worldcat.org/title/38050507) \
+    -  [Eighteenth century emigrants from Langenselbold in Hesse to America](https://worldcat.org/title/38050507)
        **Publisher:** AKB Publications, Myerstown, Pa., 1997
 
        **Summary:** The emigrants from the Langenselbold area settled mainly in Berks County, Pennsylvania. A large group settled in
        Lower Heidelberg Township. Also includes emigrants who went to New York in 1710
 
-    -  [Eighteenth-century emigrants from Pfungstadt, Hessen-Darmstadt to Pennsylvania](https://worldcat.org/title/747097646?oclcNum=747097646)\
+    -  [Eighteenth-century emigrants from Pfungstadt, Hessen-Darmstadt to Pennsylvania](https://worldcat.org/title/747097646?oclcNum=747097646)
        **Publisher:** Masthof Press, Morgantown, Pa., 2011 ©1995
 
        **Summary:** List of 18th century emigrants from Pfungstadt who settled in Pennsylvania; contains extensive genealogical
        information.  
 
-    -  [Eighteenth Century Emigrants from the Northern Alsace to America](https://worldcat.org/title/27244738)\
+    -  [Eighteenth Century Emigrants from the Northern Alsace to America](https://worldcat.org/title/27244738)
        **Publisher:** Picton Press ; Available from AKB Publications, Camden, Me., Myerstown, Pa. (691 Weavertown Rd., Myerstown 17067-2642), ©1992\
 
        **Summary:** "Prepared for distribution to members of the Pennsylvania German Society during 1992 
        as Volume XXVI in its series of publications on Pennsylvania German history and culture". 
        Alphabetical list of emigrants from the Northern Alsace, now part of France; contains indexes of ships and surnames.  
 
-    -  [Eighteenth century Pennsylvania emigrants from Hassloch and Böhl in the Palatinate](https://worldcat.org/title/10276565?oclcNum=10276565)\
+    -  [Eighteenth century Pennsylvania emigrants from Hassloch and Böhl in the Palatinate](https://worldcat.org/title/10276565?oclcNum=10276565)
        **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
 
        **Summary:** A list of 18th century emigrants who settled in Pennsylvania; contains extensive genealogical information.  
 
-    -  [Emigrants from Eppingen to America in the eighteenth and nineteenth centuries](https://worldcat.org/search?q=Emigrants+from+Eppingen+to+America+in+the+eighteenth+and+nineteenth+centuries)\
+    -  [Emigrants from Eppingen to America in the eighteenth and nineteenth centuries](https://worldcat.org/search?q=Emigrants+from+Eppingen+to+America+in+the+eighteenth+and+nineteenth+centuries)
        **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1987
 
        **Summary:** List of emigrants from Eppingen; contains considerable genealogical information.
 
-    -  [Grossgartach, Wuerttemberg, to Pennsylvania  : some early colonial German immigrants](https://worldcat.org/title/42249159)\
+    -  [Grossgartach, Wuerttemberg, to Pennsylvania  : some early colonial German immigrants](https://worldcat.org/title/42249159)
        **Publisher:** AKB Publications, Myerstown, Pa., 1999.
 
        **Summary:**
@@ -689,34 +698,36 @@ survived.
 
        **Summary:** A list of emigrants from Hochstadt who settled in Berks County, Pennsylvania.  
  
-    -  [Palatine origins of some Pennsylvania pioneers](https://www.worldcat.org/title/44927152)\
+    -  [Palatine origins of some Pennsylvania pioneers](https://www.worldcat.org/title/44927152)
        **Author:** Annette K. Burgert\
        **Publisher:** AKB Publications, Myerstown, Pa., 2000.
 
        **Summary:** "This volume is not intended to be a complete record of the families mentioned. The sole purpose is to provide the information on the emigrating generation from the German church records, with enough substantiating evidence from Pennsylvania records to attempt to prove the connection"--Introd. p. xvii
        
-    -  [Pennsylvania pioneers from Wolfersweiler Parish, Saarland, Germany](https://www.worldcat.org/title/10331747?oclcNum=10331747)\
+    -  [Pennsylvania pioneers from Wolfersweiler Parish, Saarland, Germany](https://www.worldcat.org/title/10331747?oclcNum=10331747)
        **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
 
        **Summary:** Summary:Wolfersweiler is part of Nohfelden, Oldenburg, Germany. A list of 18th century emigrants from Wolfersweiler Parish, who settled in Pennsylvania; contains extensive genealogical  information.  
 
-    -  [York County pioneers from Friedelsheim and Gönnheim in the Palatinate](https://www.worldcat.org/title/10940174?oclcNum=10940174)\
+    -  [York County pioneers from Friedelsheim and Gönnheim in the Palatinate](https://www.worldcat.org/title/10940174?oclcNum=10940174)
        **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1984
 
        **Summary:** Immigrants came from Friedelsheim and Gönnheim in Bayern, Germany. A list of 18th century Palatine emigrants who settled in York County, Pennsylvania.
 
-    -  [Emigrants from Baden and Württemberg in the Eighteenth Century](https://worldcat.org/title/36712834)\
+    -  [Emigrants from Baden and Württemberg in the Eighteenth Century](https://worldcat.org/title/36712834)
        **Publisher:** Publisher:Picton Press, Camden, Me., ©1996-
 
        **Contents:** Baden-Durlach and vicinity
 
 ## Note to self: I have checked these sources up to RESUME at A
 
--   [Amish immigrants of Waldeck and Hesse : a record of 263 immigrants, with a record of their descendants to those who were married by about 1865, plus historical records of Germany, shiplists, etc.](https://worldcat.org/title/29649380?oclcNum=29649380)\
-    **Author:** John M. Byler\
+-   [Amish immigrants of Waldeck and Hesse : a record of 263 immigrants, with a record of their descendants to those who were married by about 1865, plus historical records of Germany, shiplists, etc.](https://worldcat.org/title/29649380?oclcNum=29649380)
+
+    **Author:** John M. Byler
+
     **Publisher:** J.M. Byler, Bellville, OH, 1993
 
--   [Cooper County, Missouri Immigration Records](https://www.mogenweb.org/cooper/CooperBitsImmig.htm)\
+-   [Cooper County, Missouri Immigration Records](https://www.mogenweb.org/cooper/CooperBitsImmig.htm)
 
     Includes separate databases for emigrants from Sachsen-Coburg, Sachsen-Kronach, and Sachsen-Meiningen.  
 
@@ -724,8 +735,10 @@ survived.
 
     CUXAUS is a regional emigration database. Approximately 6,000 records from emigrants of today’s district Cuxhaven for the period between about 1830 and 1930 are available – almost all of them imply the destination New York
 
--   [Mercenary troops from Anhalt-Zerbst, Germany, who served with the British forces during the American Revolution](https://worldcat.org/search?q=1940+Mercenary+troops+from+Anhalt-Zerbst%2C+Germany%2C+who+served+with+the+British+forces+during+the+American+Revolution)\
-    **Author:** Virginia Easley DeMarce\
+-   [Mercenary troops from Anhalt-Zerbst, Germany, who served with the British forces during the American Revolution](https://worldcat.org/search?q=1940+Mercenary+troops+from+Anhalt-Zerbst%2C+Germany%2C+who+served+with+the+British+forces+during+the+American+Revolution)
+
+    **Author:** Virginia Easley DeMarce
+
     **Publisher:** Westland Publications, McNeal, Ariz., 1984
 
     **Contents:**\
@@ -737,20 +750,26 @@ survived.
 
     Graph showing the German emigration to the United States, 1820-1915.
 
--   [Die Auswanderung in die Neuengland-Staaten aus Orten des Enzkreises im 18. Jahrhundert](https://worldcat.org/title/4711293?oclcNum=4711293)\
-    **Author:** Ehmann, Karl\
+-   [Die Auswanderung in die Neuengland-Staaten aus Orten des Enzkreises im 18. Jahrhundert](https://worldcat.org/title/4711293?oclcNum=4711293)
+
+    **Author:** Ehmann, Karl
+
     **Publisher:** Publisher:Verein für Familien- und Wappenkunde, Stuttgart, 1977
 
     **Notes:** "Südwestdeutsche Blätter für Familien- und Wappenkunde. Sonderheft 1977."  
     Lists emigrants to New England from towns in the Enz district of Baden-Württemberg during the 18th century.  
 
--   [Hamburg Passenger Lists, 1850-1934, on Ancestry.com](https://www.ancestry.com/search/collections/1068/)\
+-   [Hamburg Passenger Lists, 1850-1934, on Ancestry.com](https://www.ancestry.com/search/collections/1068/)
+
     **Source Information:** Hamburg State Archives\
-    Hamburg Passenger Lists, 1850-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2008.\
+    Hamburg Passenger Lists, 1850-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2008.
+
     **Original data:** Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1701 - K 2008, S 17363 - S 17383, 13116 - 13183.
 
--   [Hamburg Passenger Lists, Handwritten Indexes, 1855-1934](https://www.ancestry.com/search/collections/1166/)\
+-   [Hamburg Passenger Lists, Handwritten Indexes, 1855-1934](https://www.ancestry.com/search/collections/1166/)
+
     **Source Information:** Hamburg State Archives Ancestry.com. Hamburg Passenger Lists, Handwritten Indexes, 1855-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2007.\
+
     **Original data:** Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1871 - K 1962, S 17363 - S 17383, 13174 - 13183.
 
     **About:**\ 
@@ -759,21 +778,24 @@ survived.
     indexes can assist you in finding your ancestor in the original passenger lists for the years 1855-1934, and are especially helpful for locating records for those years
     that have not yet been electronically indexed.
 
--   [Emigrants to America from Herford, Hiddenhausen, and Vlotho in the nineteenth century](https://worldcat.org/title/27977499?oclcNum=27977499)\
-    **Author:** Kreisheimatverein Herford\
-    **Publisher:** Kreisheimatverein Herford, Herford, ©1989\
+-   [Emigrants to America from Herford, Hiddenhausen, and Vlotho in the nineteenth century](https://worldcat.org/title/27977499?oclcNum=27977499)
 
--   [Emigration and settlement patterns of German communities in North America](https://worldcat.org/title/34068081)\
-    **Authors:** Eberhard Reichmann, La Vern J. Rippley, Jörg Nagler, Max Kade German-American Center (IUPUI)\
+    **Author:** Kreisheimatverein Herford
+
+    **Publisher:** Kreisheimatverein Herford, Herford, ©1989
+
+-   [Emigration and settlement patterns of German communities in North America](https://worldcat.org/title/34068081)
+    **Authors:** Eberhard Reichmann, La Vern J. Rippley, Jörg Nagler, Max Kade German-American Center (IUPUI)
     **Publisher:** Max Kade German-American Center, Indiana University-Purdue University at Indianapolis ; Produced and distributed by NCSA LITERATUR, Indianapolis, Ind., Nashville, IN, ©1995
 
     **Summary:** "The present volume contains articles based on papers delivered at the conference on 'Emigration and Settlement Patterns of German Communities in North America', held at New Harmony, Indiana, on Sept. 28-Oct. 1 1989'--Pref
     
--   [Emigration database Lippe](http://lippe-auswanderer.de)\
-    [Alphabetical List of Emigrant Surnames with Dates](http://www.lippe-auswanderer.de/AuswandererLippe-USA/html/frames.htm)\
+-   [Emigration database Lippe](http://lippe-auswanderer.de)
+    [Alphabetical List of Emigrant Surnames with Dates](http://www.lippe-auswanderer.de/AuswandererLippe-USA/html/frames.htm)
+
     Created by members of the genealogical group within the Naturwissenschaftlicher und Historischer Verein für das Land Lippe (Natural Science and Historical Society for the Land of Lippe).
 
--   [Emigration from Southwest Germany](https://www.landesarchiv-bw.de/de/themen/portale/74937?template=a_artikel&id=6591&sprache=en)\
+-   [Emigration from Southwest Germany](https://www.landesarchiv-bw.de/de/themen/portale/74937?template=a_artikel&id=6591&sprache=en)
     Baden-Württemberg Emigration Database of the National Archives of Baden-Württemberg.  
 
 -   [Emigration out of Schleswig-Holstein, 19th century](http://www.rootdigger.de/Emi.htm)
@@ -812,6 +834,7 @@ survived.
 -   [Emigrants from the Grafschaft of Bentheim.](http://www.dialogos-studies.com/bisemigrants.htm)
 
 -   [Emslanders to the American Mid-West](http://www.emslanders.com/).
+
     This webpage is devoted to the identification of 19th century German
     emigrants who came to America from that part of Hannover known today
     as Emsland, Niedersachsen, and settled in the mid-western United
@@ -839,36 +862,41 @@ survived.
     Eifel region, "with major emphasis on those emigrants whose final
     destinations were Illinois, Wisconsin and Michigan."  
 
--   [Genealogie im Oldenburger Münsterland](http://www.familie-bloemer.de/gene/). Lists from the
-    Southern part of Oldenburg, known as "Oldenburger Muensterland"
-    (predominantly Catholic).
+-   [Genealogie im Oldenburger Münsterland](http://www.familie-bloemer.de/gene/). 
 
--   [Genealogische Datenbank der Griesen Gegend / Genealogical Data Base of the Griese Gegend (Mecklenburg)](http://www.griesegegend-online.de/datenbank.htm).
-    Various lists of emigrants; some list only names, other extensive
-    personal information.  
+    Lists from the Southern part of Oldenburg, known as "Oldenburger Muensterland" (predominantly Catholic).
 
--   [Genealogy in Schleswig-Holstein](http://www.genealogy-sh.com/).
-    Homepage of Hans Peter Voss from Steenfeld. Emigrant lists and other
-    genealogical sources.  
+-   [Genealogische Datenbank der Griesen Gegend / Genealogical Data Base of the Griese Gegend (Mecklenburg)](http://www.griesegegend-online.de/datenbank.htm)
+
+    Various lists of emigrants; some list only names, other extensive personal information.  
+
+-   [Genealogy in Schleswig-Holstein](http://www.genealogy-sh.com/)
+
+    Homepage of Hans Peter Voss from Steenfeld. Emigrant lists and other genealogical sources.  
 
 -   [Nassau-Dillenburger Auswanderung nach Amerika im 18.  Jahrhundert](https://www.familysearch.org/ark:/61903/3:1:3QS7-998C-98DB?mode=g&cat=190088)
-    Author: Gerber, Adolf. Online microfilm version of original German
-    volume on Family Search
 
-    -   [The emigration from Nassau-Dillenburg to America in the eighteenth century : the conduct of the governments towards it and the ensuing fates of the emigrants](https://worldcat.org/title/11754850?oclcNum=11754850)
-        English translation. Author: Weirich, Lissy L. Comments:
-        Contains an index of emigrants from Nassau-Dillenburg to America
-        in the eighteenth century.  
+    **Author:** Gerber, Adolf.
 
--   [The German Americans: An Ethnic Experience](http://www.ulib.iupui.edu/kade/adams/toc.html).  
+    Online microfilm version of original German volume on Family Search
+
+-   [The emigration from Nassau-Dillenburg to America in the eighteenth century : the conduct of the governments towards it and the ensuing fates of the emigrants](https://worldcat.org/title/11754850?oclcNum=11754850)
+
+    **Author:** Weirich, Lissy L. English translation. 
+
+    **Comments:** Contains an index of emigrants from Nassau-Dillenburg to America in the eighteenth century.  
+
+-   [The German Americans: An Ethnic Experience](http://www.ulib.iupui.edu/kade/adams/toc.html)  
 
 -   [German and American Sources for German Emigration to America](http://www.genealogienetz.de/misc/emig/emigrati.html)
-    Author: Michael P. Palmer. Summary: An encyclopedia type article
-    about emigration including types of records, sources for ship lists,
-    ports used, etc.
 
--   [THE GERMAN AND JEWISH INTELLECTUAL ÉMIGRÉ COLLECTION](http://library.albany.edu/speccoll/emigre.htm#emigre).
-    Summary: In recognition of the serious scholarly interest in the
+    **Author:** Michael P. Palmer. 
+
+    **Summary: **An encyclopedia type article about emigration including types of records, sources for ship lists, ports used, etc.
+
+-   [THE GERMAN AND JEWISH INTELLECTUAL ÉMIGRÉ COLLECTION](http://library.albany.edu/speccoll/emigre.htm#emigre)
+
+    **Summary:** In recognition of the serious scholarly interest in the
     mass migration of German speaking exiles from the Nazi regime, a
     German and Jewish Intellectual Émigré Collection was established in
     1976 at the University at Albany, State University of New York. The
@@ -878,7 +906,8 @@ survived.
     related research materials documenting the German intellectual
     exodus of the 1930s and 1940s.
 
--   [German Emigrants to South Australia, 1837-1860](http://www.theshipslist.com/ships/australia/SAgermanindex.htm).
+-   [German Emigrants to South Australia, 1837-1860](http://www.theshipslist.com/ships/australia/SAgermanindex.htm)
+
     These lists have been transcribed from the original passenger lists,
     by Robert Janmaat of Adelaide, who has generously shared them with
     TheShipsList. Where available, extracts regarding a particular ship
@@ -893,28 +922,32 @@ survived.
     contains about 118,000 names. You can also write to: Germanic
     Emigrants Register, Postfach 10 08 22, 51608 Gummersbach, Germany.  
 
--   [German Emigration Center / Deutsches Auswandererhaus](http://www.dah-bremerhaven.de/). The largest
-    emigration museum in Europe. Since 1830, more than 7 million
+-   [German Emigration Center / Deutsches Auswandererhaus](http://www.dah-bremerhaven.de/)
+
+    The largest emigration museum in Europe. Since 1830, more than 7 million
     Europeans departed from Bremerhaven on their way to the New World.
     The three focal pointsx of the new Center are: experiencing
     migration, tracing roots, and understanding migration.  
 
--   [German Emigration Lists](http://home.att.net/~wee-monster/emigration.html). People who
-    left Germany: this webpage contains links to online German
+-   [German Emigration Lists](http://home.att.net/~wee-monster/emigration.html)
+
+    People who left Germany: this webpage contains links to online German
     emigration lists and indexes. (Requires Ancestry.com membership)  
 
 -   [German Emigration Research by Progenealogists](http://www.progenealogists.com/palproject/articles.htm).
      
 
--   The [German Migration Resource Center](http://www.germanmigration.com/) encourages a world-wide
-    exchange of genealogy information about German immigrants. Visitors
-    may post or read an Immigrant Query, post or locate a German Family
-    Reunion or Festival, and order genealogy books.  
+-   The [German Migration Resource Center](http://www.germanmigration.com/)
 
--   [German Passenger Lists](http://www.saxonyroots.com/ships/). A
-    database of over 110,000 passengers.  
+    Encourages a world-wide exchange of genealogy information about German immigrants. Visitors
+    may post or read an Immigrant Query, post or locate a German Family Reunion or Festival, and order genealogy books.  
 
--   [German Resources](http://www.routes.de/linksammlung/004.htm).
+-   [German Passenger Lists](http://www.saxonyroots.com/ships/)
+
+    A database of over 110,000 passengers.  
+
+-   [German Resources](http://www.routes.de/linksammlung/004.htm)
+
     Detailed listings of local databases. Regional emigrant lists and
     databases.  
 
@@ -929,7 +962,8 @@ survived.
 -   *Germanic Genealogy: A Guide to Worldwide Sources and Migration
     Patterns.* St. Paul, Minnesota: Germanic Genealogy Society, 1995.  
 
--   *Germans to America*, lists of passengers arriving at U.S. ports".
+-   *Germans to America* lists of passengers arriving at U.S. ports".
+
     The book series *Germans to America* is up to volume 60 now. This
     series indexes passenger arrival lists from US ports, giving names,
     ages, occupations, and sometimes places of origin for many German
