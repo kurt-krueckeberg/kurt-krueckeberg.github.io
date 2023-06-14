@@ -687,9 +687,9 @@ survived.
 
 ## Note to self: I have checked these sources up to RESUME at A
 
--   [Amish immigrants of Waldeck and Hesse : a record of 263 immigrants, with a record of their descendants to those who were married by about 1865, plus historical records of Germany, shiplists, etc.](https://worldcat.org/title/29649380?oclcNum=29649380)
-    **Author:** John M. Byler
-    ** Publisher:** J.M. Byler, Bellville, OH, 1993
+-   [Amish immigrants of Waldeck and Hesse : a record of 263 immigrants, with a record of their descendants to those who were married by about 1865, plus historical records of Germany, shiplists, etc.](https://worldcat.org/title/29649380?oclcNum=29649380)\
+    **Author:** John M. Byler\
+    **Publisher:** J.M. Byler, Bellville, OH, 1993
 
 -   [Cooper County, Missouri Immigration Records](https://www.mogenweb.org/cooper/CooperBitsImmig.htm)\ 
     Includes separate databases for emigrants from Sachsen-Coburg, Sachsen-Kronach, and Sachsen-Meiningen.  
@@ -698,60 +698,55 @@ survived.
     CUXAUS is a regional emigration database. Approximately 6,000 records from emigrants of today’s district Cuxhaven for the period between about 1830 and 1930 are available – almost all of them imply the destination New York
 
 -   [Mercenary troops from Anhalt-Zerbst, Germany, who served with the British forces during the American Revolution](https://worldcat.org/search?q=1940+Mercenary+troops+from+Anhalt-Zerbst%2C+Germany%2C+who   +served+with+the+British+forces+during+the+American+Revolution)\
-    **Author:** Virginia Easley DeMarce
-    **Publisher:** Westland Publications, McNeal, Ariz., 1984
-    **Contents:**
-    pt. 1. Surnames A through Kr
-    pt. 2. Surnames Ku through Z
+    **Author:** Virginia Easley DeMarce\
+    **Publisher:** Westland Publications, McNeal, Ariz., 1984\
+    **Contents:**\
+    pt. 1. Surnames A through Kr\
+    pt. 2. Surnames Ku through Z\
     Mercenaries from Anhalt-Zerbst, some of whom stayed in America.
 
 -   [Deutsche Einwanderung in die Vereinigten Staaten, 1820-1915](http://www.forum-auswanderung.de/auswanderung2.html)\
     Graph showing the German emigration to the United States, 1820-1915.
 
--   [Die Auswanderung in die Neuengland-Staaten aus Orten des Enzkreises im 18. Jahrhundert](https://worldcat.org/title/4711293?oclcNum=4711293)
-    **Author:** Ehmann, Karl
-    **Publisher:** Publisher:Verein für Familien- und Wappenkunde, Stuttgart, 1977
+-   [Die Auswanderung in die Neuengland-Staaten aus Orten des Enzkreises im 18. Jahrhundert](https://worldcat.org/title/4711293?oclcNum=4711293)\
+    **Author:** Ehmann, Karl\
+    **Publisher:** Publisher:Verein für Familien- und Wappenkunde, Stuttgart, 1977\
     **Notes:** "Südwestdeutsche Blätter für Familien- und Wappenkunde. Sonderheft 1977."  
     Lists emigrants to New England from towns in the Enz district of Baden-Württemberg during the 18th century.  
 
--   [Hamburg Passenger Lists, 1850-1934, on Ancestry.com](https://www.ancestry.com/search/collections/1068/)
-    Source Information: Hamburg State Archives
-    Staatsarchiv Hamburg. Hamburg Passenger Lists, 1850-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2008.
-    Original data: Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1701 - K 2008, S 17363 - S 17383, 13116 - 13183.
+-   [Hamburg Passenger Lists, 1850-1934, on Ancestry.com](https://www.ancestry.com/search/collections/1068/)\
+    **Source Information:** Hamburg State Archives\
+    Hamburg Passenger Lists, 1850-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2008.\
+    **Original data:** Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1701 - K 2008, S 17363 - S 17383, 13116 - 13183.
 
--   [Hamburg Passenger Lists, Handwritten Indexes, 1855-1934](https://www.ancestry.com/search/collections/1166/)
-    **Source Information:** Hamburg State Archives
-    Ancestry.com. Hamburg Passenger Lists, Handwritten Indexes, 1855-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2007.
-    **Original data:** Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1871 - K 1962, S 17363 - S 17383, 13174 - 13183.
-    **About:** 
+-   [Hamburg Passenger Lists, Handwritten Indexes, 1855-1934](https://www.ancestry.com/search/collections/1166/)\
+    **Source Information:** Hamburg State Archives Ancestry.com. Hamburg Passenger Lists, Handwritten Indexes, 1855-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2007.\
+    **Original data:** Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1871 - K 1962, S 17363 - S 17383, 13174 - 13183.\
+    **About:**\ 
     This database contains handwritten indexes to the passenger lists of ships departing from Hamburg, Germany. The database includes images digitized from microfilm in
     partnership with the Hamburg State Archive. To access the original passenger lists, please refer to the database (Hamburg Passenger Lists, 1850-1934). These handwritten
     indexes can assist you in finding your ancestor in the original passenger lists for the years 1855-1934, and are especially helpful for locating records for those years
     that have not yet been electronically indexed.
 
--   [Emigrants to America from Herford, Hiddenhausen, and Vlotho in the nineteenth century](https://worldcat.org/title/27977499?oclcNum=27977499)
-    **Author:** Kreisheimatverein Herford
-    **Publisher:** Kreisheimatverein Herford, Herford, ©1989
+-   [Emigrants to America from Herford, Hiddenhausen, and Vlotho in the nineteenth century](https://worldcat.org/title/27977499?oclcNum=27977499)\
+    **Author:** Kreisheimatverein Herford\
+    **Publisher:** Kreisheimatverein Herford, Herford, ©1989\
 
--   [Emigration and settlement patterns of German communities in North America](https://worldcat.org/title/34068081)
-    **Authors:** Eberhard Reichmann, La Vern J. Rippley, Jörg Nagler, Max Kade German-American Center (IUPUI)
-    **Summary:** "The present volume contains articles based on papers delivered at the conference on 'Emigration and Settlement Patterns of German Communities in North America', held at New Harmony, Indiana, on 
-    **Publisher:** Max Kade German-American Center, Indiana University-Purdue University at Indianapolis ; Produced and distributed by NCSA LITERATUR, Indianapolis, Ind., Nashville, IN, ©1995
-
--   [Emigration database Lippe](http://lippe-auswanderer.de)
-    [Alphabetical List of Emigrant Surnames with Dates](http://www.lippe-auswanderer.de/AuswandererLippe-USA/html/frames.htm)
+-   [Emigration and settlement patterns of German communities in North America](https://worldcat.org/title/34068081)\
+    **Authors:** Eberhard Reichmann, La Vern J. Rippley, Jörg Nagler, Max Kade German-American Center (IUPUI)\
+    **Publisher:** Max Kade German-American Center, Indiana University-Purdue University at Indianapolis ; Produced and distributed by NCSA LITERATUR, Indianapolis, Ind., Nashville, IN, ©1995\
+    **Summary:** "The present volume contains articles based on papers delivered at the conference on 'Emigration and Settlement Patterns of German Communities in North America', held at New Harmony, Indiana, on Sept. 28-Oct. 1 1989'--Pref
+    
+-   [Emigration database Lippe](http://lippe-auswanderer.de)\
+    [Alphabetical List of Emigrant Surnames with Dates](http://www.lippe-auswanderer.de/AuswandererLippe-USA/html/frames.htm)\
     Created by members of the genealogical group within the Naturwissenschaftlicher und Historischer Verein für das Land Lippe (Natural Science and Historical Society for the Land of Lippe).
 
--   [Emigration from Southwest Germany](https://www.landesarchiv-bw.de/de/themen/portale/74937?template=a_artikel&id=6591&sprache=en).
+-   [Emigration from Southwest Germany](https://www.landesarchiv-bw.de/de/themen/portale/74937?template=a_artikel&id=6591&sprache=en)\
     Baden-Württemberg Emigration Database of the National Archives of Baden-Württemberg.  
 
--   [Emigration out of Schleswig-Holstein, 19th century](http://www.rootdigger.de/Emi.htm). 
-    At least 55,000 native
-    Schleswigers and Holsteiners who really emigrated, plus an
-    additional 10 % for errors that there may be, and people that I know
-    did not emigrate from Schleswig or Holstein, but from other places.
-    Searching is free, but emigrant’s place of origin provided by
-    compiler upon fee payment.  
+-   [Emigration out of Schleswig-Holstein, 19th century](http://www.rootdigger.de/Emi.htm)\
+    At least 55,000 native Schleswigers and Holsteiners who really emigrated, plus an additional 10 % for errors that there may be, and people that I know
+    did not emigrate from Schleswig or Holstein, but from other places. Searching is free, but emigrant’s place of origin provided by compiler upon fee payment.  
 
 ## RESUME A HERE:
 
