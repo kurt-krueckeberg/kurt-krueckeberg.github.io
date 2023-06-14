@@ -697,7 +697,7 @@ survived.
 -   [Hapag-Halle Cuxhaven Emigration Database](https://hapaghalle-cuxhaven.de/en/database-of-emigrants/)\
     CUXAUS is a regional emigration database. Approximately 6,000 records from emigrants of today’s district Cuxhaven for the period between about 1830 and 1930 are available – almost all of them imply the destination New York
 
--   [Mercenary troops from Anhalt-Zerbst, Germany, who served with the British forces during the American Revolution](https://worldcat.org/search?q=1940+Mercenary+troops+from+Anhalt-Zerbst%2C+Germany%2C+who   +served+with+the+British+forces+during+the+American+Revolution)\
+-   [Mercenary troops from Anhalt-Zerbst, Germany, who served with the British forces during the American Revolution](https://worldcat.org/search?q=1940+Mercenary+troops+from+Anhalt-Zerbst%2C+Germany%2C+who+served+with+the+British+forces+during+the+American+Revolution)\
     **Author:** Virginia Easley DeMarce\
     **Publisher:** Westland Publications, McNeal, Ariz., 1984\
     **Contents:**\
