@@ -1,6 +1,6 @@
 # German Emigration Records
 
-## Comment
+## Comments
 
 Most of the information originally here came from the now defunct `Genealoger.com`. It was extracted from the **October 16, 2021,
 WayBackMachine** version of
