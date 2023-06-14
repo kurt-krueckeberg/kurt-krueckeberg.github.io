@@ -608,12 +608,14 @@ survived.
        **Publisher:** AKB Publications, Myerstown, Pa., 2000
 
     -  [Brethren from Gimbsheim in the Palatinate to Ephrata and Bermudian in Pennsylvania](https://worldcat.org/title/31199348?oclcNum=31199348)\
-       **Publisher:** AKB Publications, Myerstown, PA, ©1994\
+       **Publisher:** AKB Publications, Myerstown, PA, ©1994
+       
        **Summary:** Some 22 men with families immigrated in 1749 and 1751 from Gimbsheim, Hessen, Germany, to America eventually
        settling in the Ephrata community in Lancaster County, Pennsylvania, and near Bermudian in York County. Transcripts from all areas are given.
 
     -  [Colonial Pennsylvania immigrants from Freinsheim in the Palatinate](https://worldcat.org/title/20615216?oclcNum=20615216)
-       **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1989\       
+       **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1989
+              
        **Summary:** List of 18th century emigrants from Freinsheim who settled in Pennsylvania; contains extensive genealogical information.  
 
     -  [Early Pennsylvania pioneers from Mutterstadt in the Palatinate](https://worldcat.org/title/18080589)\  
