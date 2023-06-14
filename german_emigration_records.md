@@ -619,13 +619,15 @@ survived.
        **Summary:** List of 18th century emigrants from Freinsheim who settled in Pennsylvania; contains extensive genealogical information.  
 
     -  [Early Pennsylvania pioneers from Mutterstadt in the Palatinate](https://worldcat.org/title/18080589)\  
-       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983\
+       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
+
        **Summary:** List of 18th century immigrants to Pennsylvania
        from Mutterstadt; contains extensive genealogical information.  
 
     -  [Eighteenth century emigrants from German-speaking lands to North
        America](https://worldcat.org/search?q=_Eighteenth+century+emigrants+from+German-speaking+lands+to+North+America)  
-       **Publisher:** Pennsylvania German Society, Birdsboro, Pa., 1985\
+       **Publisher:** Pennsylvania German Society, Birdsboro, Pa., 1985
+
        **Summary:** Volume 1 lists emigrants from the Northern Kraichgau; volume 2, emigrants from the Western Palatinate. Both
        volumes include considerable genealogical information as well as indexes of ships, European place names, and surnames.  
        **Contents:**
@@ -635,56 +637,69 @@ survived.
        -   v\. 2. The Western Palatinate   
 
     -  [Eighteenth and nineteenth century emigrants from Lachen-Speyerdorf in the Palatinate](https://worldcat.org/title/20662221?oclcNum=20662221)\
-       **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1989\
+       **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1989
+
        **Summary:** Immigrants came from Lachen-Speyerdorf, Bayern, Germany, and settled in various parts of Pennsylvania  
 
     -  [Eighteenth century emigrants from Langenselbold in Hesse to America](https://worldcat.org/title/38050507) \
-       **Publisher:** AKB Publications, Myerstown, Pa., 1997\
+       **Publisher:** AKB Publications, Myerstown, Pa., 1997
+
        **Summary:** The emigrants from the Langenselbold area settled mainly in Berks County, Pennsylvania. A large group settled in
        Lower Heidelberg Township. Also includes emigrants who went to New York in 1710
 
     -  [Eighteenth-century emigrants from Pfungstadt, Hessen-Darmstadt to Pennsylvania](https://worldcat.org/title/747097646?oclcNum=747097646)\
-       **Publisher:** Masthof Press, Morgantown, Pa., 2011 ©1995\  
+       **Publisher:** Masthof Press, Morgantown, Pa., 2011 ©1995
+
        **Summary:** List of 18th century emigrants from Pfungstadt who settled in Pennsylvania; contains extensive genealogical
        information.  
 
     -  [Eighteenth Century Emigrants from the Northern Alsace to America](https://worldcat.org/title/27244738)\
        **Publisher:** Picton Press ; Available from AKB Publications, Camden, Me., Myerstown, Pa. (691 Weavertown Rd., Myerstown 17067-2642), ©1992\
-       "Prepared for distribution to members of the Pennsylvania German Society during 1992 
+
+       **Summary:** "Prepared for distribution to members of the Pennsylvania German Society during 1992 
        as Volume XXVI in its series of publications on Pennsylvania German history and culture". 
        Alphabetical list of emigrants from the Northern Alsace, now part of France; contains indexes of ships and surnames.  
 
     -  [Eighteenth century Pennsylvania emigrants from Hassloch and Böhl in the Palatinate](https://worldcat.org/title/10276565?oclcNum=10276565)\
-       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983\
+       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
+
        **Summary:** A list of 18th century emigrants who settled in Pennsylvania; contains extensive genealogical information.  
 
     -  [Emigrants from Eppingen to America in the eighteenth and nineteenth centuries](https://worldcat.org/search?q=Emigrants+from+Eppingen+to+America+in+the+eighteenth+and+nineteenth+centuries)\
-       **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1987\
-       List of emigrants from Eppingen; contains considerable genealogical information.
+       **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1987
+
+       **Summary:** List of emigrants from Eppingen; contains considerable genealogical information.
 
     -  [Grossgartach, Wuerttemberg, to Pennsylvania  : some early colonial German immigrants](https://worldcat.org/title/42249159)\
-       **Publisher:** AKB Publications, Myerstown, Pa., 1999.\ 
+       **Publisher:** AKB Publications, Myerstown, Pa., 1999.
+
+       **Summary:**
        Extensive genealogical information on the 18th century emigrants from Grossgartach who settled in Pennsylvania.  
 
     -  [The Hochstadt origins of some of the early settlers at Host Church, Berks County, Pa](https://worldcat.org/search?q=The+Hochstadt+origins+of+some+of+the+early+settlers+at+)
-       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983\
+       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
+
        **Summary:** A list of emigrants from Hochstadt who settled in Berks County, Pennsylvania.  
  
     -  [Palatine origins of some Pennsylvania pioneers](https://www.worldcat.org/title/44927152)\
        **Author:** Annette K. Burgert\
-       **Publisher:** AKB Publications, Myerstown, Pa., 2000.\
+       **Publisher:** AKB Publications, Myerstown, Pa., 2000.
+
        **Summary:** "This volume is not intended to be a complete record of the families mentioned. The sole purpose is to provide the information on the emigrating generation from the German church records, with enough substantiating evidence from Pennsylvania records to attempt to prove the connection"--Introd. p. xvii
        
     -  [Pennsylvania pioneers from Wolfersweiler Parish, Saarland, Germany](https://www.worldcat.org/title/10331747?oclcNum=10331747)\
-       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983\
+       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
+
        **Summary:** Summary:Wolfersweiler is part of Nohfelden, Oldenburg, Germany. A list of 18th century emigrants from Wolfersweiler Parish, who settled in Pennsylvania; contains extensive genealogical  information.  
 
     -  [York County pioneers from Friedelsheim and Gönnheim in the Palatinate](https://www.worldcat.org/title/10940174?oclcNum=10940174)\
-       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1984\
+       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1984
+
        **Summary:** Immigrants came from Friedelsheim and Gönnheim in Bayern, Germany. A list of 18th century Palatine emigrants who settled in York County, Pennsylvania.
 
     -  [Emigrants from Baden and Württemberg in the Eighteenth Century](https://worldcat.org/title/36712834)\
-       **Publisher:** Publisher:Picton Press, Camden, Me., ©1996-\
+       **Publisher:** Publisher:Picton Press, Camden, Me., ©1996-
+
        **Contents:** Baden-Durlach and vicinity
 
 ## Note to self: I have checked these sources up to RESUME at A
@@ -693,26 +708,31 @@ survived.
     **Author:** John M. Byler\
     **Publisher:** J.M. Byler, Bellville, OH, 1993
 
--   [Cooper County, Missouri Immigration Records](https://www.mogenweb.org/cooper/CooperBitsImmig.htm)\ 
+-   [Cooper County, Missouri Immigration Records](https://www.mogenweb.org/cooper/CooperBitsImmig.htm)\
+
     Includes separate databases for emigrants from Sachsen-Coburg, Sachsen-Kronach, and Sachsen-Meiningen.  
 
--   [Hapag-Halle Cuxhaven Emigration Database](https://hapaghalle-cuxhaven.de/en/database-of-emigrants/)\
+-   [Hapag-Halle Cuxhaven Emigration Database](https://hapaghalle-cuxhaven.de/en/database-of-emigrants/)
+
     CUXAUS is a regional emigration database. Approximately 6,000 records from emigrants of today’s district Cuxhaven for the period between about 1830 and 1930 are available – almost all of them imply the destination New York
 
 -   [Mercenary troops from Anhalt-Zerbst, Germany, who served with the British forces during the American Revolution](https://worldcat.org/search?q=1940+Mercenary+troops+from+Anhalt-Zerbst%2C+Germany%2C+who+served+with+the+British+forces+during+the+American+Revolution)\
     **Author:** Virginia Easley DeMarce\
-    **Publisher:** Westland Publications, McNeal, Ariz., 1984\
+    **Publisher:** Westland Publications, McNeal, Ariz., 1984
+
     **Contents:**\
     - pt. 1. Surnames A through Kr
     - pt. 2. Surnames Ku through Z
     Mercenaries from Anhalt-Zerbst, some of whom stayed in America.
 
--   [Deutsche Einwanderung in die Vereinigten Staaten, 1820-1915](http://www.forum-auswanderung.de/auswanderung2.html)\
+-   [Deutsche Einwanderung in die Vereinigten Staaten, 1820-1915](http://www.forum-auswanderung.de/auswanderung2.html)
+
     Graph showing the German emigration to the United States, 1820-1915.
 
 -   [Die Auswanderung in die Neuengland-Staaten aus Orten des Enzkreises im 18. Jahrhundert](https://worldcat.org/title/4711293?oclcNum=4711293)\
     **Author:** Ehmann, Karl\
-    **Publisher:** Publisher:Verein für Familien- und Wappenkunde, Stuttgart, 1977\
+    **Publisher:** Publisher:Verein für Familien- und Wappenkunde, Stuttgart, 1977
+
     **Notes:** "Südwestdeutsche Blätter für Familien- und Wappenkunde. Sonderheft 1977."  
     Lists emigrants to New England from towns in the Enz district of Baden-Württemberg during the 18th century.  
 
@@ -723,7 +743,8 @@ survived.
 
 -   [Hamburg Passenger Lists, Handwritten Indexes, 1855-1934](https://www.ancestry.com/search/collections/1166/)\
     **Source Information:** Hamburg State Archives Ancestry.com. Hamburg Passenger Lists, Handwritten Indexes, 1855-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2007.\
-    **Original data:** Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1871 - K 1962, S 17363 - S 17383, 13174 - 13183.\
+    **Original data:** Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1871 - K 1962, S 17363 - S 17383, 13174 - 13183.
+
     **About:**\ 
     This database contains handwritten indexes to the passenger lists of ships departing from Hamburg, Germany. The database includes images digitized from microfilm in
     partnership with the Hamburg State Archive. To access the original passenger lists, please refer to the database (Hamburg Passenger Lists, 1850-1934). These handwritten
@@ -736,7 +757,8 @@ survived.
 
 -   [Emigration and settlement patterns of German communities in North America](https://worldcat.org/title/34068081)\
     **Authors:** Eberhard Reichmann, La Vern J. Rippley, Jörg Nagler, Max Kade German-American Center (IUPUI)\
-    **Publisher:** Max Kade German-American Center, Indiana University-Purdue University at Indianapolis ; Produced and distributed by NCSA LITERATUR, Indianapolis, Ind., Nashville, IN, ©1995\
+    **Publisher:** Max Kade German-American Center, Indiana University-Purdue University at Indianapolis ; Produced and distributed by NCSA LITERATUR, Indianapolis, Ind., Nashville, IN, ©1995
+
     **Summary:** "The present volume contains articles based on papers delivered at the conference on 'Emigration and Settlement Patterns of German Communities in North America', held at New Harmony, Indiana, on Sept. 28-Oct. 1 1989'--Pref
     
 -   [Emigration database Lippe](http://lippe-auswanderer.de)\
@@ -746,18 +768,19 @@ survived.
 -   [Emigration from Southwest Germany](https://www.landesarchiv-bw.de/de/themen/portale/74937?template=a_artikel&id=6591&sprache=en)\
     Baden-Württemberg Emigration Database of the National Archives of Baden-Württemberg.  
 
--   [Emigration out of Schleswig-Holstein, 19th century](http://www.rootdigger.de/Emi.htm)\
-    At least 55,000 native Schleswigers and Holsteiners who really emigrated, plus an additional 10 % for errors that there may be, and people that I know
+-   [Emigration out of Schleswig-Holstein, 19th century](http://www.rootdigger.de/Emi.htm)
+
+    At least 55,000 native Schleswigers and Holsteiners who really emigrated, plus an additional 10% for errors that there may be, and people that I know
     did not emigrate from Schleswig or Holstein, but from other places. Searching is free, but emigrant’s place of origin provided by compiler upon fee payment.  
 
 ## RESUME A HERE:
 
 -   [Emigrant List from the former Duchy of Braunschweig 1846-1871](http://www.thomas-erbe.de/ahnen/buch/001.htm) except the
-    City of Braunschweig & the County of Holzminden, by Fritz Gruhne
-    (surnames from the book)  
+    City of Braunschweig & the County of Holzminden, by Fritz Gruhne (surnames from the book)  
 
--   [Emigrants from Elmsland, Niedersachsen to the American Mid-West (19th Century)](http://www.emslanders.com/). Mostly to Illinois &
-    Missouri.  
+-   [Emigrants from Elmsland, Niedersachsen to the American Mid-West (19th Century)](http://www.emslanders.com/).
+
+    Mostly to Illinois & Missouri.  
 
 -   [Emigrants from Kreis Meschede and Kreis Olpe (Westfalen) to the USA](http://www.westphalia-emigration.de/)  
 
