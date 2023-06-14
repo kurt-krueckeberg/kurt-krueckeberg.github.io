@@ -593,9 +593,18 @@ survived.
     Society’s Zeitschrift."  An "index to Mulheim emigrants" who came to
     Germantown (now a part of Philadelphia) is on pages 48-49.  
 
-## I have checked these sources up to RESUME A
+## Note to self: I have checked the accuracy of the link below and all those that follow for Annette Kunselman Burgett
+
+-   Burgert, Annette Kunselman and Jones, Henry Z Jr.
+    [Westerwald to America : some 18th century German immigrants](https://worldcat.org/title/20526140?oclcNum=20526140)
+    **Publisher:** Publisher:Picton Press, Camden, Me., 1989
+    **Summary:** 284pp. 9 pages of reproductions of original immigration lists; place index and Every Name index. 2000 (1989) This book by two of the best-known German migration researchers documents the German origins, in the Westerwald Region of southern Germany, of more than 265 individuals and/or families which emigrated to America in the mid-18th century. Their German ancestry is included and, in many cases, exactly where they settled in Pennsylvania, New Jersey, New York, Maryland, and the Shenandoah Valley of Virginia
 
 -   Burgert, Annette Kunselman.  
+
+    -  [Master index to the emigrants documented in the published works of Annette K. Burgert, F.A.S.G., F.G.S.P.](https://www.worldcat.org/search?slug=genealogy&q=ti%3AMaster+index+to+the+emigrants+documented+in+the+published+works+of+Annette+K.+Burgert)
+       **Author:** Annette K. Burgert
+       **Publisher:** AKB Publications, Myerstown, Pa., 2000
 
     -  [Brethren from Gimbsheim in the Palatinate to Ephrata and Bermudian in Pennsylvania](https://worldcat.org/title/31199348?oclcNum=31199348)
        **Publisher:** AKB Publications, Myerstown, PA, ©1994  
@@ -674,47 +683,23 @@ survived.
     -  [The Hochstadt origins of some of the early settlers at Host Church, Berks County, Pa](https://worldcat.org/search?q=The+Hochstadt+origins+of+some+of+the+early+settlers+at+)
        **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
        A list of emigrants from Hochstadt who settled in Berks County, Pennsylvania.  
+ 
+    -  [Palatine origins of some Pennsylvania pioneers](https://www.worldcat.org/title/44927152)
+       **Author:** Annette K. Burgert
+       **Publisher:** AKB Publications, Myerstown, Pa., 2000.  
+       **Summary:** "This volume is not intended to be a complete record of the families mentioned. The sole purpose is to provide the information on the emigrating generation from the German church records, with enough substantiating evidence from Pennsylvania records to attempt to prove the connection"--Introd. p. xvii
+       
+    -  [Pennsylvania pioneers from Wolfersweiler Parish, Saarland, Germany](https://www.worldcat.org/title/10331747?oclcNum=10331747)
+       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
+       **Summary:** Summary:Wolfersweiler is part of Nohfelden, Oldenburg, Germany. A list of 18th century emigrants from Wolfersweiler Parish, who settled in Pennsylvania; contains extensive genealogical  information.  
 
-## RESUME A
+    -  [York County pioneers from Friedelsheim and Gönnheim in the Palatinate](https://www.worldcat.org/title/10940174?oclcNum=10940174)
+       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1984
+       **Summary:** Immigrants came from Friedelsheim and Gönnheim in Bayern, Germany. A list of 18th century Palatine emigrants who settled in York County, Pennsylvania.
 
--   Burgert, Annette Kunselman (continued--still to be checked)
-
-    -  Master index to the emigrants documented in the published works
-       of Annette K. Burgert\_, F.A.S.G., F.G.S.P.  
-       Myerstown, Pa. : AKB Publications, \[1993?\]  An alphabetical
-       index to the  
-       names of German emigrants published in thirteen volumes compiled
-       by  
-       Annette K. Burgert.  
-
-    -  Palatine origins of some Pennsylvania pioneers.\_ Myerstown, Pa.
-       : AKB Publications, 2000. Extensive  
-       genealogical information for more than 600 Palatine immigrants
-       to  
-       Pennsylvania.  
-
-    -  Pennsylvania pioneers from Wolfersweiler Parish, Saarland,
-       Germany\_. \[Worthington, OH\] (P.O. Box 93, Worthington  
-       43085) : AKB Publications, \[c1983\]  A list of 18th century
-       emigrants  
-       from Wolfersweiler Parish, who settled in Pennsylvania;
-       contains  
-       extensive genealogical information.  
-
-    -  Westerwald to America : some 18th century German immigrants\_ /
-       by Annette Kunselman Burgert and Henry Z Jones, Jr.  
-       Camden, Me. : Picton Press, 1989. List of 18th century
-       emigrants;  
-       contains considerable genealogical information.  
-
-    -  York County pioneers from Friedelsheim and Gönnheim in the
-       Palatinate\_. Worthington, OH (P.O. Box 93,  
-       Worthington 43085) : AKB Publications, c1984. A list of 18th
-       century  
-       Palatine emigrants who settled in York County, Pennsylvania.  
-         [Emigrants from Baden and Württemberg in the Eighteenth Century](https://worldcat.org/title/36712834). Publisher: Picton
-       Press, Camden, Me., ©1996. Volume 1 contains an alphabetical
-       list of emigrants from Baden-Durlach and vicinity.
+    -  [Emigrants from Baden and Württemberg in the Eighteenth Century](https://worldcat.org/title/36712834)
+       **Publisher:** Publisher:Picton Press, Camden, Me., ©1996-
+       **Contents:** Baden-Durlach and vicinity
 
 ## I have checked these sources up to RESUME B
 
