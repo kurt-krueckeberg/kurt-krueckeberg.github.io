@@ -596,11 +596,8 @@ survived.
 ## Note to self: I have checked the accuracy of the link below and all those that follow for Annette Kunselman Burgett
 
 -   Burgert, Annette Kunselman and Jones, Henry Z Jr.
-
     - [Westerwald to America : some 18th century German immigrants](https://worldcat.org/title/20526140?oclcNum=20526140)
-
       **Publisher:** Publisher:Picton Press, Camden, Me., 1989
-
       **Summary:** 284pp. 9 pages of reproductions of original immigration lists; place index and Every Name index. 2000 (1989) This book by two of the best-known German migration researchers
       documents the German origins, in the Westerwald Region of southern Germany, of more than 265 individuals and/or families which emigrated to America in the mid-18th century. Their German
       ancestry is included and, in many cases, exactly where they settled in Pennsylvania, New Jersey, New York, Maryland, and the Shenandoah Valley of Virginia
@@ -608,9 +605,7 @@ survived.
 -   Burgert, Annette Kunselman.  
 
     -  [Master index to the emigrants documented in the published works of Annette K. Burgert, F.A.S.G., F.G.S.P.](https://www.worldcat.org/search?slug=genealogy&q=ti%3AMaster+index+to+the+emigrants+documented+in+the+published+works+of+Annette+K.+Burgert)
-
        **Author:** Annette K. Burgert
-
        **Publisher:** AKB Publications, Myerstown, Pa., 2000
 
     -  [Brethren from Gimbsheim in the Palatinate to Ephrata and Bermudian in Pennsylvania](https://worldcat.org/title/31199348?oclcNum=31199348)
