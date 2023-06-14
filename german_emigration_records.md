@@ -599,7 +599,9 @@ survived.
 
     - [Westerwald to America : some 18th century German immigrants](https://worldcat.org/title/20526140?oclcNum=20526140)
       **Publisher:** Publisher:Picton Press, Camden, Me., 1989
-      **Summary:** 284pp. 9 pages of reproductions of original immigration lists; place index and Every Name index. 2000 (1989) This book by two of the best-known German migration researchers documents the German origins, in the Westerwald Region of southern Germany, of more than 265 individuals and/or families which emigrated to America in the mid-18th century. Their German ancestry is included and, in many cases, exactly where they settled in Pennsylvania, New Jersey, New York, Maryland, and the Shenandoah Valley of Virginia
+      **Summary:** 284pp. 9 pages of reproductions of original immigration lists; place index and Every Name index. 2000 (1989) This book by two of the best-known German migration researchers
+      documents the German origins, in the Westerwald Region of southern Germany, of more than 265 individuals and/or families which emigrated to America in the mid-18th century. Their German
+      ancestry is included and, in many cases, exactly where they settled in Pennsylvania, New Jersey, New York, Maryland, and the Shenandoah Valley of Virginia
 
 -   Burgert, Annette Kunselman.  
 
