@@ -450,16 +450,17 @@ survived.
     This list of emgirants from Köln was developed by German family researchers who meet monthly in Köln,  
     most of whom are members of the [West German Society for Family History](https://www.wgff.de/) and [CompGen](https://compgen.de)
 
-## TODO: Resume checking here
+-   [Die Auswanderer aus dem Fürstentum Lippe (bis 1877) : Nach ungedruckten und gedruckten Quellen](https://worldcat.org/title/9619390?oclcNum=9619390) / gesammelt und bearbeitet von
 
--   *Die Auswanderer aus dem Fürstentum Lippe (bis 1877) : Nach
-    ungedruckten und gedruckten Quellen* / gesammelt und bearbeitet von
-    Fritz Verdenhalven. Detmold : Naturwissenschaftlicher und
-    Historischer Verein für das Land Lippe, 1980. xxx, 535 p.
-    (Sonderveröffentlichungen des Naturwissenschaftlichen und
-    Historischen Vereins für das Land Lippe, ISSN 0466-6224 ; Bd. 30) A
-    chronological list of emigrants from Lippe up to 1877; contains
-    indexes of surnames and places.
+    **Compiler:** Fritz Verdenhalven
+
+    **Publisher:** Naturwissenschaftlicher und Historischer Verein für das Land Lippe, Detmold, 1980
+
+    **Purchase Information:** It is available from the [Publications of the Naturwissenschaftlichen und Historischen Vereins für das Land Lippe](https://www.nhv-lippe.de/fileadmin/user_upload/Sonderver%C3%B6ffentlichungen/%C3%9Cbersicht_lieferbare_B%C3%A4nde_SV_Internet.pdf)
+    
+    **Contents:** A chronological list of emigrants from Lippe up to 1877; contains indexes of surnames and places.
+
+## TODO: Resume checking here
 
 -   [Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](http://www.genealogienetz.de/vereine/wgff/trier/Familienbuecher/Auswanderer.html)
     (Rhineland). **Note: This link is broken.** Emigrants from the
@@ -1047,23 +1048,22 @@ survived.
     Geschichtsverein, 1971. 293 p. 24 cm. (Quellen und Forschungen zur
     braunschweigischen Geschichte, Bd. 20)  Emigrants are listed by
     town; a surname index follows. Does not include emigrants from the
-    city of Braunschweig and the district of Holzminden. [Every Name Index](http://www.thomas-erbe.de/ahnen/buch/001.htm) to this work.  
+    city of Braunschweig and the district of Holzminden. [Every Name Index](http://www.thomas-erbe.de/ahnen/buch/001.htm) to this work.
+    
+-   Works by Hacker, Werner  
 
--   Hacker, Werner, fl. 1970- *Auswanderungen aus dem früheren Hochstift
-    Speyer nach Südosteuropa und Übersee im XVIII. Jahrhundert : eine
-    Dokumentation in Regestenform nach Unterlagen des Badischen
-    Generallandesarchivs Karlsruhe* / Werner Hacker. Kaiserslautern :
-    Heimatstelle Pfalz, 1969. 145 p. : ill. ; 21 cm.  
+    -   [Auswanderungen aus dem früheren Hochstift Speyer nach Südosteuropa und Übersee im XVIII. Jahrhundert](https://worldcat.org/title/866614269)
 
--   Hacker, Werner, fl. 1970- *Auswanderungen aus dem nördlichen
-    Bodenseeraum im 17. and 18. Jahrhundert : archivalisch dokumentiert*
-    / Werner Hacker. Singen : Verlag Hegau-Geschichtsverein, 1975. xvi,
-    400 p. ; 24 cm.  
+        **Publisher:** Heimatstelle Pfalz, Kaiserslautern, Germany, 1969
 
--   Hacker, Werner, fl. 1970- *Auswanderungen aus dem südöstlichen
-    Schwarzwald zwischen Hochrhein, Baar und Kinzig insbesondere nach
-    Südosteuropa im 17. und 18. Jahrhundert* / Werner Hacker. München :
-    Oldenbourg, 1975. 392 p. : fold. col. map (in pocket); 25 cm.  
+        **Notes:** The emigration from the former diocese of Speyer to southeast Europe and abroad in the 18th century. With index.
+        
+
+    -   [Auswanderungen aus dem nördlichen Bodenseeraum im 17. and 18. Jahrhundert](https://worldcat.org/title/1734912?oclcNum=1734912)
+
+        **Publihser:** Verlag Hegau-Geschichtsverein, Singen, 1975
+    
+-   Auswanderungen aus dem südöstlichen Schwarzwald zwischen Hochrhein, Baar und Kinzig insbesondere nach Südosteuropa im 17. und 18. Jahrhundert(https://worldcat.org/title/471004258)
 
 -   Hacker, Werner, fl. 1970- *Auswanderungen aus Rheinpfalz und
     Saarland im 18. Jahrhundert* / Werner Hacker. Stuttgart : K. Theiss,
