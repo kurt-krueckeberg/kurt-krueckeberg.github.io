@@ -8,7 +8,7 @@ October 16, 2021, WayBackMachine version of www.genealoger.com/german/ger_emigra
 Since the 2013 copyright (that located in the footer in the WayBackMachine version) has expired, the German Emigration Records was converted to Github-flavored Markdown and placed in a github
 repository, from which this website is generated.
 
-Each original entry was double checked (although this process is not complete). Many broken links have been corrected, other sources and their links added; in the case of broken links were no correct current
+Each original entry was double checked (although this process is not complete). Many broken links have been corrected, other sources and their links added; in the case of broken links where no current
 link could be found, the entry was removed.
 
 Kurt Krueckeberg
