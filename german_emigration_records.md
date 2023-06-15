@@ -317,7 +317,8 @@ survived.
        
 
 -   [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
-    by Monika Minninger.
+    
+    **Author:** Monika Minninger.
 
     The archivist Dr. Monika Minninger (1941-2010) published a list of emigrants from the city and district
     of Bielefeld from 1815 to 1900 on the website www.bielefelder-in-nordamerika.de, which was shut down in 2018. The
@@ -325,9 +326,8 @@ survived.
 
 -   [Diekmann, Norbert: Emigrants from Gronau and Epe](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-aus-Gronau-und-Epe.pdf)
 
-    The PDF is a summary of the personal data on emigration collected by
-    Norbert Diekmann in several episodes of the series "Emigrants and
-    'distant' relatives" in the Gronau and Epe civil register
+    The PDF is a summary of the personal data on emigration collected by Norbert Diekmann in several episodes of the series "Emigrants and
+    'distant' relatives" in the Gronau and Epe civil register.
 
 -   [Holz, Martin: List of Münsterland clergymen in 1882 in US-Münsterland Catholic communities](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Aufstellung-M%C3%BCnsterl%C3%A4nder-Geistlicher-1882.pdf)
 
@@ -339,21 +339,20 @@ survived.
 
 -   [Brinkkötter, Alois: Emigration from Greven in Westphalia in the 19th century ](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-Greven.pdf)
 
-    Here you can see a certainly not exhaustive list of 419 women and
-    men and their children who left Greven to start a new and better
-    life in the New World, mainly in North America:
+    Here you can see a certainly not exhaustive list of 419 women and men and their children who left Greven to start a new and better
+    life in the New World, mainly in North America.
 
 -   [Holz, Martin: Auswanderer nach Brasilien](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-nach-Brasilien.pdf).
 
-    Source: Amtsblätter der Königlichen Regierung zu Münster von 1860
-    – 1871. The emigrants are mainly reservists and conscripts who did
+    **Source:** Amtsblätter der Königlichen Regierung zu Münster von 1860–1871. 
+    
+    The emigrants are mainly reservists and conscripts who did
     not follow the mobilization order or the call-up for military
     service and emigrated without permission.
 
 -   [Holz, Martin: German Immigrants from Bremen to New York, 1847-1871](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/German-Immigrants-from-Bremen-to-New-York-1847-1871.pdf)
 
-    In Germany, as in other countries, there are places and farming
-    communities of the same name in different parts of the country. If
+    In Germany, as in other countries, there are places and farming communities of the same name in different parts of the country. If
     you use this source, you have to check the evaluation in the church
     register films or church registers of the localities in the
     Münsterland (worked out by Irmgard Niehaus from Beckum, 62 pages).
@@ -363,38 +362,54 @@ survived.
 
     [Stemwede Emigrant Namelist](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
 
-    Stemwede is in central Germany, between Hannover and Osnabrück, not
-    far from the Dümmer See. Stemwede is a relatively new name for the
-    area, becoming a municipality in 1973 when the villages in the
-    parishes of Levern, Wehdem, Oppenwehe and Dielingen were combined
+    Stemwede is in central Germany, between Hannover and Osnabrück, not far from the Dümmer See. Stemwede is a relatively new name for the
+    area, becoming a municipality in 1973 when the villages in the parishes of Levern, Wehdem, Oppenwehe and Dielingen were combined
     together.
 
--   [Amerikanetz Netzwerk westfälische Amerika-Auswanderung seit dem 19. Jahrhundert.#](http://www.amerikanetz.de/)
+-   Andrusko, Samuel M. [Emigrants from Baden and Württemberg 1816/17, extracted from Aufbruch nach Amerika](https://worldcat.org/title/12104494?oclcNum=12104494)
+    
+    **Publisher:** ublisher:S.M. Andrusko, Silver Spring, Md. (95 E. Wayne Ave., Apt. T-2, Silver Spring 20901), 1984
 
-    **Note: This link is broken. www.amerikanetz.de is no longer online.**\
+    **Notes:** An introduction and English translation of selected information on certain emigrants from Aufbruch nach Amerika / unter Mitarb. von Ingrid Schöberl, hrsg. von Günter
+    Moltmann, 1979 "September 1984."
 
-    Network Westphalian Emigration to America since the 19th century. A loose
-    yet comprehensive network of individuals combing their work on the
-    Westphalian emigration. Many links; also access to databases.  
+-   [Arbeitsgemeinschaft Genealogie Schleswig Holstein](http://www.aggsh.de/german/)
 
--   Andrusko, Samuel M. *Emigrants from Baden and Württemberg 1816/17,
-    extracted from Aufbruch nach Amerika*. Silver Spring, Md. (95 E.
-    Wayne Ave., Apt. T-2, Silver Spring 20901) : S.M. Andrusko, 1984. p.
-    19 An introduction and English translation of selected information
-    on certain emigrants from *Aufbruch nach Amerika* unter Mitarb. von
-    Ingrid Schöberl, hrsg. von Günter Moltmann, 1979. Alphabetical list
-    of certain emigrants mentioned in *Aufbruch nach Amerika*.  
-
--   [Arbeitsgemeinschaft Genealogie Schleswig Holstein](http://www.aggsh.de/german/) (Hans Peter Voß from Kiel).
     Their projects include an emigrant database and transcriptions of
     Schleswig Holstein Census records. Work in progress. Online access
-    is possible, valuable information and data.  
+    is possible, valuable information and data.
+    
+-   [Veröffentlichungen der Archivschule Marburg, Institut (Publications of the Hessian State Archives Marburg)](https://worldcat.org/search?q=se%3AVero%CC%88ffentlichungen%20der%20Archivschule%20Marburg,%20Institut%20fu%CC%88r%20Archivwissenschaft)
 
--   Auerbach, Inge. *Hessische Auswanderer (HesAus) : Index nach
-    Familiennamen*. Marburg :Archivschule Marburg, 1987-\<1988 \> v.
-    \<1-2 \> (Veröffentlichungen der Archivschule Marburg, Institut für
-    Archivwissenschaft ; Nr. 12) Separate lists of Hessian emigrants
-    from Hanau and Hesse-Kassel; includes place of origin.  
+    A list of 265 publications of the Hessian State Archives Marburg
+
+    **TODO:** Check the other volumes in this series for their names and contents.
+    
+-   Works by Auerbach, Inge  
+
+    - [Hessische Auswanderer (HesAus) : Index nach Familiennamen](https://worldcat.org/title/17547925)
+
+      **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
+
+      **Contents:**
+        - Bd. 1. Auswanderer aus Hanau im 18. Jahrhundert
+        - Bd. 2. Auswanderer aus Hessen-Kassel, 1840-1850
+
+      Notes: Vol. 2 has pref. in German and English
+
+      Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.  <-- **TODO: Check this for accuracy!**
+
+    - [Auswanderung aus Kurhessen : nach Osten oder Westen?](https://worldcat.org/title/31413781)
+
+      **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
+
+      **Publisher:** Hessisches Staatsarchiv Marburg, Marburg, 1993
+
+      **Table of Contents:** [here](http://bvbr.bib-bvb.de:8991/exlibris/aleph/a23_1/apache_media/G1LYF7SJM5DBX2Q3VU13UPE1VNXLL3.pdf)     
+
+    - **TODO:** Other works by Inge Auerbach? 
+
+
 
 -   *Auf nach Amerika! : Beiträge zur Amerika-Auswanderung des 19.
     Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der
