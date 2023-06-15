@@ -315,7 +315,6 @@ survived.
     by town then year of emigration, with a name index. Many settled in
     the Middle West.
        
-
 -   [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
     
     **Author:** Monika Minninger.
@@ -326,6 +325,9 @@ survived.
 
 -   [Diekmann, Norbert: Emigrants from Gronau and Epe](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-aus-Gronau-und-Epe.pdf)
 
+    **Format:** PDF
+
+    **Contents:** 
     The PDF is a summary of the personal data on emigration collected by Norbert Diekmann in several episodes of the series "Emigrants and
     'distant' relatives" in the Gronau and Epe civil register.
 
