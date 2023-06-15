@@ -1853,12 +1853,13 @@ survived.
     personal name index.
 
 -   [German immigrants : lists of passengers bound from Bremen to New York \\\[dates\], with places of origin](https://worldcat.org/title/12389585)
-    **Authors:** Gary J.
-    Zimmerman (Compiler), Marion Wolfert (Compiler) **Publisher:**
-    Genealogical Pub. Co., Baltimore, 1993. A partial reconstruction of
-    some Bremen passenger lists, based on American sources. Only those
-    passengers are included for whom a specific place of origin is
-    given. 4 volumes:
+
+    **Authors:** Gary J. Zimmerman (Compiler), Marion Wolfert (Compiler)
+    
+    **Publisher:** Genealogical Pub. Co., Baltimore, 1993. 
+    
+    **Contents:** A partial reconstruction of some Bremen passenger lists, based on American sources. Only those
+    passengers are included for whom a specific place of origin is given. 4 volumes:
 
     -   \[1\] 1847-1854
 
