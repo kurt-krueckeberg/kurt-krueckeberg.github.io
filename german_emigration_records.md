@@ -981,10 +981,6 @@ survived.
     Encourages a world-wide exchange of genealogy information about German immigrants. Visitors
     may post or read an Immigrant Query, post or locate a German Family Reunion or Festival, and order genealogy books.  
 
--   [German Passenger Lists](http://www.saxonyroots.com/ships/)
-
-    A database of over 110,000 passengers.  
-
 -   [German Resources](http://www.routes.de/linksammlung/004.htm)
 
     Detailed listings of local databases. Regional emigrant lists and
