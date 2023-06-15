@@ -640,8 +640,6 @@ survived.
 
     **Notes:** "With also a photocopy of the original German article: Die Auswanderung der Mülheimer nach Pennsylvanien. The original article was published in the December, 1938 issue of the Mülheim Historical Society's Zeitschrift"--Foreword
 
-## Note to self: I have checked the accuracy of the link below and all those that follow for Annette Kunselman Burgett
-
 -  [Westerwald to America : some 18th century German immigrants](https://worldcat.org/title/20526140?oclcNum=20526140)
 
    **Authors:** Burgert, Annette Kunselman and Jones, Henry Z Jr.
@@ -758,8 +756,6 @@ survived.
 
        **Contents:** Baden-Durlach and vicinity
 
-## Note to self: I have checked these sources up to RESUME at A
-
 -   [Amish immigrants of Waldeck and Hesse : a record of 263 immigrants, with a record of their descendants to those who were married by about 1865, plus historical records of Germany, shiplists, etc.](https://worldcat.org/title/29649380?oclcNum=29649380)
 
     **Author:** John M. Byler
@@ -830,11 +826,13 @@ survived.
     **Summary:** "The present volume contains articles based on papers delivered at the conference on 'Emigration and Settlement Patterns of German Communities in North America', held at New Harmony, Indiana, on Sept. 28-Oct. 1 1989'--Pref
     
 -   [Emigration database Lippe](http://lippe-auswanderer.de)
+
     [Alphabetical List of Emigrant Surnames with Dates](http://www.lippe-auswanderer.de/AuswandererLippe-USA/html/frames.htm)
 
     Created by members of the genealogical group within the Naturwissenschaftlicher und Historischer Verein für das Land Lippe (Natural Science and Historical Society for the Land of Lippe).
 
 -   [Emigration from Southwest Germany](https://www.landesarchiv-bw.de/de/themen/portale/74937?template=a_artikel&id=6591&sprache=en)
+
     Baden-Württemberg Emigration Database of the National Archives of Baden-Württemberg.  
 
 -   [Emigration out of Schleswig-Holstein, 19th century](http://www.rootdigger.de/Emi.htm)
@@ -842,12 +840,9 @@ survived.
     At least 55,000 native Schleswigers and Holsteiners who really emigrated, plus an additional 10% for errors that there may be, and people that I know
     did not emigrate from Schleswig or Holstein, but from other places. Searching is free, but emigrant’s place of origin provided by compiler upon fee payment.  
 
-## RESUME A HERE:
+-   [Emigrant List from the former Duchy of Braunschweig 1846-1871](http://www.thomas-erbe.de/ahnen/buch/001.htm) 
 
--   [Emigrant List from the former Duchy of Braunschweig 1846-1871](http://www.thomas-erbe.de/ahnen/buch/001.htm) except the
-    City of Braunschweig & the County of Holzminden, by Fritz Gruhne (surnames from the book)  
-
--   [Emigrants from Elmsland, Niedersachsen to the American Mid-West (19th Century)](http://www.emslanders.com/).
+-   [Emigrants from Elmsland, Niedersachsen to the American Mid-West (19th Century)](http://www.emslanders.com/)
 
     Mostly to Illinois & Missouri.  
 
