@@ -632,16 +632,13 @@ survived.
 
 -   [Bremen Passenger Lists 1920-1939](http://www.schiffslisten.de/index_en.html).  
 
--   Broermann, Karl. *Auswanderung der Mülheimer nach Pennsylvanien*.
-    English & German\] The emigration of the Mülheimers to Pennsylvania
-    : both a local and German culture picture from the 17th century\_.
-    Translated by Rosalie N. Castleberry. Windermere, Fla. (12404
-    Summerport Ln., Windermere 34786) : R.N. Castleberry, c1991. 46
-    p."With also a photocopy of the original German article: Die
-    Auswanderung der Mülheimer nach Pennsylvanien.""The original article
-    was published in the December, 1938 issue of the Mülheim Historical
-    Society’s Zeitschrift."  An "index to Mulheim emigrants" who came to
-    Germantown (now a part of Philadelphia) is on pages 48-49.  
+-   [The emigration of the Mülheimers to Pennsylvania : both a local and German culture picture from the 17th century](https://worldcat.org/title/25464543)
+
+    **Authoer:** Broermann, Karl
+
+    **Publisher:** Publisher:R.N. Castleberry, Windermere, Fla. (12404 Summerport Ln., Windermere 34786), ©1991
+
+    **Notes:** "With also a photocopy of the original German article: Die Auswanderung der Mülheimer nach Pennsylvanien. The original article was published in the December, 1938 issue of the Mülheim Historical Society's Zeitschrift"--Foreword
 
 ## Note to self: I have checked the accuracy of the link below and all those that follow for Annette Kunselman Burgett
 
