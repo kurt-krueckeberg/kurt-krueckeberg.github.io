@@ -378,14 +378,17 @@ survived.
     Their projects include an emigrant database and transcriptions of
     Schleswig Holstein Census records. Work in progress. Online access
     is possible, valuable information and data.
-    
--   [Veröffentlichungen der Archivschule Marburg, Institut (Publications of the Hessian State Archives Marburg)](https://worldcat.org/search?q=se%3AVero%CC%88ffentlichungen%20der%20Archivschule%20Marburg,%20Institut%20fu%CC%88r%20Archivwissenschaft)
 
-    A list of 265 publications of the Hessian State Archives Marburg
-
-    **TODO:** Check the other volumes in this series for their names and contents.
-    
 -   Works by Auerbach, Inge  
+
+    -   [Auswanderer aus Hessen-Kassel 1840-1850](https://worldcat.org/title/866233127)
+        
+        **Author:** Auerbach, Inge
+
+        **Publisher:** Institut für Archivwissenschaft, Marburg, Germany, ©1988 
+
+        **Notes:**\
+        Index of emigrants from Hessen-Cassel, Germany in the years 1840-1850. Shows names, dates, places of origin
 
     - [Hessische Auswanderer (HesAus) : Index nach Familiennamen](https://worldcat.org/title/17547925)
 
@@ -397,7 +400,7 @@ survived.
 
       Notes: Vol. 2 has pref. in German and English
 
-      Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.  <-- **TODO: Check this for accuracy!**
+      Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.  <-- **TODO: Check this statement for accuracy!**
 
     - [Auswanderung aus Kurhessen : nach Osten oder Westen?](https://worldcat.org/title/31413781)
 
@@ -405,31 +408,49 @@ survived.
 
       **Publisher:** Hessisches Staatsarchiv Marburg, Marburg, 1993
 
-      **Table of Contents:** [here](http://bvbr.bib-bvb.de:8991/exlibris/aleph/a23_1/apache_media/G1LYF7SJM5DBX2Q3VU13UPE1VNXLL3.pdf)     
+      **Table of Contents:** [here](http://bvbr.bib-bvb.de:8991/exlibris/aleph/a23_1/apache_media/G1LYF7SJM5DBX2Q3VU13UPE1VNXLL3.pdf)   
 
-    - **TODO:** Other works by Inge Auerbach? 
+    - [Auswanderung aus Kurhessen 1832-1866. Herrn Prof. Dr. Georg Rauch zum 80. geburtstag](https://worldcat.org/title/84333876)
 
+      **Notes:** Extracted from Hessian sheets for folk and cultural research, new volume 17, 1985
 
+-   [Auf nach Amerika! Beiträge zur Amerika-Auswanderung des 19. Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der historischen Beziehungen im 20. Jahrhundert](https://worldcat.org/title/722544364)
 
--   *Auf nach Amerika! : Beiträge zur Amerika-Auswanderung des 19.
-    Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der
-    historischen Beziehungen im 20. Jahrhundert* / herausgegeben vom
-    Deutsch-Amerikanischen Freundeskreis Paderborn-Belleville e.V. in
-    Zusammenarbeit mit dem Stadtarchiv Paderborn durch Ellen Rost, Otmar
-    Allendorf, Rolf-Dietrich Müller. Paderborn : Bonifatius,
-    1994-\<c1999 \> Volume 1, pages 126 to 191, lists emigrants from the
-    city of Paderborn. Volume 2 lists emigrants from the counties of
-    Büren and Paderborn. The arrangement in both volumes is by year of
-    emigration, with a personal name index.  
+    **Author:** Deutsch-Amerikanischer Freundeskreis Paderborn-Belleville (Issuing body)
 
--   *Auswanderer, Aken, Dusseldorf, Koln*. Computer printout
-    (published?) available at: "Das Hauptstaatsarchiv "Dusseldorf",
-    Mauerstrasse, Dusseldorf, Germany.  
+    **Publisher:** Bonifatius-Dr., Buch-Verl, Paderborn, uuuu
 
--   [Online database of Emigrants from Köln](https://altes-koeln.de/wiki/Auswanderer_aus_K%C3%B6ln)  
-    This list of emgirants from Köln was developed by German family
-    researchers who meet monthly in Köln,  
+    **Contents:** 
+
+    - v. 1. city of Paderborn
+    - v. 2. 19th century emigrants from the districts of Büren and Paderborn
+    - v. 3. on emigration to America from the Paderborn region and on immigration from Germany to the region of Paderborn's twin town Belleville, Illinois
+
+    Volume 1, pages 126 to 191, lists emigrants from the city of Paderborn. Volume 2 lists emigrants from the counties of
+    Büren and Paderborn. The arrangement in both volumes is by year of emigration, with a personal name index.  
+
+-   [Auswanderer aus dem Rheinland = Emigrant file Rhineland](https://worldcat.org/title/40132914)
+
+    **Publisher:** Nordrhein-Westfälisches Hauptstaatsarchiv, Düsseldorf, ©1997 
+
+    **Note:** "Emigranten aus den Regierungsbezirken Aachen, Düsseldorf und Köln (Emigrants from the administrative districts of Aachen, Düsseldorf and Cologne), 1816-1934."
+
+-   [Auswanderer aus dem Rheinland (19. Jahrhundert)](https://worldcat.org/title/1152174259)
+
+    **Author:** Landesarchiv Nordrhein-Westfalen
+
+    **Format:** eBook
+
+    **Notes:** A few of the districts covered show names from the 20th century. The linked Excel file is dated 2016. Title from home page (viewed on 27 April 2020)
+
+-   [Online database of Emigrants from Köln](https://altes-koeln.de/wiki/Auswanderer_aus_K%C3%B6ln)
+
+    **Publisher:** [alter Köln (Old Köln) website](https://altes-koeln.de/wiki/Hauptseite)  
+
+    This list of emgirants from Köln was developed by German family researchers who meet monthly in Köln,  
     most of whom are members of the [West German Society for Family History](https://www.wgff.de/) and [CompGen](https://compgen.de)
+
+## TODO: Resume checking here
 
 -   *Die Auswanderer aus dem Fürstentum Lippe (bis 1877) : Nach
     ungedruckten und gedruckten Quellen* / gesammelt und bearbeitet von
