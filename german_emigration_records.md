@@ -1824,18 +1824,22 @@ survived.
     *Wittekindsland — Beiträge zur Geschichte, Kultur und Natur des
     Kreises Herford* (FHL 943.56 H2w).  
 
--   [Westphalian emigrants from the administrative district Minden II : Secret emigrations](http://www.grosseneder.de/GESCHICHTE/MENSCHEN/EMIGRANTS/EMIGRANTS.HTML)
-    : Names of men from Großeneder, Nordrhein-Westfalen, Germany that
-    dodged the military service through secret emigration in the
-    nineteenth century.  
+-   [Westphalian emigrants from the administrative district Minden II : Secret emigrations](https://www.grosseneder.de/historisches/emigranten)
 
--   Whitehead, John Frederick and Johann Carl Büttner, with Susan E.
-    Klepp and Anne Pfaelzer de Ortiz, editors. *Souls for Sale: Two
-    German Redemptioners Come to Revolutionary America: The Life Stories
-    of John Federick Whitehead and Johann Carl Büttner.* University
-    Park, Pennsylvania: State University Press, 2006. Story of two
-    German adolescents, recruited by labor contractors, who were sold to
-    masters in America.  
+    **Contents:** A register of the names of those young men from Großeneder that dodged the military service through a so-called secret emigration in the nineteenth century.
+    The files were originally set up to enforce the public claims for the fortune of those who left as well as to begin the confiscation process.
+
+-   [Souls for sale : two German redemptioners come to revolutionary America : the life stories of John Frederick Whitehead and Johann Carl Büttner](https://worldcat.org/title/64083771)
+
+    **Authors:** John Frederick Whitehead, Johann Carl Büttner, Susan E. Klepp, Farley Ward Grubb, Anne Pfaelzer De Ortiz
+    
+    **Contents:** 
+
+    - Part I: John Frederick Whitehead Introduction: Understanding the Worlds of John Frederick Whitehead
+      The Life of John Frederick Whitehead Containing His Travels and Chief Adventers 
+
+    - Part II: Johann Carl Buttner Introduction: On the Trail of Johann Carl Buttner
+      Narrative of Johann Carl Buttner in the American Revolution
 
 -   Wittke, Carl. *Refugees of Revolution: The German Forty-Eighters in
     America*. Philadelphia: University of Pennsylvania, Press, 1952.
