@@ -385,14 +385,14 @@ survived.
 
 -   Auerbach, Inge  works:
 
-    -   [Auswanderer aus Hessen-Kassel 1840-1850](https://worldcat.org/title/866233127)
+    -   [Auswanderer aus Hessen-Kassel 1840-1850 (Emigrants from Hessen-Kassel 1840-1850)](https://worldcat.org/title/866233127)
         
         **Publisher:** Institut für Archivwissenschaft, Marburg, Germany, ©1988 
 
         **Notes:**\
         Index of emigrants from Hessen-Cassel, Germany in the years 1840-1850. Shows names, dates, places of origin
 
-    - [Hessische Auswanderer (HesAus) : Index nach Familiennamen](https://worldcat.org/title/17547925)
+    - [Hessische Auswanderer (HesAus) : Index nach Familiennamen (Hessen Emigrants : Indexed by Surname)](https://worldcat.org/title/17547925)
 
       **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
 
@@ -404,7 +404,7 @@ survived.
 
       Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.  <-- **TODO: Check this statement for accuracy!**
 
-    - [Auswanderung aus Kurhessen : nach Osten oder Westen?](https://worldcat.org/title/31413781)
+    - [Auswanderung aus Kurhessen : nach Osten oder Westen? (Emigration from Kurhessen : to the east of the west?)](https://worldcat.org/title/31413781)
 
       **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
 
@@ -416,7 +416,7 @@ survived.
 
       **Notes:** Extracted from Hessian sheets for folk and cultural research, new volume 17, 1985
 
--   [Auf nach Amerika! Beiträge zur Amerika-Auswanderung des 19. Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der historischen Beziehungen im 20. Jahrhundert](https://worldcat.org/title/722544364)
+-   [Auf nach Amerika! Beiträge zur Amerika-Auswanderung des 19. Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der historischen Beziehungen im 20. Jahrhundert (Off to America! Contributions to the 19th century emigration to America from the Paderborn region and to the revival of historical relations in the 20th century.)](https://worldcat.org/title/722544364)
 
     **Author:** Deutsch-Amerikanischer Freundeskreis Paderborn-Belleville (Issuing body)
 
