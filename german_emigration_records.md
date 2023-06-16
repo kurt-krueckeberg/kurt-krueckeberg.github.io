@@ -586,7 +586,10 @@ survived.
     Brandenburgishes Landeshauptarchiv Potsdam, Auswanerungskartei. FHL
     microfiche \#6109219 (22 total Fiches).  
 
--   [Brandenburgisches Landeshauptarchiv](http://www.genealogienetz.de/reg/BRG/neumark/auswande.htm).
+-   [Brandenburgisches Landeshauptarchiv](http://www.genealogienetz.de/reg/BRG/neumark/auswande.htm)
+
+    **Broken Link88
+    
     Excerpts of emigration files from the Regierungsbezirk
     Frankfurt/Oder  
 
@@ -604,26 +607,30 @@ survived.
     Wanderungsgeschichte der Pfälzer ; Folge 11) Emigrants from
     Enkenbach since the beginning of the 18th century.  
 
--   Braun, Fritz. *Auswanderer aus Kaiserslautern im 18. Jahrhundert*.
-    Kaiserslautern : Heimatstelle Pfalz, 1965. 27, \[5\] p. (Schriften
-    zur Wanderungsgeschichte der Pfälzer ; Folge 17) Emigrants from
-    Kaiserslautern during the 18th century.  
+-   Braun, Fritz works:
 
--   Braun, Fritz. *Auswanderer aus Queidersbach, 1764 bis 1938* / Fritz
-    Braun und Stefan Aicher. Kaiserslautern : Heimatstelle Pfalz, 1966.
-    40 (Schriften zur Wanderungsgeschichte der Pfälzer ; 24) Emigrants
-    from Queidersbach from 1764 to 1938.  
+    - [Auswanderer aus Kaiserslautern im 18. Jahrhundert](https://worldcat.org/title/7514850)
 
--   Braun, Fritz. *Auswanderer aus Steinweiler in drei
-    Jahrhunderten*. \[By\] Fritz Braun. Kaiserslautern, Heimatstelle
-    Pfalz, 1968. 64 p. (Schriften zur Wanderungsgeschichte der Pfälzer,
-    Folge 27) Emigrants from Steinweiler during three centuries.  
+    **Publisher:** Heimatstelle Pfalz, Kaiserslautern, 1965
 
--   [Bremen Passenger Lists, 1920-1939](http://wwwpassengerlists.de/).
-    From 1875 - 1908, the staff of the ´Nachweisungsbureau´decided to
+    24) Emigrants from Queidersbach from 1764 to 1938.  
+
+    -   [Auswanderer aus Steinweiler in drei Jahrhunderten](https://worldcat.org/title/6926003?oclcNum=6926003)
+
+    **Publisher:** Heimatstelle Pfalz, Kaiserslautern, 1968
+
+-  [Auswanderer aus Queidersbach, 1764 bis 1938](https://worldcat.org/title/6108771)
+
+    **Authors:** Fritz Braun, Stefan Aicher
+
+    **Publisher:** Heimatstelle Pfalz, Kaiserslautern, 1966
+
+-   [Bremen Passenger Lists, 1920-1939](http://wwwpassengerlists.de/)
+
+    From 1875-1908, the staff of the *Nachweisungsbureau* decided to
     destroy all lists older than 3 years because of lack of office
-    space.. With the exception of  2.953 passenger lists for the years
-    1920 – 1939 all other lists were lost in World War II. This is a set
+    space. With the exception of 2,953 passenger lists for the years
+    1920–1939 all other lists were lost in World War II. This is a set
     of 3,017 lists dating 1920-1939 (of 4420 made during this time
     period), which was saved by *Die Maus,* a Bremen based genealogical
     society. Over 635,000 passengers are in the database which can be
@@ -650,7 +657,7 @@ survived.
    documents the German origins, in the Westerwald Region of southern Germany, of more than 265 individuals and/or families which emigrated to America in the mid-18th century. Their German
    ancestry is included and, in many cases, exactly where they settled in Pennsylvania, New Jersey, New York, Maryland, and the Shenandoah Valley of Virginia
 
--   Works authored by Burgert, Annette Kunselman:
+-   Burgert, Annette Kunselman works:
 
     -  [Master index to the emigrants documented in the published works of Annette K. Burgert, F.A.S.G., F.G.S.P.](https://www.worldcat.org/search?slug=genealogy&q=ti%3AMaster+index+to+the+emigrants+documented+in+the+published+works+of+Annette+K.+Burgert)
 
@@ -766,7 +773,7 @@ survived.
 
     Includes separate databases for emigrants from Sachsen-Coburg, Sachsen-Kronach, and Sachsen-Meiningen.  
 
--   [Hapag-Halle Cuxhaven Emigration Database](https://hapaghalle-cuxhaven.de/en/database-of-emigrants/)
+-   [Hapag-Halle Cuxhaven Emigration Database S(CUXAUS)](https://hapaghalle-cuxhaven.de/en/database-of-emigrants/)
 
     CUXAUS is a regional emigration database. Approximately 6,000 records from emigrants of today’s district Cuxhaven for the period between about 1830 and 1930 are available – almost all of them imply the destination New York
 
@@ -776,7 +783,7 @@ survived.
 
     **Publisher:** Westland Publications, McNeal, Ariz., 1984
 
-    **Contents:**\
+    **Contents:**
     - pt. 1. Surnames A through Kr
     - pt. 2. Surnames Ku through Z
     Mercenaries from Anhalt-Zerbst, some of whom stayed in America.
@@ -803,11 +810,11 @@ survived.
 
 -   [Hamburg Passenger Lists, Handwritten Indexes, 1855-1934](https://www.ancestry.com/search/collections/1166/)
 
-    **Source Information:** Hamburg State Archives Ancestry.com. Hamburg Passenger Lists, Handwritten Indexes, 1855-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2007.\
+    **Source Information:** Hamburg State Archives Ancestry.com. Hamburg Passenger Lists, Handwritten Indexes, 1855-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2007.
 
     **Original data:** Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1871 - K 1962, S 17363 - S 17383, 13174 - 13183.
 
-    **About:**\ 
+    **About:** 
     This database contains handwritten indexes to the passenger lists of ships departing from Hamburg, Germany. The database includes images digitized from microfilm in
     partnership with the Hamburg State Archive. To access the original passenger lists, please refer to the database (Hamburg Passenger Lists, 1850-1934). These handwritten
     indexes can assist you in finding your ancestor in the original passenger lists for the years 1855-1934, and are especially helpful for locating records for those years
@@ -820,7 +827,9 @@ survived.
     **Publisher:** Kreisheimatverein Herford, Herford, ©1989
 
 -   [Emigration and settlement patterns of German communities in North America](https://worldcat.org/title/34068081)
+
     **Authors:** Eberhard Reichmann, La Vern J. Rippley, Jörg Nagler, Max Kade German-American Center (IUPUI)
+
     **Publisher:** Max Kade German-American Center, Indiana University-Purdue University at Indianapolis ; Produced and distributed by NCSA LITERATUR, Indianapolis, Ind., Nashville, IN, ©1995
 
     **Summary:** "The present volume contains articles based on papers delivered at the conference on 'Emigration and Settlement Patterns of German Communities in North America', held at New Harmony, Indiana, on Sept. 28-Oct. 1 1989'--Pref
