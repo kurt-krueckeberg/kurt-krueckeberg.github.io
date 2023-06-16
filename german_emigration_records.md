@@ -360,7 +360,7 @@ survived.
     Münsterland (worked out by Irmgard Niehaus from Beckum, 62 pages).
     Based on an idea by Martin Holz.
 
--   [Niermann, Wilhelm: Emigrant Database for Stemwede](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
+-   [Niermann, Wilhelm: Emigrant Database for Stemwede, Nordrhein-Westfalen](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
 
     [Stemwede Emigrant Namelist](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
 
