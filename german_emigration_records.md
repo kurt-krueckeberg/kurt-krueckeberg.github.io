@@ -293,11 +293,14 @@ survived.
 -   [Auswanderer aus Villingendorf](https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/labw_auswanderer/12763/Auswanderer%20aus%20Villingendorf)
     
 -   [Auswanderer der Gemeinde Unterschlechtbach; ein Beitrag zum Schwäbischen Weltwanderbuch](https://www.zvab.com/buch-suchen/titel/auswanderer-der-gemeinde-unterschlechtbach/autor/ackermann/)
-    **Author:**Ackermann, Gotthilf\
-    **Publisher:** Self Publishing, 1936\
+
+    **Author:** Ackermann, Gotthilf
+
+    **Publisher:** Self Publishing, 1936
+
     List of emigrants from Unterschlechtbach.   
 
--   [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/).
+-   [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/)\
     [Amerikaauswanderer-Kreis-Herford.pdf](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
 
     You can download the PDF that consists of these three volumes:
@@ -317,10 +320,9 @@ survived.
        
 -   [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
     
-    **Author:** Monika Minninger.
+    **Author:** Minninger, Monika
 
-    The archivist Dr. Monika Minninger (1941-2010) published a list of emigrants from the city and district
-    of Bielefeld from 1815 to 1900 on the website`www.bielefelder-in-nordamerika.de`, which was shut down in 2018. The
+    The archivist Dr. Monika Minninger (1941-2010) published a list of emigrants from the city and district     of Bielefeld from 1815 to 1900 on the website`www.bielefelder-in-nordamerika.de`, which was shut down in 2018. The
     list is now permanently available as a PDF.
 
 -   [Diekmann, Norbert: Emigrants from Gronau and Epe](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-aus-Gronau-und-Epe.pdf)
