@@ -362,7 +362,7 @@ survived.
 
 -   [Niermann, Wilhelm: Emigrant Database for Stemwede, Nordrhein-Westfalen](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
 
-    [Stemwede Emigrant Namelist](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
+    [Stemwede Emigrant Namelist (list of names)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
 
     Stemwede is in central Germany, between Hannover and Osnabrück, not far from the Dümmer See. Stemwede is a relatively new name for the
     area, becoming a municipality in 1973 when the villages in the parishes of Levern, Wehdem, Oppenwehe and Dielingen were combined
