@@ -383,7 +383,7 @@ survived.
     Schleswig Holstein Census records. Work in progress. Online access
     is possible, valuable information and data.
 
--   Works by Auerbach, Inge  
+-   Auerbach, Inge  works:
 
     -   [Auswanderer aus Hessen-Kassel 1840-1850](https://worldcat.org/title/866233127)
         
