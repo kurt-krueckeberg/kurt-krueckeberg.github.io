@@ -322,7 +322,7 @@ survived.
     
     **Author:** Minninger, Monika
 
-    The archivist Dr. Monika Minninger (1941-2010) published a list of emigrants from the city and district     of Bielefeld from 1815 to 1900 on the website`www.bielefelder-in-nordamerika.de`, which was shut down in 2018. The
+    The archivist Dr. Monika Minninger (1941-2010) published a list of emigrants from the city and district of Bielefeld from 1815 to 1900 on the website`www.bielefelder-in-nordamerika.de`, which was shut down in 2018. The
     list is now permanently available as a PDF.
 
 -   [Diekmann, Norbert: Emigrants from Gronau and Epe](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-aus-Gronau-und-Epe.pdf)
@@ -333,18 +333,16 @@ survived.
     The PDF is a summary of the personal data on emigration collected by Norbert Diekmann in several episodes of the series "Emigrants and
     'distant' relatives" in the Gronau and Epe civil register.
 
--   [Holz, Martin: List of Münsterland clergymen in 1882 in US-Münsterland Catholic communities](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Aufstellung-M%C3%BCnsterl%C3%A4nder-Geistlicher-1882.pdf)
-
-    List of Münsterland clergymen in 1882 in US-Münsterland Catholic
-    communities, under the original heading of the then author and
-    priest Müller, JB: Schematism of the Münsterland German-speaking
-    priests, as well as the German Catholic communities in the United
-    States of North America
-
 -   [Brinkkötter, Alois: Emigration from Greven in Westphalia in the 19th century ](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-Greven.pdf)
 
     Here you can see a certainly not exhaustive list of 419 women and men and their children who left Greven to start a new and better
     life in the New World, mainly in North America.
+
+-   [Holz, Martin: List of Münsterland clergymen in 1882 in US-Münsterland Catholic communities](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Aufstellung-M%C3%BCnsterl%C3%A4nder-Geistlicher-1882.pdf)
+
+    List of Münsterland clergymen in 1882 in US-Münsterland Catholic communities, under the original heading of the then author and
+    priest Müller, JB: Schematism of the Münsterland German-speaking priests, as well as the German Catholic communities in the United
+    States of North America
 
 -   [Holz, Martin: Auswanderer nach Brasilien](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-nach-Brasilien.pdf).
 
