@@ -387,8 +387,6 @@ survived.
 
     -   [Auswanderer aus Hessen-Kassel 1840-1850](https://worldcat.org/title/866233127)
         
-        **Author:** Auerbach, Inge
-
         **Publisher:** Institut für Archivwissenschaft, Marburg, Germany, ©1988 
 
         **Notes:**\
