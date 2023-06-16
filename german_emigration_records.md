@@ -368,9 +368,11 @@ survived.
     area, becoming a municipality in 1973 when the villages in the parishes of Levern, Wehdem, Oppenwehe and Dielingen were combined
     together.
 
--   Andrusko, Samuel M. [Emigrants from Baden and Württemberg 1816/17, extracted from Aufbruch nach Amerika](https://worldcat.org/title/12104494?oclcNum=12104494)
+-   [Emigrants from Baden and Württemberg 1816/17, extracted from Aufbruch nach Amerika](https://worldcat.org/title/12104494?oclcNum=12104494)
     
-    **Publisher:** ublisher:S.M. Andrusko, Silver Spring, Md. (95 E. Wayne Ave., Apt. T-2, Silver Spring 20901), 1984
+    **Author:** Andrusko, Samuel M.
+    
+    **Publisher:** S.M. Andrusko, Silver Spring, Md. (95 E. Wayne Ave., Apt. T-2, Silver Spring 20901), 1984
 
     **Notes:** An introduction and English translation of selected information on certain emigrants from Aufbruch nach Amerika / unter Mitarb. von Ingrid Schöberl, hrsg. von Günter
     Moltmann, 1979 "September 1984."
