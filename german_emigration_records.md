@@ -281,6 +281,8 @@ Friedrich R. Wollmershäuser, a German genealogist, has an index to these
 lists. He charges a free for researching these records. His website is
 <http://www.anthonj.de/genealogen/> .
 
+**TODO:** Investigate: [Recherchedatenbank Landeshauptarchiv Schwerin](https://archivdatenbank.landeshauptarchiv-schwerin.de/)
+
 ### Other Ports
 
 Other German ports were primarily located along the Eastern sea board
