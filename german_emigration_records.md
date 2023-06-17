@@ -282,6 +282,7 @@ lists. He charges a free for researching these records. His website is
 <http://www.anthonj.de/genealogen/> .
 
 **TODO:** Investigate: [Recherchedatenbank Landeshauptarchiv Schwerin](https://archivdatenbank.landeshauptarchiv-schwerin.de/)
+Schwerin is the state capital of Mecklenburg-Vorpommern in northern Germany.
 
 ### Other Ports
 
