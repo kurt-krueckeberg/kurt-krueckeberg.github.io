@@ -212,6 +212,8 @@ Newsletter*, 14, 4 (February 2007).
 
 ### Bremen
 
+**TODO:** The site mention below has been shutdown due to data intrusion concerns.
+
 Bremen began keeping passenger lists in 1832, but most lists have been
 destroyed. Currently, 2,953 passenger lists dating from 1920 to 1939 are
 kept in the Archive of the Bremen City Chamber of Commerce. Members of
