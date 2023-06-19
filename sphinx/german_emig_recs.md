@@ -518,20 +518,20 @@ survived.
     The Museum displays the history of emigration from the Palatinate to America. Some reference literature and name lists. Limited opening
     hours.  
 
-- [Auswanderer und ihre Familien aus dem ehemaligen Großherzogtum Oldenburg](https://www.auswanderer-oldenburg.de/index.php).
+- [Auswanderer und ihre Familien aus dem ehemaligen Großherzogtum Oldenburg](https://www.auswanderer-oldenburg.de/index.php)
+  
     Database of emigrants from the former Grandduchy of Oldenburg.
 
-- [Auswanderung aus Bayern nach Amerika](http://www.hdbg.de/auswanderung/).
+- [Auswanderung aus Bayern nach Amerika](http://www.hdbg.de/auswanderung/)
 
     Web site of Haus der Bayerischen Geschichte at Munich. In 2004 and 2005 the Haus der Bayerischen Geschichte did present an extensive exhibit Bye Bye
     Bayern – Grüß Gott Americ". Catalog may still be available.
 
-- [Auswanderung aus dem alten Amt Wildeshausen](http://www.pohlw.de/vor_ort/emigration_whs/index.htm).
-    Emigration from the former county of Wildeshausen.
-
-- [Auswanderung aus dem Rheingau](http://www.rheingau-genealogie.de/seite16.htm). Hessen.
+- [Auswanderung aus dem alten Amt Wildeshausen](http://www.pohlw.de/vor_ort/emigration_whs/index.htm)
 
     **broken link**
+
+    Emigration from the former county of Wildeshausen.
 
 - [Auswanderer aus Mestlin - Mecklenburg](http://www.emecklenburg.de/Mestlin/personen/emigrat.html)
     List of emigrants to America and information about emigration to
