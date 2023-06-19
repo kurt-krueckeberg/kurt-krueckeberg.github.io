@@ -202,7 +202,9 @@ Newsletter*, 14, 4 (February 2007).
 ### Bremen
 
 The Bremen Family History Society (Gesellschaft für Familienforschung e.V.) has presevered  [Bremen passenger lists](https://www.passagierlisten.de/) from the period
-1920-1939. These passenger lists from the period 1920-1939 were archived in the Bremen Chamber of Commerce, the holdings
+1920-1939. 
+
+These passenger lists from the period 1920-1939 were archived in the Bremen Chamber of Commerce, the holdings
 of the Federal Archives in Koblenz, from 1907/08 and 1913/14, which now are in the Bremen State Archives, and various
 holdings in the Bremen State Archives.
 
@@ -210,18 +212,44 @@ Bremen began keeping passenger lists in 1832, but most lists have been destroyed
 than 3 years were destroyed due to lack of space in the Bremen Archives. With the exception of 3017 passenger lists for the years
 1920-1939 all other lists were lost in World War II.
 
-Some reconstructed passenger lists have been published. See **German Immigrants — Lists
-of Passengers Bound from Bremen to New York, 4 volumes** below.
+Some reconstructed passenger lists have been published. See ***German Immigrants — Lists of Passengers Bound from Bremen to New York, 4 volumes*** below.
 ### Antwerp, Belgium
 
-For Antwerp, the Family History Library is currently filming emigration
-records and hotel registers that include Germans, especially from the
-Rhineland and the Southwestern part of Germany, and give towns of
-origin.  These records are cataloged under "Belgium, Antwerpen,
-Antwerpen- Emigration-Immigration". The "Vreemdelingendossiers" begin in
-1840. There are indexes. The first film number of the set is 2234256.
-[Scanned images \[link is broken\]](http://stadsarchief.antwerpen.be/Unrestricted/Folder.aspx?r_object_id=0b041acf80070ad0)
-of the indexes are also available.
+Website of Family science Flanders Antwerp region:
+
+[Database: index on genealogical edits and funds](https://www.familiekunderegioantwerpen.be/index.php?p=indexen)
+
+### Netherlands
+
+**Immigrant Ancestor's Project** of the Center for Family History and Genealogy at BYU Uiversity:
+
+[Immigrant Ancestor's Project: Dutch](http://immigrants.byu.edu/search/by_section/6)
+
+Family Search:
+
+[Netherlands, Archival Indexes, Public Records](https://www.familysearch.org/search/collection/2841008)
+
+Ancestry.com's database on Dutch immigration to America:
+
+[Dutch Immigrants to America, 1820-1880](https://www.ancestry.com/search/collections/7914/)
+
+**Description:**
+
+This database contains information on over 56,000 Dutch immigrants who came to America between 1820 and 1880. The information was extracted from the National Archives passenger lists of ships arriving at various Atlantic and Gulf ports. The list includes vessels disembarking at Baltimore, Boston, New Orleans, New York, Philadelphia and other smaller ports. The passenger lists used in this compilation includes approximately 100,000 separate ship manifests.
+
+The following information is included in this index: name; gender; age; occupation; last residence; port of embarkation; port of arrival; date of arrival; intended destination; family status; National Archives microfilm series number; National Archive microfilm roll number; name of vessel. It is important that you use the National Archives microfilm information to locate your ancestor in the original records as more information is usually found in an original record than is found in an index. These records may also be found on microfilm at the Family History Library (FHL). Both the NARA and FHL copies may be available through your local National Archives branch and Family History Center.
+
+[Dutch Immigrants: New York Passenger Lists, 1881-1894](https://www.ancestry.com/search/collections/7994/)
+
+**Description:** This database contains information on over 50,000 Dutch immigrants who came to America between 1881 and 1894. The information collected in this
+database was extracted from the National Archives Microfilm Series M237, "Passenger Lists of Vessels Arriving at New York, NY, 1820-1897." This microfilm series
+consists of original passenger lists from 1820 through 1897. While the entire microfilm series spans 675 rolls, the information collected here covers rolls 433
+through 635. It includes individuals who arrived between January 1, 1820 and December 31, 1897. The information that you can learn will help create a well-rounded
+picture of your Dutch ancestor's arrival in America.
+
+The following information is included in this index: name; gender; birthplace; age; occupation; country of origin; port of embarkation; ship accommodations;
+port of arrival; date of arrival; intended destination; family status; occupation; National Archive microfilm roll number; National Archives list number;
+name of ship (often the type of ship is noted as well).
 
 ### Le Havre, France
 
