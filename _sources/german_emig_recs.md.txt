@@ -499,12 +499,19 @@ survived.
 
 ## TODO: Resume checking here
 
-- [Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](http://www.genealogienetz.de/vereine/wgff/trier/Familienbuecher/Auswanderer.html)
+- [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
     (Rhineland).
+  
+  **Author:** Werner Lichter
 
-   **TODO: This link is broken.**
+  **Format:** PDF 
 
-   Emigrants from the former Regierungsbezirk Trier 1700-1900.
+  **Content:**  Alphabetical list of 4,742 people emigrants from the area of the former Prussian government district of Trier; 1700-1900.
+  There are three organized lists:
+
+  - An alphabetical list of names
+  - Surname groups; grouped by first letter of the surname.
+  - Places of origin
 
 - [Auswanderer aus Gechingen, Kreis Calw](https://www.schwarzwaldverein-gechingen.de/index.php?page=auswanderung) Württemberg.
 
