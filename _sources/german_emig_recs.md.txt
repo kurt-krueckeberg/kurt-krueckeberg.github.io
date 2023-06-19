@@ -201,7 +201,7 @@ Newsletter*, 14, 4 (February 2007).
 
 ### Bremen
 
-The Bremen Family History Society (Gesellschaft für Familienforschung e.V.) has presevered passenger list from the period
+The Bremen Family History Society (Gesellschaft für Familienforschung e.V.) has presevered  [Bremen passenger lists](https://www.passagierlisten.de/) from the period
 1920-1939. These passenger lists from the period 1920-1939 were archived in the Bremen Chamber of Commerce, the holdings
 of the Federal Archives in Koblenz, from 1907/08 and 1913/14, which now are in the Bremen State Archives, and various
 holdings in the Bremen State Archives.
@@ -211,7 +211,7 @@ than 3 years were destroyed due to lack of space in the Bremen Archives. With th
 1920-1939 all other lists were lost in World War II.
 
 Some reconstructed passenger lists have been published. See **German Immigrants — Lists
-    of Passengers Bound from Bremen to New York, 4 volumes** below.
+of Passengers Bound from Bremen to New York, 4 volumes** below.
 ### Antwerp, Belgium
 
 For Antwerp, the Family History Library is currently filming emigration
