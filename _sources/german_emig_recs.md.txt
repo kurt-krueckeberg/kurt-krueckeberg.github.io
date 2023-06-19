@@ -1907,9 +1907,9 @@ survived.
   - \[4\] 1868-1871  
 
 - [German Immigrants from Bremen to New York.  1847-1862](https://worldcat.org/title/260189177).
--
+
 - **Authors:**  Zimmerman, Gary J. & Marion Wolfert.
--
+
 - **Summary:** A partial
     reconstruction of Bremen passenger lists based on U.S. sources. Not
     all Bremen passengers are included; only those giving a specific
