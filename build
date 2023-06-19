@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+cd sphinx
+make clean && make html
+cp -r _build/html/* ..
+cd ..
+gadd 'updates'
