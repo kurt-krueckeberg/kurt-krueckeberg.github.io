@@ -397,7 +397,7 @@ survived.
 - [Emigrants from Schleswig-Holstein Database](http://www.aggsh.de/german/) of the Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V
   (Genealogy Working Group of Schleswig-Holstein). 
 
-    There is a list of names for the passenger lists of the emigrant ships that set sail via HAMBURG for the period 1850 to 1871 (index cards, created by Karl
+    There is a list of names for the passenger lists of the emigrant ships that set sail via Hamburg for the period 1850 to 1871 (index cards, created by Karl
     Werner Klüber ). Members of AGGSH eV looked through these index cards to find the emigrants from Schleswig-Holstein ("Voss" and others) who left via the
     port of Hamburg between 1856 and 1871.
 
