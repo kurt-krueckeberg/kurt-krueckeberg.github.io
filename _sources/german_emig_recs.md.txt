@@ -402,7 +402,7 @@ survived.
     port of Hamburg between 1856 and 1871.
 
    The "Klüber Index" is based on the "Hamburg Passenger Lists" from the Hamburg State Archives. These lists are also available online at Ancestry as the
-   [Hamburg Passenger Lists, 1850-1934](https://www.ancestry.com/search/collections/1068/) collection on Ancestry.com
+   [Hamburg Passenger Lists, 1850-1934](https://www.ancestry.com/search/collections/1068/) collection.
 
    We do not claim that our data is complete, as the work is not yet fully completed. The data collected so far can be searched here.
 
