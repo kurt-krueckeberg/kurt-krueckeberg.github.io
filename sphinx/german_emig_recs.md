@@ -216,23 +216,17 @@ Some reconstructed passenger lists have been published. See ***German Immigrants
 
 ### Antwerp, Belgium
 
-On the website of Family SScience Flanders Antwerp region:
-
-[Database: index on genealogical edits and funds](https://www.familiekunderegioantwerpen.be/index.php?p=indexen)
+[Database: index on genealogical edits and funds](https://www.familiekunderegioantwerpen.be/index.php?p=indexen) on the website of Family Science Flanders Antwerp region.
 
 ### Netherlands
 
-**Immigrant Ancestor's Project** of the Center for Family History and Genealogy at BYU Uiversity:
+[Immigrant Ancestor's Project: Dutch](http://immigrants.byu.edu/search/by_section/6) of the Center for Family History and Genealogy at BYU Uiversity:
 
-[Immigrant Ancestor's Project: Dutch](http://immigrants.byu.edu/search/by_section/6)
-
-Family Search:
-
-[Netherlands, Archival Indexes, Public Records](https://www.familysearch.org/search/collection/2841008)
-
-Ancestry.com's database on Dutch immigration to America:
+[Netherlands, Archival Indexes, Public Records](https://www.familysearch.org/search/collection/2841008) on FamilySearch.org
 
 [Dutch Immigrants to America, 1820-1880](https://www.ancestry.com/search/collections/7914/)
+
+Ancestry.com's database on Dutch immigration to America.
 
 **Description:**
 
