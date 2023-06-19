@@ -201,23 +201,17 @@ Newsletter*, 14, 4 (February 2007).
 
 ### Bremen
 
-**TODO:** The site mention below has been shutdown due to data intrusion concerns.
-See instead https://die-maus-bremen.info/
+The Bremen Family History Society (Gesellschaft für Familienforschung e.V.) has presevered passenger list from the period
+1920-1939. These passenger lists from the period 1920-1939 were archived in the Bremen Chamber of Commerce, the holdings
+of the Federal Archives in Koblenz, from 1907/08 and 1913/14, which now are in the Bremen State Archives, and various
+holdings in the Bremen State Archives.
 
-Bremen began keeping passenger lists in 1832, but most lists have been
-destroyed. Currently, 2,953 passenger lists dating from 1920 to 1939 are
-kept in the Archive of the Bremen City Chamber of Commerce. Members of
-the Family History Association of Bremen, "die Maus", are currently
-creating an [index](http://db.genealogy.net/maus/gate/) of this material
-for the Internet.
+Bremen began keeping passenger lists in 1832, but most lists have been destroyed. Unfortunately, all lists from 1875-1908 older
+than 3 years were destroyed due to lack of space in the Bremen Archives. With the exception of 3017 passenger lists for the years
+1920-1939 all other lists were lost in World War II.
 
-Some reconstructed passenger lists have been published. This information
-was taken from the U.S. arrival lists. For example:
-
--   Zimmerman, Gary J., and Marion Wolfert. *German Immigrants — Lists
-    of Passengers Bound from Bremen to New York,* 4 volumes. FHL Ref
-    974.71 W3g
-
+Some reconstructed passenger lists have been published. See **German Immigrants — Lists
+    of Passengers Bound from Bremen to New York, 4 volumes** below.
 ### Antwerp, Belgium
 
 For Antwerp, the Family History Library is currently filming emigration
@@ -1879,8 +1873,11 @@ survived.
 
     -   \[4\] 1868-1871  
 
--   [German Immigrants from Bremen to New York.  1847-1862](https://worldcat.org/title/260189177). **Authors:**
-    Zimmerman, Gary J. & Marion Wolfert. **Summary:** A partial
+-   [German Immigrants from Bremen to New York.  1847-1862](https://worldcat.org/title/260189177). 
+-   
+-   **Authors:**  Zimmerman, Gary J. & Marion Wolfert.
+-   
+-   **Summary:** A partial
     reconstruction of Bremen passenger lists based on U.S. sources. Not
     all Bremen passengers are included; only those giving a specific
     place of origin in Germany. This is about 21%; those giving only
