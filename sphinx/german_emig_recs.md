@@ -419,16 +419,15 @@ survived.
 
   - [Auswanderer aus Hessen-Kassel 1840-1850 (Emigrants from Hessen-Kassel 1840-1850)](https://worldcat.org/title/866233127)
 
-        **Publisher:** Institut für Archivwissenschaft, Marburg, Germany, ©1988
+    **Publisher:** Institut für Archivwissenschaft, Marburg, Germany, ©1988
 
-        **Notes:**\
-        Index of emigrants from Hessen-Cassel, Germany in the years 1840-1850. Shows names, dates, places of origin
+    **Notes:** Index of emigrants from Hessen-Cassel, Germany in the years 1840-1850. Shows names, dates, places of origin
 
   - [Hessische Auswanderer (HesAus) : Index nach Familiennamen (Hessen Emigrants : Indexed by Surname)](https://worldcat.org/title/17547925)
 
-      **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
+    **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
 
-      **Contents:**
+    **Contents:**
     - Bd. 1. Auswanderer aus Hanau im 18. Jahrhundert
     - Bd. 2. Auswanderer aus Hessen-Kassel, 1840-1850
 
@@ -503,10 +502,9 @@ survived.
 
    Emigrants from the former Regierungsbezirk Trier 1700-1900.
 
-- [Auswanderer aus Gechingen, Kreis Calw](https://www.schwarzwaldverein-gechingen.de/index.php?page=auswanderung)
-    (Wuerttemberg).
+- [Auswanderer aus Gechingen, Kreis Calw](https://www.schwarzwaldverein-gechingen.de/index.php?page=auswanderung) Württemberg.
 
-    Emigrants from Geschingen, Wuerttemberg.  
+    Emigrants from Geschingen, Württemberg.  
 
 - [Auswanderer-Museum-Oberalben](http://www.auswanderermuseum.de/).
   
