@@ -321,7 +321,7 @@ survived.
 - [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/)\
     [Amerikaauswanderer-Kreis-Herford.pdf](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
 
-    You can download the PDF that consists of these three volumes:
+    You can download the .Pdf above that consists of these three volumes:
 
   - Volume 1: “America Emigrants from the Spenge and Enger Offices”, June 1987
 
