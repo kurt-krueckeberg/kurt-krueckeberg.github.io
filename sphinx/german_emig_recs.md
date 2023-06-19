@@ -555,11 +555,13 @@ survived.
 - [Ancestry.com’s searchable Baden, Germany Emigration Index, 1866-1911](https://www.ancestry.com/search/collections/4610/)
 
 - [MyHeritage.com: Germany, Emigrants from Southwestern Germany, 1736-1963](https://www.myheritage.com/research/collection-10749/germany-emigrants-from-southwestern-germany-1736-1963?tr_funnel=supersearch&tr_country=US&tr_creative=oct19historicalrecords)
+
     This is an index of emigrants leaving Southwestern Germany largely
     between 1736 and 1963.
 
-- [Baden Emigration Index](http://home.att.net/~wee-monster/baden.html). The Baden
-    Emigration Index is an A to Z listing of those who left Baden from
+- [Baden Emigration Index](http://home.att.net/~wee-monster/baden.html).
+
+    The Baden Emigration Index is an A to Z listing of those who left Baden from
     the 17th to the 20th centuries and received official permission to
     emigrate. If your ancestor emigrated without receiving permission
     they will not be included in the index. Information given in this
@@ -570,6 +572,7 @@ survived.
     region of Baden. FHL films beginning with 1180096.  
 
 - [Baden Emigration Index 1866-1911](http://service.bfast.com/bfast/click?bfmid=5647408&siteid=28727949&bfpage=baden).
+
     Contains the names of more than 28,000 persons who left Baden
     between 1866 and 1911. Each entry includes the emigrant’s name,
     residence or place of birth, and the year of departure.
@@ -1575,8 +1578,11 @@ survived.
 
 - Schaumburg-Lippe: Rieckenberg, Heinrich, *Schaumburger Auswanderer*
     (FHL 943.59 H2ss v. 48)  
-
+  
 - Schenk, Trudy and Ruth Froelke. *The Württemburg Emigration Index.*
+
+   **TODO:** This is a duplicate: The volume is listed below
+
     5 volumes. Salt Lake City: Ancestry, 1986-1988. 59,500 names.
     Indexes of individuals applying for permission to emigrate from
     Württemberg in the 19th century.  
@@ -1873,15 +1879,27 @@ survived.
     volumes (1, 2, 3) cover 1847-1867. Baltimore, MD: Genealogical
     Publishing Co., 1993  
 
-- [Wuerttemberg Emigration Index, 8 Volumes](http://service.bfast.com/bfast/click?bfmid=5647408&siteid=28727949&bfpage=wuer).
-    Originally published in book form as 8 volumes, *The Württemberg
-    Emigration Index* (compiled by Trudy Schenk), can  be searched on
-    the Internet at Ancestry’s website for a subscription fee. This
-    index does not include every single person who emigrated from
-    Württemberg. Only those who had permission to emigrate are included,
-    and some of the records were lost or not microfilmed. However, the
-    index is still a very useful tool for doing genealogical research in
-    this region (FHL 943.47 W22st).  
+- [Wuerttemberg Emigration Index, 8 Volumes](https://worldcat.org/title/13311619)
+
+  Contains names of approximately 60,000 persons applied to leave Germany from late eighteenth century to 1900.
+  Includes date & place of birth, residence at time of application & application date.
+
+  ***The Württemberg Emigration Index*** (compiled by Trudy Schenk), can  be searched on
+  the Internet at [Württemberg, Germany Emigration Index](https://www.ancestry.com/search/collections/3141/) on Ancestry. This
+  index does not include every single person who emigrated from  Württemberg. Only those who had permission to emigrate are included,
+  and some of the records were lost or not microfilmed. However, the index is still a very useful tool for doing genealogical research in
+  this region.
+
+  Contents:
+
+  - V. 1. [Oberamts]: Backnang, Besigheim, Biberach, Blaubeuren, Böblingen, Brackenheim, Calw, Horb
+  - v. 2. [Oberamts]: Nagold, Nürtingen, Rottenburg, Rottweil, Schorndorf
+  - v. 3. [Oberamts]: Balingen, Calw, Freuden- stadt, Herrenberg, Nagold, Sulz
+  - v. 4. [Oberamts]: Geislingen, Kirchheim, Leonberg, Reutlingen
+  - v. 5. [Oberamts]: Crailsheim, Gaildorf, Geislingen, Hall, Künzelsau, Mergentheim, Welzheim
+  - v. 6. [Oberamts]: Brackenheim, Gmuen, Hall, Heilbronn, Leonberg, Maulbronn, Neckarsulm, Nuertingen, Oehringen, Schorndorf, Spaichingen, Stuttgart, Urach, Waldsee, Weinsberg
+  - v. 7. [Oberamts]: Aalen, Esslingen, Heidenheim, Marbach, Muensingen, Riedlingen, Tuttlingen, Vaihingen
+  - v. 8. [Oberamts]: Cannstatt, Goeppingen, Laupheim, Leutkirch, Ludwigsburg, Ravensburg, Saulgau, Stuttgart, Tettnang, Tuebingen, Ulm
 
 - Yoder, Don, editor. Rhineland emigrants : lists of German
     settlers in colonial America. Baltimore : Genealogical Pub.
