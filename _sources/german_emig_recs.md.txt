@@ -394,7 +394,7 @@ survived.
     **Notes:** An introduction and English translation of selected information on certain emigrants from Aufbruch nach Amerika / unter Mitarb. von Ingrid Schöberl, hrsg. von Günter
     Moltmann, 1979 "September 1984."
 
-- [Emigrants from Schleswig-Holstein database](http://www.aggsh.de/german/) of the Arbeits-Gemeinschaft (Working grou) Genealogie Schleswig-Holstein e.V
+- [Emigrants from Schleswig-Holstein Database](http://www.aggsh.de/german/) of the Arbeits-Gemeinschaft Genealogie (Genealogy Working Group) Schleswig-Holstein e.V
 
     There is a list of names for the passenger lists of the emigrant ships that set sail via HAMBURG for the period 1850 to 1871 (index cards, created by Karl
     Werner Klüber ). Members of AGGSH eV looked through these index cards to find the emigrants from Schleswig-Holstein ("Voss" and others) who left via the
