@@ -20,7 +20,7 @@ release = '1.0'
 extensions = ['myst_parser', 'sphinx_material']
 
 templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'venv', 'readme.md']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'readme.md']
 
 source_suffix = {
     '.rst': 'restructuredtext',
