@@ -769,9 +769,9 @@
 
   - [Auswanderungen aus dem früheren Hochstift Speyer nach Südosteuropa und Übersee im XVIII. Jahrhundert](https://worldcat.org/title/866614269)
 
-        **Publisher:** Heimatstelle Pfalz, Kaiserslautern, Germany, 1969
+    **Publisher:** Heimatstelle Pfalz, Kaiserslautern, Germany, 1969
 
-        **Notes:** The emigration from the former diocese of Speyer to southeast Europe and abroad in the 18th century. With index.
+    **Notes:** The emigration from the former diocese of Speyer to southeast Europe and abroad in the 18th century. With index.
 
   - [Auswanderungen aus dem nördlichen Bodenseeraum im 17. and 18. Jahrhundert](https://worldcat.org/title/1734912?oclcNum=1734912)
 
