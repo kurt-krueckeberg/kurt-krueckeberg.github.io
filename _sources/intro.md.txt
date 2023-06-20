@@ -9,7 +9,7 @@ located along the eastern sea board and included Stettin, Gdansk
 (especially Copenhagen). The ports in Antwerp, Belgium, and Le Havre,
 France, were also used.
 
-## Some causes for German emigration
+## Some Causes for German Emigration
 
 1. *Compulsory military conscription* was unpopular.  Many young men
     emigrated without permission in order to avoid military service. It
@@ -76,7 +76,7 @@ France, were also used.
 
 16. Reports of cheap land in other countries lured people to leave.
 
-## Some destination sites for the emigrants
+## Some Destination Sites for the Emigrants
 
 - Many from the crowded south of the German areas in the **1700s**
     moved to new Prussian lands opening in Pomerania, West and East
@@ -98,7 +98,7 @@ France, were also used.
 - From **1717-1775**, most of the Germans going to America landed in
     Philadelphia and gave Pennsylvania the largest German population.
 
-## Some emigration events
+## Some Emigration Events
 
 - In the early **1700s**, the first major region to emigrate was from
     the Palatinate, Hesse, southern Rhineland, parts of Baden and
