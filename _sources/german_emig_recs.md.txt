@@ -493,8 +493,6 @@ survived.
 
    Look into the links on this [Rheinland-Pfalz Tourism Page](https://www.routes.de/linksammlung/004RP.htm).
 
-## TODO: Resume checking here
-
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
     (Rhineland).
   
@@ -1568,7 +1566,7 @@ survived.
   
 - Schenk, Trudy and Ruth Froelke. *The Württemburg Emigration Index.*
 
-   **TODO:** This is a duplicate: The volume is listed below
+   **TODO:** This is a duplicate: The same volume is listed further on below
 
     5 volumes. Salt Lake City: Ancestry, 1986-1988. 59,500 names.
     Indexes of individuals applying for permission to emigrate from
