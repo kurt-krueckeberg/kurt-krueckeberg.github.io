@@ -12,7 +12,7 @@
 project = 'German Emigration Records'
 copyright = '2023, Kurt Krueckeberg'
 author = 'Kurt Krueckeberg'
-release = '1.0'
+release = ''
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
