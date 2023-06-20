@@ -131,7 +131,9 @@
 
       Notes: Vol. 2 has pref. in German and English
 
-      Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.  <-- **TODO: Check this statement for accuracy!**
+      Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.
+
+.. TODO: Check the above statement for accuracy
 
   - [Auswanderung aus Kurhessen : nach Osten oder Westen? (Emigration from Kurhessen : to the east of the west?)](https://worldcat.org/title/31413781)
 
@@ -193,7 +195,7 @@
 
     **Contents:** A chronological list of emigrants from Lippe up to 1877; contains indexes of surnames and places.
 
-- **TODO:** Look into the links on this [Rheinland-Pfalz Tourism Page](https://www.routes.de/linksammlung/004RP.htm).
+.. TODO: Look into the all the links on this [Rheinland-Pfalz Tourism Page](https://www.routes.de/linksammlung/004RP.htm). They look interesting.
 
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
     (Rhineland).
@@ -239,7 +241,7 @@
    of origin of the emigrants . In addition to the names of the emigrants, biographical data, emigration destinations and times of
    emigration can be called up. LEO-BW thus offers a research entry point for family research.
 
-- **TODO:** Incorporate the information from https://www.wgff.de/linkliste.php?subject=auswanderer at this point. Check entires below:
+.. TODO: Incorporate the information from https://www.wgff.de/linkliste.php?subject=auswanderer at this point. Check entires below:
 
 - [Ancestry.com’s searchable Baden, Germany Emigration Index, 1866-1911](https://www.ancestry.com/search/collections/4610/)
 
@@ -280,7 +282,7 @@
 
    **Note:** As of June 10, 2023, the online digital card index is not yet live.
 
-## TODO: Resume checking here
+.. TODO: Resume checking here
 
 - *Biographisches Handbuch der deutschsprachigen Emigration nach 1933*
     Leitung und Bearbeitung, Werner Röder, Herbert A. Strauss, unter
