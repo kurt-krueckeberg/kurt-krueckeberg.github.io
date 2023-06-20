@@ -495,7 +495,7 @@ survived.
 
     **Contents:** A chronological list of emigrants from Lippe up to 1877; contains indexes of surnames and places.
 
-## TODO: Look into the links on this [Rheinland-Pfalz Tourism Page](https://www.routes.de/linksammlung/004RP.htm).
+- **TODO:** Look into the links on this [Rheinland-Pfalz Tourism Page](https://www.routes.de/linksammlung/004RP.htm).
 
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
     (Rhineland).
