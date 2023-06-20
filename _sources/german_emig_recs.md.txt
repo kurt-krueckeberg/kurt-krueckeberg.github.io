@@ -527,37 +527,17 @@ survived.
     Web site of Haus der Bayerischen Geschichte at Munich. In 2004 and 2005 the Haus der Bayerischen Geschichte did present an extensive exhibit Bye Bye
     Bayern – Grüß Gott Americ". Catalog may still be available.
 
-- [Auswanderung aus dem alten Amt Wildeshausen](http://www.pohlw.de/vor_ort/emigration_whs/index.htm)
-
-    **broken link**
-
-    Emigration from the former county of Wildeshausen.
-
 - [Auswanderer aus Mestlin - Mecklenburg](http://www.emecklenburg.de/Mestlin/personen/emigrat.html)
-    List of emigrants to America and information about emigration to
-    America from Mestlin.
+- 
+    List of emigrants to America and information about emigration to America from Mestlin.
 
-- [Auswanderung aus Südwestdeutschland](http://www.auswanderer-bw.de/auswanderer/):
-    Eine Dokumentation des Landesarchivs Baden-Württemberg. Database of
-    emigrants from Baden and Wuerttemberg, known as "Glatzle"
-    collection.
+- [Auswanderung aus Südwestdeutschland](https://www.leo-bw.de/web/guest/themen/auswanderer) - Emigrants from southwest Germany
 
-- [Auswanderung aus Württemberg](http://www.auswanderer.lad-bw.de/cgi-bin/main.pl).
-    **Note: This link is broken.**. You can search a Württemberg
-    emigration database here for free. First click on "Recherche," then
-    on "Suchformular" to bring up the search form. In the "name" box
-    type a name or just a surname, then click on the "Abschicken"
-    button. You can get more listings for a name by using the pull down
-    box next to the word "Sätze" — the default is 10. This index is
-    derived from different sources than the 8 volumes of books used for
-    the Ancestry.com link listed below. (In German)
+   In LEO-BW you will find more than 300,000 emigrant entries. These are summarized in approx. 4,200 lists according to the places
+   of origin of the emigrants . In addition to the names of the emigrants, biographical data, emigration destinations and times of
+   emigration can be called up. LEO-BW thus offers a research entry point for family research.
 
-- *Auswanderung Landratsamter Polizeiprasidium Koln*. Computer
-    printout (published?) available at: "Das Hauptstaatsarchiv
-    Dusseldorf", Mauerstrasse, Dusseldorf, Germany.
-
-- [Auswanderung nach Amerika / Emigration to America](http://www.auswanderungdelmenhorst.de/). Emigrants from the
-    District of Delmenhorst in Oldenburg.  
+## **TODO:** Incorporate the information from https://www.wgff.de/linkliste.php?subject=auswanderer at this point. Check entires below:
 
 - [Ancestry.com’s searchable Baden, Germany Emigration Index, 1866-1911](https://www.ancestry.com/search/collections/4610/)
 
