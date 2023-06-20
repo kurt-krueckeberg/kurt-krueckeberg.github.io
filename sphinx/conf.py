@@ -30,7 +30,7 @@ source_suffix = {
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'material_theme'
+html_theme = 'sphinx_material'
 
 html_theme_options = {
    'base_url': 'http://kurt-krueckeberg.io/',
