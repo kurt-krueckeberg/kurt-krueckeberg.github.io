@@ -11,6 +11,8 @@ Welcome to German Emigration Records's documentation!
    :caption: Contents:
 
    comments.md
+   intro.md
+   ports.md
    german_emig_recs.md
 
 
