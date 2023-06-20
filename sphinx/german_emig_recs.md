@@ -539,7 +539,7 @@ survived.
    of origin of the emigrants . In addition to the names of the emigrants, biographical data, emigration destinations and times of
    emigration can be called up. LEO-BW thus offers a research entry point for family research.
 
-## **TODO:** Incorporate the information from https://www.wgff.de/linkliste.php?subject=auswanderer at this point. Check entires below:
+- **TODO:** Incorporate the information from https://www.wgff.de/linkliste.php?subject=auswanderer at this point. Check entires below:
 
 - [Ancestry.com’s searchable Baden, Germany Emigration Index, 1866-1911](https://www.ancestry.com/search/collections/4610/)
 
@@ -579,7 +579,7 @@ survived.
    This is an extensive migration card index with around 300,000 data sets, from which more than a million migration movements have emerged since the 16th century.
 
    **Note:** As of June 10, 2023, the online digital card index is not yet live.
-## TOD: Resume checking here
+## TODO: Resume checking here
 
 - *Biographisches Handbuch der deutschsprachigen Emigration nach 1933*
     Leitung und Bearbeitung, Werner Röder, Herbert A. Strauss, unter
@@ -598,7 +598,7 @@ survived.
 
 - [Brandenburgisches Landeshauptarchiv](http://www.genealogienetz.de/reg/BRG/neumark/auswande.htm)
 
-    **Broken Link88
+    **Broken Link**
 
     Excerpts of emigration files from the Regierungsbezirk
     Frankfurt/Oder  
@@ -623,7 +623,7 @@ survived.
 
     **Publisher:** Heimatstelle Pfalz, Kaiserslautern, 1965
 
-    1)  Emigrants from Queidersbach from 1764 to 1938.  
+    **Contents:** Emigrants from Queidersbach from 1764 to 1938.  
 
   - [Auswanderer aus Steinweiler in drei Jahrhunderten](https://worldcat.org/title/6926003?oclcNum=6926003)
 
