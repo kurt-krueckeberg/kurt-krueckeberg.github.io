@@ -265,12 +265,20 @@ the Catalog under Germany, Elsass-Lothringen — Emigration-Immigration
 France, Alsace-Lorraine — Emigration-Immigration France, Bas-Rhin (or
 Haut-Rhin or Moselle) — Emigration-Immigration
 
-Available is a set of films called *Registres des émigrés, 1817-1866, an
-alphabetical car index lists individuals who traveled through France on
-their way to their new residence abroad.* (Family History Library film
-\#s 1125002 through 1125007). Some of these materials are also available
-in Schrader-Muggenthaler, Cornelia. *The Alsace Emigration Book.* (FHL
-Ref. 944.38 W2s), 2 vols.
+[Registres des émigrés, 1817-1866[(https://www.familysearch.org/search/catalog/372046?availability=Family%20History%20Library)
+
+Viewable microfilm of original records. Includes records of those traveling through Colmar and Strasbourg, France and emigrating
+throughout the world including other European countries, the U.S., Algeria, and new Caledonia.
+
+Also includes internal migration within France.
+
+Card index to emigration records of Europeans traveling through the Alsace region of France.
+
+[The Alsace Emirgarion Book](https://worldcat.org/search?q=ti%3AThe+Alsace+Emigration+Book)
+
+**Author:** Author:Cornelia Schrader-Muggenthaler
+
+**Publisher:** Closson Press, Apollo, PA, 1989-
 
 ### Stettin
 
