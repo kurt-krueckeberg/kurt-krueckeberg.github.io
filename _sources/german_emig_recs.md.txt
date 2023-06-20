@@ -302,6 +302,12 @@ survived.
 
 ## German Emigration Resources
 
+- [CompGen: Bibliography of German and American Sources for German Emigration to America](https://www.genealogienetz.de/misc/emig/emigrati.html)
+
+  **Author:** Michael P. Palmer.
+
+  **Contents:** Covers both 18th and 19th centures. 
+
 - [Auswanderer aus Villingendorf](https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/labw_auswanderer/12763/Auswanderer%20aus%20Villingendorf)
 
 - [Auswanderer der Gemeinde Unterschlechtbach; ein Beitrag zum Schwäbischen Weltwanderbuch](https://www.zvab.com/buch-suchen/titel/auswanderer-der-gemeinde-unterschlechtbach/autor/ackermann/)
@@ -489,16 +495,14 @@ survived.
 
     **Contents:** A chronological list of emigrants from Lippe up to 1877; contains indexes of surnames and places.
 
-## TODO
-
-   Look into the links on this [Rheinland-Pfalz Tourism Page](https://www.routes.de/linksammlung/004RP.htm).
+## TODO: Look into the links on this [Rheinland-Pfalz Tourism Page](https://www.routes.de/linksammlung/004RP.htm).
 
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
     (Rhineland).
   
   **Author:** Werner Lichter
 
-  **Format:** PDF 
+  **Format:** PDF
 
   **Content:**  Alphabetical list of 4,742 people emigrants from the area of the former Prussian government district of Trier; 1700-1900.
   There are three organized lists:
@@ -509,7 +513,7 @@ survived.
 
 - [Auswanderer aus Gechingen, Kreis Calw](https://www.schwarzwaldverein-gechingen.de/index.php?page=auswanderung) Württemberg.
 
-    Emigrants from Geschingen, Württemberg.  
+    Emigrants from the Kreis district of Calw. The list of individual's names is grouped by the region or country to which they emigrated.
 
 - [Auswanderer-Museum-Oberalben](http://www.auswanderermuseum.de/).
   
@@ -529,7 +533,9 @@ survived.
 - 
     List of emigrants to America and information about emigration to America from Mestlin.
 
-- [Auswanderung aus Südwestdeutschland](https://www.leo-bw.de/web/guest/themen/auswanderer) - Emigrants from southwest Germany
+- [Auswanderung aus Südwestdeutschland](https://www.leo-bw.de/web/guest/themen/auswanderer)
+  
+   Emigrants from southwest Germany
 
    In LEO-BW you will find more than 300,000 emigrant entries. These are summarized in approx. 4,200 lists according to the places
    of origin of the emigrants . In addition to the names of the emigrants, biographical data, emigration destinations and times of
@@ -541,60 +547,41 @@ survived.
 
 - [MyHeritage.com: Germany, Emigrants from Southwestern Germany, 1736-1963](https://www.myheritage.com/research/collection-10749/germany-emigrants-from-southwestern-germany-1736-1963?tr_funnel=supersearch&tr_country=US&tr_creative=oct19historicalrecords)
 
-    This is an index of emigrants leaving Southwestern Germany largely
-    between 1736 and 1963.
+    This is an index of emigrants leaving Southwestern Germany between 1736 and 1963.
 
-- [Baden Emigration Index](http://home.att.net/~wee-monster/baden.html).
+    Records may contain the following searchable information: first and last name, birth date, date and county of emigration, and first and last name of a relative.
 
-    The Baden Emigration Index is an A to Z listing of those who left Baden from
-    the 17th to the 20th centuries and received official permission to
-    emigrate. If your ancestor emigrated without receiving permission
-    they will not be included in the index. Information given in this
-    index includes: name, place of origin (village, town or city) and
-    year of emigration. The modern state of Baden-Württemberg is
-    comprised of the former regions of Baden, Württemberg and
-    Hohenzollern. The Baden Emigration Index covers only the former
-    region of Baden. FHL films beginning with 1180096.  
+- [Ancestry.com: Baden, Germany Emigration Index, 1866-1911](https://www.ancestry.com/search/collections/4610/)
 
-- [Baden Emigration Index 1866-1911](http://service.bfast.com/bfast/click?bfmid=5647408&siteid=28727949&bfpage=baden).
+   This index, compiled by the Badischen Generallandesarchive Karlsruhe and microfilmed by the Genealogical Society of Utah, contains the names of over 28,000 persons who left Baden between 1866 and 1911. Each entry includes the emigrant's name, residence or place of birth, and the year of departure. Wives were not indexed separately unless they traveled alone or with their children. Children who left with one or both parents were not indexed. Some cards state that the person whose name is listed was traveling with "five persons" without naming each individual. The emigration lists were sent from district offices scattered throughout the state of Baden, to one central office. From these lists a card index was developed.
 
-    Contains the names of more than 28,000 persons who left Baden
-    between 1866 and 1911. Each entry includes the emigrant’s name,
-    residence or place of birth, and the year of departure.
-    (Ancestry.com - requires payment)  
+   Not everyone who left Baden applied for permission to emigrate, but others of the same surname may have emigrated at another time. When tracking an ancestor with an uncommon surname who can't be identified in the database, it may be worthwhile to search the church records of the towns where others with the same surname originated.
 
-- [Ballin Stadt](http://www.ballinstadt.de/en/index.php), Hamburg.
-    Between 1850 and 1939, Hamburg served as the “Gateway to the World”
-    for some 5 million European emigrants who left their homeland via
-    the city’s port in search of a better life across the Atlantic.
-    These people, many of whom were fleeing from political and religious
-    persecution or simply wanted to escape a life of poverty and hunger,
-    sought a new beginning, a better livelihood and the opportunity to
-    make a fresh start in the “land of plenty”. And they all had high
-    hopes of a better life. The BallinStadt (BallinCity) Museum is
-    dedicated to these people.  
+- [Emigrants from the Wolfersweiler region of Germany to Pennsylvania, 1730-1750](https://worldcat.org/title/10133430?oclcNum=10133430)
+  
+  **Author:** Raymond Martin Bell
+  
+  **Publisher:** R.M. Bell, Washington, Pa. (413 Burton Av., Washington), 1982
 
-- [Bayerischer Landesverein](http://www.genealogienetz.de/vereine/BLF/index/steckbrief.html)
-    [für Familienkunde e.V.](https://web.archive.org/web/20211016075922/http://www.genealogienetz.de/vereine/BLF/index/steckbrief.html)
-    The Bavarian Genealogical Society covers four regions in Bavaria.
-    They also have emigration card files.  
+- [Die Bevölkerung des Herzogtums Schleswig am 13.Februar 1803](http://www.aggsh.de/myscripts/vz_witt_start4.html)
+  
+  A database of the Arbeits-Gemeinschaft Genealogie (Genealogy Working Group) of Schleswig-Holstein e.V. that contains the transcriptions
+  of the 1803 census register of the southern part of the Duchy of Schleswig (see note)  which have been supplemented and corrected with
+  information from the church records. It was created from years of research by association member Johannes Witt in Kiel.
 
-- Bell, Raymond Martin. *Emigrants from the Wolfersweiler region
-    of Germany to Pennsylvania, 1730-1750*. Washington, Pa. (413 Burton
-    Av., Washington) : R.M. Bell, 1982. Names come from ship passenger
-    lists for Philadelphia and the churchbooks of Wolfersweiler;
-    contains a surname index.  
+- [Palatinate Library in Kaiserslauten](https://www.bv-pfalz.de/kultur-bildung/pfalzbibliothek-kaiserslautern/)
 
-- [Die Bevölkerung des Herzogtums Schleswig am 13.Februar 1803](http://www.aggsh.de/myscripts/vz_witt_start4.html). Sponsored
-    by the Genealogy Work Group-Holstein e.V., this site has databases
-    of the population of this area in 1803, and a listing of Emigrants.
-    It is a work in progress.  
+  - [list of the libraries services](https://www.pfalzbibliothek.de/service/)
+  - [online search](https://pfalzbibliothek.bibliotheca-open.de/SUCHE/Erweiterte-Suche)
 
-- [Bezirksverband Pfalz](http://www.bv-pfalz.de/04.kultur/04.InstitutGV/). Institute
-    for Palatine History and Folklife Studies at Kaiserslautern. A
-    widely known facility which has proved itself valuable to many
-    researchers. 300,000 card files on Palatine emigrants, literature,
-    resources, publications.  
+- [Institute for Palatinate history and folklore](https://www.pfalzgeschichte.de/de/)
+
+   - [Digital migration card index](https://www.pfalzgeschichte.de/de/forschung/laufende-projekte/digitale-migrationskartei/)
+  
+   This is an extensive migration card index with around 300,000 data sets, from which more than a million migration movements have emerged since the 16th century.
+
+   **Note:** As of June 10, 2023, the online digital card index is not yet live.
+## TOD: Resume checking here
 
 - *Biographisches Handbuch der deutschsprachigen Emigration nach 1933*
     Leitung und Bearbeitung, Werner Röder, Herbert A. Strauss, unter
