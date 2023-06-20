@@ -32,4 +32,15 @@ source_suffix = {
 
 html_theme = 'sphinx_material'
 
+html_theme_options = {
+    'base_url': 'http://kurt-krueckeberg.io/',
+    'repo_url': 'https://github.com/kurt-krueckeberg/kurt-krueckeberg.github.io/',
+    'repo_name': 'Material for Sphinx',
+    'google_analytics_account': 'UA-XXXXX',
+    'html_minify': True,
+    'css_minify': True,
+    'nav_title': 'Material Sphinx Demo',
+    'logo_icon': '&#xe869',
+    'globaltoc_depth': 2
+}
 html_static_path = ['_static']
