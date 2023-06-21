@@ -45,7 +45,7 @@
 
     **Format:** PDF
 
-    **Contents:**
+    **Contents:**  
     The PDF is a summary of the personal data on emigration collected by Norbert Diekmann in several episodes of the series "Emigrants and
     'distant' relatives" in the Gronau and Epe civil register.
 
@@ -92,17 +92,18 @@
     **Notes:** An introduction and English translation of selected information on certain emigrants from Aufbruch nach Amerika / unter Mitarb. von Ingrid Schöberl, hrsg. von Günter
     Moltmann, 1979 "September 1984."
 
-  - [Emigrants from Schleswig-Holstein Database](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/passagierlisten-auswandererschiffe-hamburg-suche) of the Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V
-  (Genealogy Working Group of Schleswig-Holstein).
+- [Emigrants from Schleswig-Holstein Database](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/passagierlisten-auswandererschiffe-hamburg-suche) of the Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V
 
-    There is a list of names for the passenger lists of the emigrant ships that set sail via Hamburg for the period 1850 to 1871 (index cards, created by Karl
-    Werner Klüber ). Members of AGGSH eV looked through these index cards to find the emigrants from Schleswig-Holstein ("Voss" and others) who left via the
-    port of Hamburg between 1856 and 1871.
+  Database of the Genealogy Working Group of Schleswig-Holstein.
 
-   The "Klüber Index" is based on the "Hamburg Passenger Lists" from the Hamburg State Archives. These lists are also available online at Ancestry as the
-   [Hamburg Passenger Lists, 1850-1934](https://www.ancestry.com/search/collections/1068/) collection.
+  There is a list of names for the passenger lists of the emigrant ships that set sail via Hamburg for the period 1850 to 1871 (index cards, created by Karl
+  Werner Klüber ). Members of AGGSH eV looked through these index cards to find the emigrants from Schleswig-Holstein ("Voss" and others) who left via the
+  port of Hamburg between 1856 and 1871.
 
-   We do not claim that our data is complete, as the work is not yet fully completed. The data collected so far can be searched here.
+  The "Klüber Index" is based on the "Hamburg Passenger Lists" from the Hamburg State Archives. These lists are also available online at Ancestry as the
+  [Hamburg Passenger Lists, 1850-1934](https://www.ancestry.com/search/collections/1068/) collection.
+
+  "We do not claim that our data is complete, as the work is not yet fully completed. The data collected so far can be searched here."
 
 - [Index zum Auswandererarchiv der Amerika Gesellschaft e.V. Bad Segeberg](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/namens-index-auswandererarchiv-bad-segeberg)
 
@@ -129,33 +130,33 @@
     - Bd. 1. Auswanderer aus Hanau im 18. Jahrhundert
     - Bd. 2. Auswanderer aus Hessen-Kassel, 1840-1850
 
-      Notes: Vol. 2 has pref. in German and English
+    Notes: Vol. 2 has pref. in German and English.
 
-      Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.
+    Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.
 
 <!--- TODO Check the above statement for accuracy --->
 
   - [Auswanderung aus Kurhessen : nach Osten oder Westen? (Emigration from Kurhessen : to the east of the west?)](https://worldcat.org/title/31413781)
 
-      **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
+    **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
 
-      **Publisher:** Hessisches Staatsarchiv Marburg, Marburg, 1993
+    **Publisher:** Hessisches Staatsarchiv Marburg, Marburg, 1993
 
-      **Table of Contents:** [here](http://bvbr.bib-bvb.de:8991/exlibris/aleph/a23_1/apache_media/G1LYF7SJM5DBX2Q3VU13UPE1VNXLL3.pdf)
+    **Table of Contents:** [here](http://bvbr.bib-bvb.de:8991/exlibris/aleph/a23_1/apache_media/G1LYF7SJM5DBX2Q3VU13UPE1VNXLL3.pdf)
 
   - [Auswanderung aus Kurhessen 1832-1866. Herrn Prof. Dr. Georg Rauch zum 80. geburtstag](https://worldcat.org/title/84333876)
 
-      **Notes:** Extracted from Hessian sheets for folk and cultural research, new volume 17, 1985
+    **Notes:** Extracted from Hessian sheets for folk and cultural research, new volume 17, 1985
 
 - [Auf nach Amerika! Beiträge zur Amerika-Auswanderung des 19. Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der historischen Beziehungen im 20. Jahrhundert](https://worldcat.org/title/722544364)
 
-    **Title:** Off to America! Contributions to the 19th century emigration to America from the Paderborn region and to the revival of historical relations in the 20th century.
+  **Title:** Off to America! Contributions to the 19th century emigration to America from the Paderborn region and to the revival of historical relations in the 20th century.
 
-    **Author:** Deutsch-Amerikanischer Freundeskreis Paderborn-Belleville (Issuing body)
+  **Author:** Deutsch-Amerikanischer Freundeskreis Paderborn-Belleville (Issuing body)
 
-    **Publisher:** Bonifatius-Dr., Buch-Verl, Paderborn, uuuu
+  **Publisher:** Bonifatius-Dr., Buch-Verl, Paderborn, uuuu
 
-    **Contents:**
+  **Contents:**
 
   - v. 1. city of Paderborn
   - v. 2. 19th century emigrants from the districts of Büren and Paderborn
@@ -230,7 +231,7 @@
     Bayern – Grüß Gott Americ". Catalog may still be available.
 
 - [Auswanderer aus Mestlin - Mecklenburg](http://www.emecklenburg.de/Mestlin/personen/emigrat.html)
-- 
+ 
     List of emigrants to America and information about emigration to America from Mestlin.
 
 - [Auswanderung aus Südwestdeutschland](https://www.leo-bw.de/web/guest/themen/auswanderer)
@@ -323,8 +324,11 @@
 <!--- TODO: Finish the next two entries and join them with those immediately below them. --->
 
 - Braun, Fritz, comp. *Auswanderer auf dem Schiff Samuel M. Fox.
-    Ankunft New York, 4. Aug. 1852*. (Kaiserslautern, Heimatstelle Pfalz
-    \[1964\]) 32 p. (Schriften zur Wanderungsgeschichte der Pfälzer,
+    Ankunft New York, 4. Aug. 1852*.
+
+    (Kaiserslautern, Heimatstelle Pfalz \[1964\])
+
+    (Schriften zur Wanderungsgeschichte der Pfälzer,
     Folge 21) Report on the voyage by Jacob Ernst Ruth and passenger
     list. Originally published in Pfälzische Familien- und
     Wappenkunde, 1964. Passenger list of emigrants from the Palatinate
@@ -370,11 +374,11 @@
 
 - [The emigration of the Mülheimers to Pennsylvania : both a local and German culture picture from the 17th century](https://worldcat.org/title/25464543)
 
-    **Authoer:** Broermann, Karl
+  **Authoer:** Broermann, Karl
 
-    **Publisher:** Publisher:R.N. Castleberry, Windermere, Fla. (12404 Summerport Ln., Windermere 34786), ©1991
+  **Publisher:** Publisher:R.N. Castleberry, Windermere, Fla. (12404 Summerport Ln., Windermere 34786), ©1991
 
-    **Notes:** "With also a photocopy of the original German article: Die Auswanderung der Mülheimer nach Pennsylvanien. The original article was published in the December, 1938 issue of the Mülheim Historical Society's Zeitschrift"--Foreword
+  **Notes:** "With also a photocopy of the original German article: Die Auswanderung der Mülheimer nach Pennsylvanien. The original article was published in the December, 1938 issue of the Mülheim Historical Society's Zeitschrift"--Foreword
 
 - [Westerwald to America : some 18th century German immigrants](https://worldcat.org/title/20526140?oclcNum=20526140)
 
@@ -394,32 +398,32 @@
 
   - [Brethren from Gimbsheim in the Palatinate to Ephrata and Bermudian in Pennsylvania](https://worldcat.org/title/31199347?oclcNum=31199348)
 
-       **Publisher:** AKB Publications, Myerstown, PA, ©1994
+    **Publisher:** AKB Publications, Myerstown, PA, ©1994
 
-       **Summary:** Some 22 men with families immigrated in 1749 and 1751 from Gimbsheim, Hessen, Germany, to America eventually
-       settling in the Ephrata community in Lancaster County, Pennsylvania, and near Bermudian in York County. Transcripts from all areas are given.
+    **Summary:** Some 22 men with families immigrated in 1749 and 1751 from Gimbsheim, Hessen, Germany, to America eventually
+    settling in the Ephrata community in Lancaster County, Pennsylvania, and near Bermudian in York County. Transcripts from all areas are given.
 
   - [Colonial Pennsylvania immigrants from Freinsheim in the Palatinate](https://worldcat.org/title/20615216?oclcNum=20615216)
-       **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1989
 
-       **Summary:** List of 18th century emigrants from Freinsheim who settled in Pennsylvania; contains extensive genealogical information.  
+    **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1989
+
+    **Summary:** List of 18th century emigrants from Freinsheim who settled in Pennsylvania; contains extensive genealogical information.  
 
   - [Early Pennsylvania pioneers from Mutterstadt in the Palatinate](https://worldcat.org/title/18080589)
 
-       **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
+    **Publisher:** AKB Publications, Worthington, OH (P.O. Box 93, Worthington 43085), ©1983
 
-       **Summary:** List of 18th century immigrants to Pennsylvania
-       from Mutterstadt; contains extensive genealogical information.  
+    **Summary:** List of 18th century immigrants to Pennsylvania
+    from Mutterstadt; contains extensive genealogical information.  
 
-  - [Eighteenth century emigrants from German-speaking lands to North
-       America](https://worldcat.org/search?q=_Eighteenth+century+emigrants+from+German-speaking+lands+to+North+America)
+  - [Eighteenth century emigrants from German-speaking lands to North America](https://worldcat.org/search?q=_Eighteenth+century+emigrants+from+German-speaking+lands+to+North+America)
 
-       **Publisher:** Pennsylvania German Society, Birdsboro, Pa., 1985
+    **Publisher:** Pennsylvania German Society, Birdsboro, Pa., 1985
 
-       **Summary:** Volume 1 lists emigrants from the Northern Kraichgau; volume 2, emigrants from the Western Palatinate. Both
-       volumes include considerable genealogical information as well as indexes of ships, European place names, and surnames.  
+    **Summary:** Volume 1 lists emigrants from the Northern Kraichgau; volume 2, emigrants from the Western Palatinate. Both
+    volumes include considerable genealogical information as well as indexes of ships, European place names, and surnames.  
 
-       **Contents:**
+    **Contents:**
 
     - v\. 1. The Northern Kraichgau
 
@@ -427,9 +431,9 @@
 
   - [Eighteenth and nineteenth century emigrants from Lachen-Speyerdorf in the Palatinate](https://worldcat.org/title/20662221?oclcNum=20662221)
 
-       **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1989
+    **Publisher:** AKB Publications, Myerstown, PA (691 Weavertown Rd., Myerstown 17067), ©1989
 
-       **Summary:** Immigrants came from Lachen-Speyerdorf, Bayern, Germany, and settled in various parts of Pennsylvania  
+    **Summary:** Immigrants came from Lachen-Speyerdorf, Bayern, Germany, and settled in various parts of Pennsylvania  
 
   - [Eighteenth century emigrants from Langenselbold in Hesse to America](https://worldcat.org/title/38050507)
        **Publisher:** AKB Publications, Myerstown, Pa., 1997
@@ -523,45 +527,45 @@
 
 - [Die Auswanderung in die Neuengland-Staaten aus Orten des Enzkreises im 18. Jahrhundert](https://worldcat.org/title/4711293?oclcNum=4711293)
 
-    **Author:** Ehmann, Karl
+  **Author:** Ehmann, Karl
 
-    **Publisher:** Publisher:Verein für Familien- und Wappenkunde, Stuttgart, 1977
+  **Publisher:** Publisher:Verein für Familien- und Wappenkunde, Stuttgart, 1977
 
-    **Notes:** "Südwestdeutsche Blätter für Familien- und Wappenkunde. Sonderheft 1977."  
-    Lists emigrants to New England from towns in the Enz district of Baden-Württemberg during the 18th century.  
+  **Notes:** "Südwestdeutsche Blätter für Familien- und Wappenkunde. Sonderheft 1977."  
+  Lists emigrants to New England from towns in the Enz district of Baden-Württemberg during the 18th century.  
 
 - [Hamburg Passenger Lists, 1850-1934, on Ancestry.com](https://www.ancestry.com/search/collections/1068/)
 
-    **Source Information:** Hamburg State Archives\
-    Hamburg Passenger Lists, 1850-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2008.
+  **Source Information:** Hamburg State Archives\
+  Hamburg Passenger Lists, 1850-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2008.
 
-    **Original data:** Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1701 - K 2008, S 17363 - S 17383, 13116 - 13183.
+  **Original data:** Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1701 - K 2008, S 17363 - S 17383, 13116 - 13183.
 
 - [Hamburg Passenger Lists, Handwritten Indexes, 1855-1934](https://www.ancestry.com/search/collections/1166/)
 
-    **Source Information:** Hamburg State Archives Ancestry.com. Hamburg Passenger Lists, Handwritten Indexes, 1855-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2007.
+  **Source Information:** Hamburg State Archives Ancestry.com. Hamburg Passenger Lists, Handwritten Indexes, 1855-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2007.
 
-    **Original data:** Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1871 - K 1962, S 17363 - S 17383, 13174 - 13183.
+  **Original data:** Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1871 - K 1962, S 17363 - S 17383, 13174 - 13183.
 
-    **About:**
-    This database contains handwritten indexes to the passenger lists of ships departing from Hamburg, Germany. The database includes images digitized from microfilm in
-    partnership with the Hamburg State Archive. To access the original passenger lists, please refer to the database (Hamburg Passenger Lists, 1850-1934). These handwritten
-    indexes can assist you in finding your ancestor in the original passenger lists for the years 1855-1934, and are especially helpful for locating records for those years
-    that have not yet been electronically indexed.
+  **About:**
+  This database contains handwritten indexes to the passenger lists of ships departing from Hamburg, Germany. The database includes images digitized from microfilm in
+  partnership with the Hamburg State Archive. To access the original passenger lists, please refer to the database (Hamburg Passenger Lists, 1850-1934). These handwritten
+  indexes can assist you in finding your ancestor in the original passenger lists for the years 1855-1934, and are especially helpful for locating records for those years
+  that have not yet been electronically indexed.
 
 - [Emigrants to America from Herford, Hiddenhausen, and Vlotho in the nineteenth century](https://worldcat.org/title/27977499?oclcNum=27977499)
 
-    **Author:** Kreisheimatverein Herford
+  **Author:** Kreisheimatverein Herford
 
-    **Publisher:** Kreisheimatverein Herford, Herford, ©1989
+  **Publisher:** Kreisheimatverein Herford, Herford, ©1989
 
 - [Emigration and settlement patterns of German communities in North America](https://worldcat.org/title/34068081)
 
-    **Authors:** Eberhard Reichmann, La Vern J. Rippley, Jörg Nagler, Max Kade German-American Center (IUPUI)
+  **Authors:** Eberhard Reichmann, La Vern J. Rippley, Jörg Nagler, Max Kade German-American Center (IUPUI)
 
-    **Publisher:** Max Kade German-American Center, Indiana University-Purdue University at Indianapolis ; Produced and distributed by NCSA LITERATUR, Indianapolis, Ind., Nashville, IN, ©1995
+  **Publisher:** Max Kade German-American Center, Indiana University-Purdue University at Indianapolis ; Produced and distributed by NCSA LITERATUR, Indianapolis, Ind., Nashville, IN, ©1995
 
-    **Summary:** "The present volume contains articles based on papers delivered at the conference on 'Emigration and Settlement Patterns of German Communities in North America', held at New Harmony, Indiana, on Sept. 28-Oct. 1 1989'--Pref
+  **Summary:** "The present volume contains articles based on papers delivered at the conference on 'Emigration and Settlement Patterns of German Communities in North America', held at New Harmony, Indiana, on Sept. 28-Oct. 1 1989'--Pref
 
 - [Emigration database Lippe](http://lippe-auswanderer.de)
 
@@ -594,8 +598,7 @@
 
 - [Emigrants from Schleswig-Holstein to New Amsterdam (now New York) in 1636-1667](http://www.genealogy-sh.com/timm/1636-1667.htm)  
 
-- *Emigrants from the Attendorn* (Germany) area, see:\_Heimatblatter
-    fur das kurkolnische Sauerland\_, volumes from around 1948-1958  
+- *Emigrants from the Attendorn* (Germany) area, see:\_Heimatblatter fur das kurkolnische Sauerland\_, volumes from around 1948-1958  
 
 - [Emigrants from the former Amt Damme, Oldenburg (now Niedersachsen), Germany, mainly to the United States, 1830-1849](http://www.honkomp.de/damme-auswanderung/chapte12.htm)  
 
@@ -607,20 +610,19 @@
 
 - [Emslanders to the American Mid-West](http://www.emslanders.com/).
 
-    This webpage is devoted to the identification of 19th century German
-    emigrants who came to America from that part of Hannover known today
-    as Emsland, Niedersachsen, and settled in the mid-western United
-    States.  
+  This webpage is devoted to the identification of 19th century German
+  emigrants who came to America from that part of Hannover known today
+  as Emsland, Niedersachsen, and settled in the mid-western United
+  States.  
 
-- Faust & Brumbaug.  Swiss Emigrants in the 18th Century to the
-    American Colonies. Zurich (1734-1744), Bern (1706-1795) and Basel
-    (1734-1794) archives. 2,300 names.  
+- Faust & Brumbaug.  Swiss Emigrants in the 18th Century to the American Colonies.  
+  Zurich (1734-1744), Bern (1706-1795) and Basel (1734-1794) archives.  
+  2,300 names.  
 
-- Filby, P. William. *Passenger and Immigration Lists Bibliography,
-    1538-1900* (2nd ed., Detroit: Gale Research, 1988)  
+- Filby, P. William. *Passenger and Immigration Lists Bibliography, 1538-1900*  
+  (2nd ed., Detroit: Gale Research, 1988)  
 
-- Filby, P. William, Mary K. Meyer and Paula K. Woolverton. *Passenger
-    and Immigration Lists Index.* (Detroit: Gale Research, 1981ff.).  
+- Filby, P. William, Mary K. Meyer and Paula K. Woolverton. *Passenger and Immigration Lists Index.* (Detroit: Gale Research, 1981ff.).  
 
 - [Forschungsstelle Niedersächsische Auswanderer in den USA](http://www.uni-oldenburg.de/nausa/) (research institute for
     emigration from Lower Saxony to USA)  
