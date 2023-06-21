@@ -660,12 +660,6 @@
 
 - [The German Americans: An Ethnic Experience](http://www.ulib.iupui.edu/kade/adams/toc.html)  
 
-- [German and American Sources for German Emigration to America](http://www.genealogienetz.de/misc/emig/emigrati.html)
-
-    **Author:** Michael P. Palmer.
-
-    **Summary:**An encyclopedia type article about emigration including types of records, sources for ship lists, ports used, etc.
-
 - [THE GERMAN AND JEWISH INTELLECTUAL ÉMIGRÉ COLLECTION](http://library.albany.edu/speccoll/emigre.htm#emigre)
 
     **Summary:** In recognition of the serious scholarly interest in the
