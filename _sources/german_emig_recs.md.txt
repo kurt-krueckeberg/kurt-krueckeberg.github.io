@@ -701,7 +701,7 @@
     The three focal pointsx of the new Center are: experiencing
     migration, tracing roots, and understanding migration.  
 
-- [German Emigration Research by Progenealogists](http://www.progenealogists.com/palproject/articles.htm).
+ [German Emigration Research by Progenealogists](http://www.progenealogists.com/palproject/articles.htm).
 
 - The [German Migration Resource Center](http://www.germanmigration.com/)
 
@@ -1261,15 +1261,7 @@
 - [Schaumburger Auswanderer 1820-1914](http://home.arcor.de/histagschaumburg/Auswanderer.htm)  
 
 - Schaumburg-Lippe: Rieckenberg, Heinrich, *Schaumburger Auswanderer*
-    (FHL 943.59 H2ss v. 48)  
-  
-- Schenk, Trudy and Ruth Froelke. *The Württemburg Emigration Index.*
-
-   **TODO:** This is a duplicate: The same volume is listed further on below
-
-    5 volumes. Salt Lake City: Ancestry, 1986-1988. 59,500 names.
-    Indexes of individuals applying for permission to emigrate from
-    Württemberg in the 19th century.  
+    (FHL 943.59 H2ss v. 48)
 
 - Schrader-Muggenthale.  *Alsace Emigration Book*. Volume 1. 13,000
     persons who emigrated from or through Alsace, 1740-1875.
@@ -1553,28 +1545,40 @@
   - Part II: Johann Carl Buttner Introduction: On the Trail of Johann Carl Buttner
       Narrative of Johann Carl Buttner in the American Revolution
 
-- Wittke, Carl. *Refugees of Revolution: The German Forty-Eighters in
-    America*. Philadelphia: University of Pennsylvania, Press, 1952.
-    Examines German immigration to the U.S. following the failed 1848
+- [Refugees of Revolution: The German Forty-Eighters in America](https://worldcat.org/title/6003966231)
+  
+  **Authors:** Albert Scholz, Carl Wittke
+  
+  **Format:** Article, 1953
+
+  **Content:**  Examines German immigration to the U.S. following the failed 1848
     revolution in Germany.  
 
-- Wolfert, M. *German Immigrants: lists of passengers bound from
-    Bremen to New York, 1868-1871, with places of origin.*  Previous
-    volumes (1, 2, 3) cover 1847-1867. Baltimore, MD: Genealogical
-    Publishing Co., 1993  
+- [German immigrants : lists of passengers bound from Bremen to New York [dates], with places of origin](https://worldcat.org/title/12389585)
+
+  **Authors:** Authors:Gary J. Zimmerman (Compiler), Marion Wolfert (Compiler)
+
+  **Contents:** Four volumes:  
+    -  [1] 1847-1854
+  - [2] 1855-1862
+  - [3] 1863-1867
+  - [4] 1868-1871
+
+- [Ancestry.com: Württemberg, Germany Emigration Index](https://www.ancestry.com/search/collections/3141/)
+
+  This index does not include every single person who emigrated from  Württemberg. Only those who had permission to emigrate are included,
+  and some of the records were lost or not microfilmed.
+
+  The Württemberg Emigration Index is an eight volume work (See immediately below) that represents the thousands of German and Prussian immigrants to the United States that made application to emigrate at Württemberg, Germany. This collection, filmed at Ludwigsburg, contains the names of approximately 60,000 persons who made application to leave Germany from the late eighteenth century to 1900. The information supplied on each person includes: name, date and place of birth, residence at time of application and application date, and microfilm number.
 
 - [Wuerttemberg Emigration Index, 8 Volumes](https://worldcat.org/title/13311619)
 
-  Contains names of approximately 60,000 persons applied to leave Germany from late eighteenth century to 1900.
+  **Authors:** Trudy Schenk, Ruth Froelke, Inge Bork
+
+  **Summary:** Contains names of approximately 60,000 persons applied to leave Germany from late eighteenth century to 1900.
   Includes date & place of birth, residence at time of application & application date.
 
-  ***The Württemberg Emigration Index*** (compiled by Trudy Schenk), can  be searched on
-  the Internet at [Württemberg, Germany Emigration Index](https://www.ancestry.com/search/collections/3141/) on Ancestry. This
-  index does not include every single person who emigrated from  Württemberg. Only those who had permission to emigrate are included,
-  and some of the records were lost or not microfilmed. However, the index is still a very useful tool for doing genealogical research in
-  this region.
-
-  Contents:
+  **Contents:**
 
   - V. 1. [Oberamts]: Backnang, Besigheim, Biberach, Blaubeuren, Böblingen, Brackenheim, Calw, Horb
   - v. 2. [Oberamts]: Nagold, Nürtingen, Rottenburg, Rottweil, Schorndorf
