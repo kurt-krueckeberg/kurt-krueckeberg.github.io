@@ -39,9 +39,9 @@ html_theme_options = {
    'css_minify': True,
    'logo_icon': '&#xe869',
    'globaltoc_depth': 2,
-    "color_primary": "blue",
-    "color_accent": "cyan",
-    "theme_color": "#2196f3",
+#    "color_primary": "blue",
+#    "color_accent": "cyan",
+#    "theme_color": "#2196f3",
     "version_dropdown": True,
     "table_classes": ["plain"]
 }
