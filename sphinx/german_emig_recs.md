@@ -701,11 +701,6 @@
     The three focal pointsx of the new Center are: experiencing
     migration, tracing roots, and understanding migration.  
 
-- [German Emigration Lists](http://home.att.net/~wee-monster/emigration.html)
-
-    People who left Germany: this webpage contains links to online German
-    emigration lists and indexes. (Requires Ancestry.com membership)  
-
 - [German Emigration Research by Progenealogists](http://www.progenealogists.com/palproject/articles.htm).
 
 - The [German Migration Resource Center](http://www.germanmigration.com/)
