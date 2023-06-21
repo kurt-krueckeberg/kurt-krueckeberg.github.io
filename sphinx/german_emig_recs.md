@@ -287,8 +287,6 @@
 
     **Note:** As of June 10, 2023, the online digital card index is not yet live.
 
-.. TODO: Resume checking here
-
 - [Biographisches Handbuch der deutschsprachigen Emigration nach 1933](https://worldcat.org/search?q=ti%3ABiographisches+Handbuch+der+deutschsprachigen+Emigration+nach+1933)
 
   **Authors:** Werner Röder, Herbert Arthur Strauss, Jan Foitzik, Institut für Zeitgeschichte (Munich, Germany), Research Foundation for Jewish Immigration
@@ -305,20 +303,26 @@
 
   **Language Notes:**  Volumes 1 and 3 are in German, volume 2 is in English
 
-.. TODO: Resume Here:
+- [Ancestry.com: Brandenburg, Prussia Emigration Records (Auswanderungsakten Brandenburg, Preußen)](https://www.ancestry.com/search/collections/4121/)
+  
+  **Publisher:** Ancestry.com
 
-- [Brandenburg, Prussia Emigration Index](http://service.bfast.com/bfast/click?bfmid=5647408&siteid=28727949&bfpage=brapru)
-    (Ancestry.com - requires payment) These records are also available
+    These records are also available
     on microfiche from the Family History Library under the title:
     Brandenburgishes Landeshauptarchiv Potsdam, Auswanerungskartei. FHL
-    microfiche \#6109219 (22 total Fiches).  
+    microfiche \#6109219 (22 total Fiches).
 
-- [Brandenburgisches Landeshauptarchiv](http://www.genealogienetz.de/reg/BRG/neumark/auswande.htm)
+- [Brandenburgisches Landeshaputarchiv (Brandenburg Main State Archive) Online Search)](https://blha-recherche.brandenburg.de/suchinfo.aspx)
 
-    **Broken Link**
+- [Auswanderungskartei: Brandenburgisches Landeshauptarchiv (Emigration Index: Brandenburg Main State Archive)](https://www.familysearch.org/search/catalog/767068?availability=Family%20History%20Library)
+  
+  **Format:** Mircofilm available at Family History Library, 35 N West Temple SALT LAKE CITY Utah 84150-9005
 
-    Excerpts of emigration files from the Regierungsbezirk
-    Frankfurt/Oder  
+- [Emigration Database for the areas of Geislingen/Steige, Heidenheim, Blaubeuren, Ulm and Göppingen](https://www.afagev.de/auswandererdatenbank)
+
+  **Format:** Database of the Geislingen/Steige, Heidenheim, Blaubeuren, Ulm and Göppingen Family History Society
+
+.. TODO: Finish the next two entries and join them with those immediately below them.
 
 - Braun, Fritz, comp. *Auswanderer auf dem Schiff Samuel M. Fox.
     Ankunft New York, 4. Aug. 1852*. (Kaiserslautern, Heimatstelle Pfalz
@@ -1588,11 +1592,11 @@
   - v. 7. [Oberamts]: Aalen, Esslingen, Heidenheim, Marbach, Muensingen, Riedlingen, Tuttlingen, Vaihingen
   - v. 8. [Oberamts]: Cannstatt, Goeppingen, Laupheim, Leutkirch, Ludwigsburg, Ravensburg, Saulgau, Stuttgart, Tettnang, Tuebingen, Ulm
 
-- Yoder, Don, editor. Rhineland emigrants : lists of German
-    settlers in colonial America. Baltimore : Genealogical Pub.
-    Co., 1981. A collection of "twenty-four articles dealing with
-    German-speaking emigrants of the eighteenth century…​." Contains a
-    personal name index.
+- Yoder, Don, editor. Rhineland emigrants : lists of German settlers in colonial America. Baltimore
+- 
+  Genealogical Pub. Co., 1981. 
+  
+  A collection of "twenty-four articles dealing with German-speaking emigrants of the eighteenth century". Contains a personal name index.
 
 - [German immigrants : lists of passengers bound from Bremen to New York \\\[dates\], with places of origin](https://worldcat.org/title/12389585)
 
