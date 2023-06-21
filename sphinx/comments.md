@@ -19,7 +19,7 @@ This documentation website  was built using the open-source [Sphinx](https://www
 
 ## MIT Copyright Described
 
-Copyright (c) 2023 Kurt Krueckeberg
+Copyright (c) 2023 Kurt Krueckeberg   
 Copyright © 2005-2013 Genealoger.com. All Rights Reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
