@@ -4,7 +4,7 @@
 
   **Author:** Michael P. Palmer.
 
-  **Contents:** Covers both 18th and 19th centures. 
+  **Contents:** Covers both 18th and 19th centures.
 
 - [Auswanderer aus Villingendorf](https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/labw_auswanderer/12763/Auswanderer%20aus%20Villingendorf)
 
@@ -15,6 +15,8 @@
     **Publisher:** Self Publishing, 1936
 
     List of emigrants from Unterschlechtbach.
+
+    **Note:** The link is to a German online antiqurian book dealer. They ship internally.
 
 - [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/)\
     [Amerikaauswanderer-Kreis-Herford.pdf](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
@@ -37,8 +39,7 @@
 
     **Author:** Minninger, Monika
 
-    The archivist Dr. Monika Minninger (1941-2010) published a list of emigrants from the city and district of Bielefeld from 1815 to 1900 on the website`www.bielefelder-in-nordamerika.de`, which was shut down in 2018. The
-    list is now permanently available as a PDF.
+    **Contents:** Pdf file. The archivist Dr. Monika Minninger (1941-2010) published a list of emigrants from the city and district of Bielefeld from 1815-1900.
 
 - [Diekmann, Norbert: Emigrants from Gronau and Epe](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-aus-Gronau-und-Epe.pdf)
 
@@ -59,13 +60,12 @@
     priest Müller, JB: Outline of the Münsterland German-speaking priests, as well as the German Catholic communities in the United
     States of North America
 
-- [Holz, Martin: Auswanderer nach Brasilien](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-nach-Brasilien.pdf).
+- [Holz, Martin: Auswanderer nach Brasilien](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-nach-Brasilien.pdf)
 
     **Source:** Amtsblätter der Königlichen Regierung zu Münster von 1860–1871.
 
-    The emigrants are mainly reservists and conscripts who did
-    not follow the mobilization order or the call-up for military
-    service and emigrated without permission.
+    **Contents:** The emigrants are mainly reservists and persons liable to military service, who did not comply with the mobilization order or
+    the call-up to military service and emigrated without permission
 
 - [Holz, Martin: German Immigrants from Bremen to New York, 1847-1871](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/German-Immigrants-from-Bremen-to-New-York-1847-1871.pdf)
 
@@ -92,8 +92,10 @@
     **Notes:** An introduction and English translation of selected information on certain emigrants from Aufbruch nach Amerika / unter Mitarb. von Ingrid Schöberl, hrsg. von Günter
     Moltmann, 1979 "September 1984."
 
-- [Emigrants from Schleswig-Holstein Database](http://www.aggsh.de/german/) of the Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V
-  (Genealogy Working Group of Schleswig-Holstein). 
+-
+
+  - [Emigrants from Schleswig-Holstein Database](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/passagierlisten-auswandererschiffe-hamburg-suche) of the Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V
+  (Genealogy Working Group of Schleswig-Holstein).
 
     There is a list of names for the passenger lists of the emigrant ships that set sail via Hamburg for the period 1850 to 1871 (index cards, created by Karl
     Werner Klüber ). Members of AGGSH eV looked through these index cards to find the emigrants from Schleswig-Holstein ("Voss" and others) who left via the
@@ -263,11 +265,14 @@
   
   **Publisher:** R.M. Bell, Washington, Pa. (413 Burton Av., Washington), 1982
 
-- [Die Bevölkerung des Herzogtums Schleswig am 13.Februar 1803](http://www.aggsh.de/myscripts/vz_witt_start4.html)
+- [Emigration databases of the Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V. (The Genealogical Society of Schleswig Holstein](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein)
   
-  A database of the Arbeits-Gemeinschaft Genealogie (Genealogy Working Group) of Schleswig-Holstein e.V. that contains the transcriptions
-  of the 1803 census register of the southern part of the Duchy of Schleswig (see note)  which have been supplemented and corrected with
-  information from the church records. It was created from years of research by association member Johannes Witt in Kiel.
+  Their searchable databases include:
+  - Passenger lists of the Hamburg emigration ships
+  - Release from the Nexus
+  - Emigration archive of the America Society Bad Segeberg
+  - Emigrant letters in the archive of the Hamburg Emigrant Mission
+  - Emigrant database (old homepage)
 
 - [Palatinate Library in Kaiserslauten](https://www.bv-pfalz.de/kultur-bildung/pfalzbibliothek-kaiserslautern/)
 
@@ -276,22 +281,31 @@
 
 - [Institute for Palatinate history and folklore](https://www.pfalzgeschichte.de/de/)
 
-   - [Digital migration card index](https://www.pfalzgeschichte.de/de/forschung/laufende-projekte/digitale-migrationskartei/)
+  - [Digital migration card index](https://www.pfalzgeschichte.de/de/forschung/laufende-projekte/digitale-migrationskartei/)
   
-   This is an extensive migration card index with around 300,000 data sets, from which more than a million migration movements have emerged since the 16th century.
+    This is an extensive migration card index with around 300,000 data sets, from which more than a million migration movements have emerged since the 16th century.
 
-   **Note:** As of June 10, 2023, the online digital card index is not yet live.
+    **Note:** As of June 10, 2023, the online digital card index is not yet live.
 
 .. TODO: Resume checking here
 
-- *Biographisches Handbuch der deutschsprachigen Emigration nach 1933*
-    Leitung und Bearbeitung, Werner Röder, Herbert A. Strauss, unter
-    Mitwirkung von Dieter Marc Schneider, Louise Forsyth ; Autoren, Jan
-    Foitzik …​ \[et al.\] ; Redaktion, Sybille Claus und Beatrix Schmidt.
-    München ; New York : K.G. Saur ; Detroit, Mich. : Distributed by
-    Gale Research Company, 19801983. 3 v. in 4.  Contains approximately
-    8,700 biographical sketches of persons who emigrated from Central
-    Europe during the period of the Third Reich. Indexes in volume 3.  
+- [Biographisches Handbuch der deutschsprachigen Emigration nach 1933](https://worldcat.org/search?q=ti%3ABiographisches+Handbuch+der+deutschsprachigen+Emigration+nach+1933)
+
+  **Authors:** Werner Röder, Herbert Arthur Strauss, Jan Foitzik, Institut für Zeitgeschichte (Munich, Germany), Research Foundation for Jewish Immigration
+  
+  **Publisher:** K.G. Saur ; Distributed by Gale Research Co., München, New York, 1980-1983
+
+  **Notes:**
+  Vol. 2 in English
+
+  Half title of v. 1, title of v. 2, and parallel title of v. 3: International biographical dictionary of central European emigrés, 1933-1945
+  Vol. 3: Unter der Leitung von Werner Röder zusammengestellt von Sybille Claus, Daniel Niederland und Beatrix Schmidt
+  "Herausgegeben vom Institut für Zeitgeschichte München und von der Research Foundation for Jewish Immigration, Inc., New York, unter Gesamtleitung von Werner Röder und Herbert A. Strauss"--V. 3, half title
+  "Decknamen, Pseudonyme und Namensänderungen": v. 1, p. [853]-861
+
+  **Language Notes:**  Volumes 1 and 3 are in German, volume 2 is in English
+
+.. TODO: Resume Here:
 
 - [Brandenburg, Prussia Emigration Index](http://service.bfast.com/bfast/click?bfmid=5647408&siteid=28727949&bfpage=brapru)
     (Ancestry.com - requires payment) These records are also available
@@ -549,7 +563,7 @@
 
 - [Emigration database Lippe](http://lippe-auswanderer.de)
 
-    [Alphabetical List of Emigrant Surnames with Dates](http://www.lippe-auswanderer.de/AuswandererLippe-USA/html/frames.htm)
+  - [Alphabetical List of Emigrant Surnames with Dates](http://www.lippe-auswanderer.de/AuswandererLippe-USA/html/frames.htm)
 
     Created by members of the genealogical group within the Naturwissenschaftlicher und Historischer Verein für das Land Lippe (Natural Science and Historical Society for the Land of Lippe).
 
