@@ -10,7 +10,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'German Emigration Records'
-copyright = '2023, Kurt Krueckeberg'
+copyright = "MIT License"
 author = 'Kurt Krueckeberg'
 release = ''
 
@@ -38,7 +38,12 @@ html_theme_options = {
    'html_minify': True,
    'css_minify': True,
    'logo_icon': '&#xe869',
-   'globaltoc_depth': 2
+   'globaltoc_depth': 2,
+    "color_primary": "blue",
+    "color_accent": "cyan",
+    "theme_color": "#2196f3",
+    "version_dropdown": True,
+    "table_classes": ["plain"]
 }
 
 html_static_path = ['_static']
