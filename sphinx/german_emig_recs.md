@@ -133,7 +133,7 @@
 
       Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.
 
-[comment]: TODO Check the above statement for accuracy
+<!--- TODO Check the above statement for accuracy --->
 
   - [Auswanderung aus Kurhessen : nach Osten oder Westen? (Emigration from Kurhessen : to the east of the west?)](https://worldcat.org/title/31413781)
 
@@ -195,7 +195,7 @@
 
     **Contents:** A chronological list of emigrants from Lippe up to 1877; contains indexes of surnames and places.
 
-[comment]: TODO: Look into the all the links on this [Rheinland-Pfalz Tourism Page](https://www.routes.de/linksammlung/004RP.htm). They look interesting.
+<!---  TODO: Look into the all the links on this [Rheinland-Pfalz Tourism Page](https://www.routes.de/linksammlung/004RP.htm). They look interesting. --->
 
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
     (Rhineland).
@@ -241,7 +241,7 @@
    of origin of the emigrants . In addition to the names of the emigrants, biographical data, emigration destinations and times of
    emigration can be called up. LEO-BW thus offers a research entry point for family research.
 
-[comment]: TODO: Incorporate the information from https://www.wgff.de/linkliste.php?subject=auswanderer at this point. Check entires below:
+<!--- Incorporate the information from https://www.wgff.de/linkliste.php?subject=auswanderer at this point. Check entires below: --->
 
 - [Ancestry.com’s searchable Baden, Germany Emigration Index, 1866-1911](https://www.ancestry.com/search/collections/4610/)
 
@@ -320,7 +320,7 @@
 
   **Format:** Database of the Geislingen/Steige, Heidenheim, Blaubeuren, Ulm and Göppingen Family History Society
 
-[comment]: TODO: Finish the next two entries and join them with those immediately below them.
+<!--- TODO: Finish the next two entries and join them with those immediately below them. --->
 
 - Braun, Fritz, comp. *Auswanderer auf dem Schiff Samuel M. Fox.
     Ankunft New York, 4. Aug. 1852*. (Kaiserslautern, Heimatstelle Pfalz
