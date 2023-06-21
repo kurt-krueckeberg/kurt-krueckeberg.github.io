@@ -1569,6 +1569,8 @@
 
 - [Wuerttemberg Emigration Index, 8 Volumes](https://worldcat.org/title/13311619)
 
+  **Comment:** An online searchable version of these volume is available on Ancestry. See the reference immediately above this on.
+
   **Authors:** Trudy Schenk, Ruth Froelke, Inge Bork
 
   **Summary:** Contains names of approximately 60,000 persons applied to leave Germany from late eighteenth century to 1900.
