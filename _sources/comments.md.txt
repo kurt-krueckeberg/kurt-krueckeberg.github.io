@@ -1,6 +1,6 @@
 # Comments
 
-## History this Documentaion
+## History of this Documentaion
 
 Much of the information on this site originally came from the now defunct `Genealoger.com`. It was extracted from the **October 16, 2021,
 WayBackMachine** version of
