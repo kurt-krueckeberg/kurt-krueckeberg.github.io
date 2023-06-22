@@ -162,7 +162,7 @@ South
 
     **Notes:** Extracted from Hessian sheets for folk and cultural research, new volume 17, 1985
 
-- [Auf nach Amerika! Beiträge zur Amerika-Auswanderung des 19. Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der historischen Beziehungen im 20. JahrhundertOff to America! Contributions to the 19th century emigration to America from the Paderborn region and to the revival of historical relations in the 20th century.()](https://worldcat.org/title/722544364)
+- [Auf nach Amerika! Beiträge zur Amerika-Auswanderung des 19. Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der historischen Beziehungen im 20. Jahrhundert (Off to America! Contributions to the 19th century emigration to America from the Paderborn region and to the revival of historical relations in the 20th century)](https://worldcat.org/title/722544364)
 
   **Author:** Deutsch-Amerikanischer Freundeskreis Paderborn-Belleville (Issuing body)
 
