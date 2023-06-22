@@ -33,7 +33,7 @@ South
 
     List of emigrants from Unterschlechtbach.
 
-    **Note:** The link is to a German online antiqurian book dealer. They ship internally.
+    **Note:** The link is to a German online antiqurian book dealer. They ship internationally.
 
 - [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/)\
     [Amerikaauswanderer-Kreis-Herford.pdf](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
