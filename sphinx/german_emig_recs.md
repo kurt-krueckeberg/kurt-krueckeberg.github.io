@@ -162,9 +162,7 @@ South
 
     **Notes:** Extracted from Hessian sheets for folk and cultural research, new volume 17, 1985
 
-  -  [Auf nach Amerika! Beiträge zur Amerika-Auswanderung des 19. Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der historischen Beziehungen im 20. Jahrhundert](https://worldcat.org/title/722544364)
-
-  **Title:** Off to America! Contributions to the 19th century emigration to America from the Paderborn region and to the revival of historical relations in the 20th century.
+- [Auf nach Amerika! Beiträge zur Amerika-Auswanderung des 19. Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der historischen Beziehungen im 20. JahrhundertOff to America! Contributions to the 19th century emigration to America from the Paderborn region and to the revival of historical relations in the 20th century.()](https://worldcat.org/title/722544364)
 
   **Author:** Deutsch-Amerikanischer Freundeskreis Paderborn-Belleville (Issuing body)
 
@@ -176,8 +174,8 @@ South
   - v. 2. 19th century emigrants from the districts of Büren and Paderborn
   - v. 3. on emigration to America from the Paderborn region and on immigration from Germany to the region of Paderborn's twin town Belleville, Illinois
 
-    Volume 1, pages 126 to 191, lists emigrants from the city of Paderborn. Volume 2 lists emigrants from the counties of
-    Büren and Paderborn. The arrangement in both volumes is by year of emigration, with a personal name index.  
+  Volume 1, pages 126 to 191, lists emigrants from the city of Paderborn. Volume 2 lists emigrants from the counties of
+  Büren and Paderborn. The arrangement in both volumes is by year of emigration, with a personal name index.  
 
 - [Auswanderer aus dem Rheinland = Emigrant file Rhineland](https://worldcat.org/title/40132914)
 
