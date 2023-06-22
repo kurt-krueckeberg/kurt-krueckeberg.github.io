@@ -143,14 +143,12 @@ South
     **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
 
     **Contents:**
-    - Bd. 1. Auswanderer aus Hanau im 18. Jahrhundert
-    - Bd. 2. Auswanderer aus Hessen-Kassel, 1840-1850
+    - Vol. 1. Auswanderer aus Hanau im 18. Jahrhundert (Emigrants from Hanau in the 18th Century)
+    - Vol. 2. Auswanderer aus Hessen-Kassel, 1840-1850 (Emigrants from Hessen-Kassel, 1840-1850)
 
     Notes: Vol. 2 has pref. in German and English.
-    
-    <!--- TODO Check the above below for accuracy --->
 
-    Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.
+    **Notes:** Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.
 
   - [Auswanderung aus Kurhessen : nach Osten oder Westen? (Emigration from Kurhessen : to the east of the west?)](https://worldcat.org/title/31413781)
 
