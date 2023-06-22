@@ -217,8 +217,6 @@ South
   
   **Author:** Werner Lichter
 
-  **Format:** PDF
-
   **Content:**  Alphabetical list of 4,742 people emigrants from the area of the former Prussian government district of Trier; 1700-1900.
   There are three organized lists:
 
