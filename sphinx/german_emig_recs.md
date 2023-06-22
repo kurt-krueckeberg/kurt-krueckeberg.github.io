@@ -105,7 +105,7 @@ South
   **Publisher:** S.M. Andrusko, Silver Spring, Md. (95 E. Wayne Ave., Apt. T-2, Silver Spring 20901), 1984
 
   **Notes:** An introduction and English translation of selected information on certain emigrants from the
-  book [Aufbruch nach Amerika : Friedrich List u. d. Auswanderung aus Baden u. Württemberg 1816/17 : Dokumentation e. sozialen Bewegung](https://worldcat.org/title/6088787) by Ingrid Schöberl and Günter
+  book [Aufbruch nach Amerika : Friedrich List u. d. Auswanderung aus Baden u. Württemberg 1816/17 : Dokumentation e. sozialen Bewegung (Departure to America : Friedrich List and the Emigration from Baden and Württemberg in 1816/17 : Documentation of a Social Movement)](https://worldcat.org/title/6088787) by Ingrid Schöberl and Günter
   Moltmann, 1979
 
 - [Emigrants from Schleswig-Holstein Database](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/passagierlisten-auswandererschiffe-hamburg-suche) of the Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V. (Genealogy Working Group of Schleswig-Holstein)
