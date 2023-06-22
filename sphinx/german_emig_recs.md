@@ -152,11 +152,11 @@ South
 
   - [Auswanderung aus Kurhessen : nach Osten oder Westen? (Emigration from Kurhessen : to the east of the west?)](https://worldcat.org/title/31413781)
 
-   **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
+    **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
 
-   **Publisher:** Hessisches Staatsarchiv Marburg, Marburg, 1993
+    **Publisher:** Hessisches Staatsarchiv Marburg, Marburg, 1993
 
-   **Table of Contents:** [here](http://bvbr.bib-bvb.de:8991/exlibris/aleph/a23_1/apache_media/G1LYF7SJM5DBX2Q3VU13UPE1VNXLL3.pdf)
+    **Table of Contents (in German):** [here](http://bvbr.bib-bvb.de:8991/exlibris/aleph/a23_1/apache_media/G1LYF7SJM5DBX2Q3VU13UPE1VNXLL3.pdf)
 
   - [Auswanderung aus Kurhessen 1832-1866. Herrn Prof. Dr. Georg Rauch zum 80. geburtstag](https://worldcat.org/title/84333876)
 
