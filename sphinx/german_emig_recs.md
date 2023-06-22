@@ -179,7 +179,7 @@ South
 
 - [Auswanderer aus dem Rheinland = Emigrant file Rhineland](https://worldcat.org/title/40132914)
 
-  **Author:** Regina Hönerlage, Claudia Kurfürst, Hans-Georg Wahl, Nordrhein-Westfälisches Hauptstaatsarchiv
+  **Authors:** Regina Hönerlage, Claudia Kurfürst, Hans-Georg Wahl, Nordrhein-Westfälisches Hauptstaatsarchiv
   
   **Publisher:** Nordrhein-Westfälisches Hauptstaatsarchiv, Düsseldorf, ©1997
 
@@ -187,11 +187,11 @@ South
 
 - [Auswanderer aus dem Rheinland (19. Jahrhundert)](https://worldcat.org/title/1152174259)
 
-    **Author:** Landesarchiv Nordrhein-Westfalen
+  **Author:** Landesarchiv Nordrhein-Westfalen
 
-    **Format:** eBook
+  **Format:** eBook
 
-    **Notes:** A few of the districts covered show names from the 20th century. The linked Excel file is dated 2016. Title from home page (viewed on 27 April 2020)
+  **Notes:** A few of the districts covered show names from the 20th century. The linked Excel file is dated 2016. Title from home page (viewed on 27 April 2020)
 
 - [Online database of Emigrants from Köln](https://altes-koeln.de/wiki/Auswanderer_aus_K%C3%B6ln)
 
