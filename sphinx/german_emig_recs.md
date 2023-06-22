@@ -179,7 +179,7 @@ South
 
 - [Auswanderer aus dem Rheinland = Emigrant file Rhineland](https://worldcat.org/title/40132914)
 
-  **Author:** Authors:Regina Hönerlage, Claudia Kurfürst, Hans-Georg Wahl, Nordrhein-Westfälisches Hauptstaatsarchiv
+  **Author:** Regina Hönerlage, Claudia Kurfürst, Hans-Georg Wahl, Nordrhein-Westfälisches Hauptstaatsarchiv
   
   **Publisher:** Nordrhein-Westfälisches Hauptstaatsarchiv, Düsseldorf, ©1997
 
