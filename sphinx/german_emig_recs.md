@@ -4,7 +4,7 @@
 
 - [CompGen: Bibliography of German and American Sources for German Emigration to America](https://www.genealogienetz.de/misc/emig/emigrati.html)
 
-  **Author:** Michael P. Palmer.
+  **Author:** Michael P. Palmer
 
   **Contents:** Covers both 18th and 19th centures.
 
