@@ -211,9 +211,9 @@
 
 <!---  TODO: Look into the all the links on this [Rheinland-Pfalz Tourism Page](https://www.routes.de/linksammlung/004RP.htm). They look interesting. --->
 
-- [Emigrants of Primasens and Surroundings to America](https://www.genealogie-pirmasens.de/Emigrants/index_e.html)
+- [Emigrants of Pirmasens and Surroundings to America](https://www.genealogie-pirmasens.de/Emigrants/index_e.html)
 
-  **Contents:** Contains: name, birthdate, parents, where they settled in America, and comments (on year of emigration, sometimes with ship name, and/or whom they married)
+  **Contents:** Alphabetical list of individual's name, birthdate, parents, where they settled in America, and comments (on year of emigration, sometimes with ship name, and/or whom they married)
   
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
     (Rhineland).
