@@ -110,7 +110,7 @@ South
 
 - [Emigrants from Schleswig-Holstein Database](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/passagierlisten-auswandererschiffe-hamburg-suche) of the Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V. (Genealogy Working Group of Schleswig-Holstein)
 
-  **Summary:** A list of names for the passenger lists of the emigrant ships that set sail via Hamburg for the period 1850 to 1871 (index cards, created by Karl
+  **Contents:** A list of names for the passenger lists of the emigrant ships that set sail via Hamburg for the period 1850 to 1871 (index cards, created by Karl
   Werner Klüber ). Members of AGGSH e.V.  (Genealogy Working Group of Schleswig-Holstein) looked through these index cards to find the emigrants from Schleswig-Holstein ("Voss" and others) who left
   via the port of Hamburg between 1856 and 1871.
 
