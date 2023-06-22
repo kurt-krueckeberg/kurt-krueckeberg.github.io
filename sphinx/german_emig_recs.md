@@ -108,7 +108,9 @@ South
   book [Aufbruch nach Amerika : Friedrich List u. d. Auswanderung aus Baden u. Württemberg 1816/17 : Dokumentation e. sozialen Bewegung (Departure to America : Friedrich List and the Emigration from Baden and Württemberg in 1816/17 : Documentation of a Social Movement)](https://worldcat.org/title/6088787) by Ingrid Schöberl and Günter
   Moltmann, 1979
 
-- [Emigrants from Schleswig-Holstein Database](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/passagierlisten-auswandererschiffe-hamburg-suche) of the Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V. (Genealogy Working Group of Schleswig-Holstein)
+- [Emigrants from Schleswig-Holstein Online Database](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/passagierlisten-auswandererschiffe-hamburg-suche)
+
+  **Author:** Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V. (Genealogy Working Group of Schleswig-Holstein)
 
   **Contents:** A list of names for the passenger lists of the emigrant ships that set sail via Hamburg for the period 1850 to 1871 (index cards, created by Karl
   Werner Klüber ). Members of AGGSH e.V.  (Genealogy Working Group of Schleswig-Holstein) looked through these index cards to find the emigrants from Schleswig-Holstein ("Voss" and others) who left
