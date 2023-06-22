@@ -61,7 +61,7 @@ South
 
 - PDF: [Diekmann, Norbert: Emigrants from Gronau and Epe](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-aus-Gronau-und-Epe.pdf)
 
-    **Contents:** The PDF is a summary of the personal data on emigration collected by Norbert Diekmann in several episodes of the series "Emigrants and
+    **Contents:** A summary of the personal data on emigration collected by Norbert Diekmann in several episodes of the series "Emigrants and
     'distant' relatives" in the Gronau and Epe civil register.
 
 - PDF: [Brinkkötter, Alois: Emigration from Greven in Westphalia in the 19th century](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-Greven.pdf)
