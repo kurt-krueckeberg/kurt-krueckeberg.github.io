@@ -53,11 +53,11 @@ South
   - Volume 3: "America emigrants from Bünde, Rödinghausen, Kirchlengern and Gohfeld-
  Mennighüffen in the 19th century", September 1990.
   
-- [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
+- PFD: [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
 
   **Author:** Minninger, Monika
 
-  **Contents:** Pdf file. A history and list of emigrants to North America from the city and district of Bielefeld from 1815-1900.
+  **Contents:**  A history and list of emigrants to North America from the city and district of Bielefeld from 1815-1900.
 
 - [Diekmann, Norbert: Emigrants from Gronau and Epe](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-aus-Gronau-und-Epe.pdf)
 
