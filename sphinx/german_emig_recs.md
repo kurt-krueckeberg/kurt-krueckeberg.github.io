@@ -59,12 +59,9 @@ South
 
   **Contents:**  A history and list of emigrants to North America from the city and district of Bielefeld from 1815-1900.
 
-- [Diekmann, Norbert: Emigrants from Gronau and Epe](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-aus-Gronau-und-Epe.pdf)
+- PDF: [Diekmann, Norbert: Emigrants from Gronau and Epe](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-aus-Gronau-und-Epe.pdf)
 
-    **Format:** PDF
-
-    **Contents:**  
-    The PDF is a summary of the personal data on emigration collected by Norbert Diekmann in several episodes of the series "Emigrants and
+    **Contents:** The PDF is a summary of the personal data on emigration collected by Norbert Diekmann in several episodes of the series "Emigrants and
     'distant' relatives" in the Gronau and Epe civil register.
 
 - [Brinkkötter, Alois: Emigration from Greven in Westphalia in the 19th century](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-Greven.pdf)
