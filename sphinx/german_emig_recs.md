@@ -100,12 +100,13 @@ South
 
 - [Emigrants from Baden and Württemberg 1816/17, extracted from Aufbruch nach Amerika](https://worldcat.org/title/12104494?oclcNum=12104494)
 
-    **Author:** Andrusko, Samuel M.
+  **Author:** Andrusko, Samuel M.
 
-    **Publisher:** S.M. Andrusko, Silver Spring, Md. (95 E. Wayne Ave., Apt. T-2, Silver Spring 20901), 1984
+  **Publisher:** S.M. Andrusko, Silver Spring, Md. (95 E. Wayne Ave., Apt. T-2, Silver Spring 20901), 1984
 
-    **Notes:** An introduction and English translation of selected information on certain emigrants from Aufbruch nach Amerika / unter Mitarb. von Ingrid Schöberl, hrsg. von Günter
-    Moltmann, 1979 "September 1984."
+  **Notes:** An introduction and English translation of selected information on certain emigrants from the
+  book [Aufbruch nach Amerika : Friedrich List u. d. Auswanderung aus Baden u. Württemberg 1816/17 : Dokumentation e. sozialen Bewegung](https://worldcat.org/title/6088787) by Ingrid Schöberl and Günter
+  Moltmann, 1979
 
 - [Emigrants from Schleswig-Holstein Database](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/passagierlisten-auswandererschiffe-hamburg-suche) of the Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V. (Genealogy Working Group of Schleswig-Holstein)
 
