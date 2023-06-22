@@ -64,7 +64,7 @@ South
     **Contents:** The PDF is a summary of the personal data on emigration collected by Norbert Diekmann in several episodes of the series "Emigrants and
     'distant' relatives" in the Gronau and Epe civil register.
 
-- [Brinkkötter, Alois: Emigration from Greven in Westphalia in the 19th century](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-Greven.pdf)
+- PDF: [Brinkkötter, Alois: Emigration from Greven in Westphalia in the 19th century](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-Greven.pdf)
 
     Here you can see a certainly not exhaustive list of 419 women and men and their children who left Greven to start a new and better
     life in the New World, mainly in North America.
