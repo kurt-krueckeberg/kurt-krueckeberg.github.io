@@ -119,11 +119,11 @@ South
 
   "We do not claim that our data is complete, as the work is not yet fully completed. The data collected so far can be searched here."
 
-- [Index zum Auswandererarchiv der Amerika Gesellschaft e.V. Bad Segeberg](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/namens-index-auswandererarchiv-bad-segeberg)
+- [Online Index zum Auswandererarchiv der Amerika Gesellschaft e.V. Bad Segeberg (Index of the emigration archiv of the American Society e.V. Bad Segeberg](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/namens-index-auswandererarchiv-bad-segeberg)
 
   An index to the emigration archive of the America Society Bad Segeberg.
 
-  The members of the Amerika Gesellschaft eV in Bad Segeberg have been working for years on creating an emigration archive with data on
+  The members of the Amerika Gesellschaft (American Society) e.V. in Bad Segeberg have been working for years on creating an emigration archive with data on
   people from Schleswig-Holstein who emigrated. In the meantime, this file has reached the size of approx. 5,000 cards. The AGGSH e. V.
   had taken on the task of entering those index cards into the computer. Here is a publication of the index to these cards.
   The data do not claim to be complete. These were adopted as far as possible as they could be found on the index cards.
