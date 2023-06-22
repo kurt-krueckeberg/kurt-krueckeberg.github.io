@@ -53,7 +53,7 @@ South
   - Volume 3: "America emigrants from Bünde, Rödinghausen, Kirchlengern and Gohfeld-
  Mennighüffen in the 19th century", September 1990.
   
-- PFD: [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
+- PDF: [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
 
   **Author:** Minninger, Monika
 
