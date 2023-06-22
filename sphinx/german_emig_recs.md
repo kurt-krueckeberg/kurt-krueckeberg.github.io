@@ -8,7 +8,7 @@
 
   **Contents:** Covers both 18th and 19th centures.
 
-- [German Emigrant Databases](https://www.wgff.de/linkliste.php?subject=auswanderer) from South German Genealogical Society
+- [German Emigrant Databases](https://www.wgff.de/linkliste.php?subject=auswanderer)
 
   **Author:** South German Genealogical Society
 South
