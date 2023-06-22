@@ -21,19 +21,17 @@
 - [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/)\
     [Amerikaauswanderer-Kreis-Herford.pdf](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
 
-    You can download the .Pdf above that consists of these three volumes:
+    You can download the PDF above that consists of these three volumes:
 
   - Volume 1: “America Emigrants from the Spenge and Enger Offices”, June 1987
 
   - Volume 2: "America Emigrants from Herford, Hiddenhausen and
     Vlotho in the 19th Century", November 1988
 
-  - Volume 3: "America emigrants from the offices of Bünde,
-    Rödinghausen, Kirchlengern and Gohfeld-Mennighüffen in the 19th century", September 1990.
+  - Volume 3: "America emigrants from Bünde, Rödinghausen, Kirchlengern and Gohfeld-Mennighüffen in the 19th century", September 1990.
 
-    A list of 19th emigrants to America from Kreis Herford; arrangement is
-    by town then year of emigration, with a name index. Many settled in the
-    Middle West.
+    **Contents:** A list of 19th emigrants to America from Kreis Herford; arrangement is
+    by town then year of emigration, with a name index. Many settled in the Middle West.
 
 - [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
 
@@ -131,24 +129,24 @@
     - Bd. 2. Auswanderer aus Hessen-Kassel, 1840-1850
 
     Notes: Vol. 2 has pref. in German and English.
+    
+    <!--- TODO Check the above below for accuracy --->
 
     Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.
 
-<!--- TODO Check the above statement for accuracy --->
-
   - [Auswanderung aus Kurhessen : nach Osten oder Westen? (Emigration from Kurhessen : to the east of the west?)](https://worldcat.org/title/31413781)
 
-    **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
+   **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
 
-    **Publisher:** Hessisches Staatsarchiv Marburg, Marburg, 1993
+   **Publisher:** Hessisches Staatsarchiv Marburg, Marburg, 1993
 
-    **Table of Contents:** [here](http://bvbr.bib-bvb.de:8991/exlibris/aleph/a23_1/apache_media/G1LYF7SJM5DBX2Q3VU13UPE1VNXLL3.pdf)
+   **Table of Contents:** [here](http://bvbr.bib-bvb.de:8991/exlibris/aleph/a23_1/apache_media/G1LYF7SJM5DBX2Q3VU13UPE1VNXLL3.pdf)
 
   - [Auswanderung aus Kurhessen 1832-1866. Herrn Prof. Dr. Georg Rauch zum 80. geburtstag](https://worldcat.org/title/84333876)
 
     **Notes:** Extracted from Hessian sheets for folk and cultural research, new volume 17, 1985
 
-- [Auf nach Amerika! Beiträge zur Amerika-Auswanderung des 19. Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der historischen Beziehungen im 20. Jahrhundert](https://worldcat.org/title/722544364)
+  -  [Auf nach Amerika! Beiträge zur Amerika-Auswanderung des 19. Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der historischen Beziehungen im 20. Jahrhundert](https://worldcat.org/title/722544364)
 
   **Title:** Off to America! Contributions to the 19th century emigration to America from the Paderborn region and to the revival of historical relations in the 20th century.
 
@@ -167,9 +165,11 @@
 
 - [Auswanderer aus dem Rheinland = Emigrant file Rhineland](https://worldcat.org/title/40132914)
 
-    **Publisher:** Nordrhein-Westfälisches Hauptstaatsarchiv, Düsseldorf, ©1997
+  **Author:** Authors:Regina Hönerlage, Claudia Kurfürst, Hans-Georg Wahl, Nordrhein-Westfälisches Hauptstaatsarchiv
+  
+  **Publisher:** Nordrhein-Westfälisches Hauptstaatsarchiv, Düsseldorf, ©1997
 
-    **Note:** "Emigranten aus den Regierungsbezirken Aachen, Düsseldorf und Köln (Emigrants from the administrative districts of Aachen, Düsseldorf and Cologne), 1816-1934."
+  **Note:** "Emigranten aus den Regierungsbezirken Aachen, Düsseldorf und Köln (Emigrants from the administrative districts of Aachen, Düsseldorf and Cologne), 1816-1934."
 
 - [Auswanderer aus dem Rheinland (19. Jahrhundert)](https://worldcat.org/title/1152174259)
 
