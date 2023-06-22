@@ -11,7 +11,6 @@
 - [German Emigrant Databases](https://www.wgff.de/linkliste.php?subject=auswanderer)
 
   **Author:** South German Genealogical Society
-South
 
 - [German Immigration Bibliography](https://www.slcl.org/sites/default/files/Sources%20in%20the%20History%20&%20Genealogy%20Department%20pertaining%20to%2019th%20German%20immigration.pdf)
 
@@ -31,7 +30,7 @@ South
 
     **Publisher:** Self Published, 1936
 
-    List of emigrants from Unterschlechtbach.
+    **Contents:** List of emigrants from Unterschlechtbach.
 
     **Note:** The link is to a German online antiqurian book dealer that ships internationally.
 
@@ -40,18 +39,16 @@ South
   - PDF: [Amerikaauswanderer-Kreis-Herford (Emigrants to America from the Distict of Herford)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
 
   - PDF [Index der Familiennamen von den Auswanderern aus Herford (Surname index of Emigrants from Herford)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford-Index.pdf)
-        
+
   **Contents:** A list of 19th emigrants to America from Kreis Herford; arrangement is by town then year of emigration, with a separate name index. Many settled in the Middle West.
-    
+
   Three volumes:
 
   - Volume 1: “America Emigrants from the Spenge and Enger Offices”, June 1987
 
-  - Volume 2: "America Emigrants from Herford, Hiddenhausen and
-      Vlotho in the 19th Century", November 1988
+  - Volume 2: "America Emigrants from Herford, Hiddenhausen and Vlotho in the 19th Century", November 1988
 
-  - Volume 3: "America emigrants from Bünde, Rödinghausen, Kirchlengern and Gohfeld-
- Mennighüffen in the 19th century", September 1990.
+  - Volume 3: "America emigrants from Bünde, Rödinghausen, Kirchlengern and Gohfeld-Mennighüffen in the 19th century", September 1990.
   
 - PDF: [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
 
@@ -77,13 +74,15 @@ South
 
 - PDF: [Holz, Martin: Auswanderer nach Brasilien](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-nach-Brasilien.pdf)
 
-    **Source:** Amtsblätter der Königlichen Regierung zu Münster von 1860–1871.
+  **Source:** Amtsblätter der Königlichen Regierung zu Münster von 1860–1871.
 
-    **Contents:** The emigrants are mainly reservists and persons liable to military service, who did not comply with the mobilization order or
-    the call-up to military service and emigrated without permission
+  **Contents:** The emigrants are mainly reservists and persons liable to military service, who did not comply with the mobilization order or
+  the call-up to military service and emigrated without permission
 
 - PDF: [Holz, Martin: German Immigrants from Bremen to New York, 1847-1871](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/German-Immigrants-from-Bremen-to-New-York-1847-1871.pdf)
 
+  <!--- TODO: The translation below is confusin. Fix it. --->
+  
     In Germany, as in other countries, there are places and farming communities of the same name in different parts of the country. If
     you use this source, you have to check the evaluation in the church
     register films or church registers of the localities in the
@@ -212,6 +211,10 @@ South
 
 <!---  TODO: Look into the all the links on this [Rheinland-Pfalz Tourism Page](https://www.routes.de/linksammlung/004RP.htm). They look interesting. --->
 
+- [Emigrants of Primasens and Surroundings to America](https://www.genealogie-pirmasens.de/Emigrants/index_e.html)
+
+  **Contents:** Contains: name, birthdate, parents, where they settled in America, and comments (on year of emigration, sometimes with ship name, and/or whom they married)
+  
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
     (Rhineland).
   
@@ -243,7 +246,7 @@ South
     Bayern – Grüß Gott Americ". Catalog may still be available.
 
 - [Auswanderer aus Mestlin - Mecklenburg](http://www.emecklenburg.de/Mestlin/personen/emigrat.html)
- 
+
     List of emigrants to America and information about emigration to America from Mestlin.
 
 - [Auswanderung aus Südwestdeutschland](https://www.leo-bw.de/web/guest/themen/auswanderer)
@@ -1562,12 +1565,12 @@ South
   **Content:**  Examines German immigration to the U.S. following the failed 1848
     revolution in Germany.  
 
-- [German immigrants : lists of passengers bound from Bremen to New York [dates], with places of origin](https://worldcat.org/title/12389585)
+- [German immigrants : lists of passengers bound from Bremen to New York [dates], with places of origin](<https://worldcat.org/title/12389585>)
 
   **Authors:** Authors:Gary J. Zimmerman (Compiler), Marion Wolfert (Compiler)
 
   **Contents:** Four volumes:  
-    -  [1] 1847-1854
+  - [1] 1847-1854
   - [2] 1855-1862
   - [3] 1863-1867
   - [4] 1868-1871
@@ -1600,19 +1603,21 @@ South
   - v. 8. [Oberamts]: Cannstatt, Goeppingen, Laupheim, Leutkirch, Ludwigsburg, Ravensburg, Saulgau, Stuttgart, Tettnang, Tuebingen, Ulm
 
 - Yoder, Don, editor. Rhineland emigrants : lists of German settlers in colonial America. Baltimore
-- 
-  Genealogical Pub. Co., 1981. 
+-
+  Genealogical Pub. Co., 1981.
   
   A collection of "twenty-four articles dealing with German-speaking emigrants of the eighteenth century". Contains a personal name index.
 
+- Zimmerman, Gary and Marion Wolfert works:
+
 - [German immigrants : lists of passengers bound from Bremen to New York \\\[dates\], with places of origin](https://worldcat.org/title/12389585)
 
-    **Authors:** Gary J. Zimmerman (Compiler), Marion Wolfert (Compiler)
+  **Authors:** Gary J. Zimmerman (Compiler), Marion Wolfert (Compiler)
 
-    **Publisher:** Genealogical Pub. Co., Baltimore, 1993.
+  **Publisher:** Genealogical Pub. Co., Baltimore, 1993.
 
-    **Contents:** A partial reconstruction of some Bremen passenger lists, based on American sources. Only those
-    passengers are included for whom a specific place of origin is given. 4 volumes:
+  **Contents:** A partial reconstruction of some Bremen passenger lists, based on American sources. Only those
+  passengers are included for whom a specific place of origin is given. 4 volumes:
 
   - \[1\] 1847-1854
 
@@ -1622,25 +1627,26 @@ South
 
   - \[4\] 1868-1871  
 
-- [German Immigrants from Bremen to New York.  1847-1862](https://worldcat.org/title/260189177).
+- [German Immigrants from Bremen to New York 1847-1862](https://worldcat.org/title/260189177).
 
-- **Authors:**  Zimmerman, Gary J. & Marion Wolfert.
+  **Authors:**  Zimmerman, Gary J. & Marion Wolfert.
 
-- **Summary:** A partial
-    reconstruction of Bremen passenger lists based on U.S. sources. Not
-    all Bremen passengers are included; only those giving a specific
-    place of origin in Germany. This is about 21%; those giving only
-    "Germany" as place of origin was about 79%  
+  **Summary:** A partial reconstruction of Bremen passenger lists based on U.S. sources. Not
+  all Bremen passengers are included; only those giving a specific place of origin in Germany. This is about 21%; those giving only
+  "Germany" as place of origin was about 79%  
 
-- Zimmerman, Gary J. & Wolfert, M.  *German immigrants: Lists of
-    passengers bound from Bremen to New York, 1855-1862*. 1986
+- German immigrants: Lists of passengers bound from Bremen to New York, 1855-1862*. 1986
 
-- Zimmerman, Gary J. and Marion Wolfert, compilers. *German
-    Immigrants: Lists of Passengers Bound from Bremen to New York
-    1863-1867, with Place of Origin.* Baltimore, Maryland: Genealogical
-    Publishing Co., 1988.
+  **Compilers:** Zimmerman, Gary J. & Wolfert, M.
 
-- Zimmerman, Gary L. and Marion Wolfert, compilers. *German
-    Immigrants: Lists of Passengers Bound from Bremen to New York
-    1868-1871, with Places of Origin.* Baltimore, Maryland, Genealogical
-    Publishing Co.l, 1993.
+- German Immigrants: Lists of Passengers Bound from Bremen to New York 1863-1867, with Place of Origin
+  
+  **Compilers:** Zimmerman, Gary J. & Wolfert, M.
+
+  **Publisher:** Baltimore, Maryland: Genealogical Publishing Co., 1988.
+
+- German Immigrants: Lists of Passengers Bound from Bremen to New York 1868-1871, with Places of Origin.
+
+  **Compilers:** Zimmerman, Gary J. & Wolfert, Marion
+
+  **Publihser:** Baltimore, Maryland, Genealogical Publishing Co.l, 1993.
