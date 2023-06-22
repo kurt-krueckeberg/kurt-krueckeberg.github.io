@@ -19,7 +19,7 @@ South
 
  - [German Origins in the United States: A Guide to Local History and Genealogy Sources](https://guides.loc.gov/german-genealogy/emigration-from-germany/palatinate)
 
-  **Author:** Library of Congress
+   **Author:** Library of Congress
 
 ## Sources
 
