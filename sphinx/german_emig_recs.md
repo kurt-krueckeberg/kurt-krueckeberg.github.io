@@ -107,10 +107,10 @@ South
     **Notes:** An introduction and English translation of selected information on certain emigrants from Aufbruch nach Amerika / unter Mitarb. von Ingrid Schöberl, hrsg. von Günter
     Moltmann, 1979 "September 1984."
 
-- [Emigrants from Schleswig-Holstein Database](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/passagierlisten-auswandererschiffe-hamburg-suche) of the Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V (Genealogy Working Group of Schleswig-Holstein)
+- [Emigrants from Schleswig-Holstein Database](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/passagierlisten-auswandererschiffe-hamburg-suche) of the Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V. (Genealogy Working Group of Schleswig-Holstein)
 
   There is a list of names for the passenger lists of the emigrant ships that set sail via Hamburg for the period 1850 to 1871 (index cards, created by Karl
-  Werner Klüber ). Members of AGGSH eV looked through these index cards to find the emigrants from Schleswig-Holstein ("Voss" and others) who left via the
+  Werner Klüber ). Members of AGGSH e.V. looked through these index cards to find the emigrants from Schleswig-Holstein ("Voss" and others) who left via the
   port of Hamburg between 1856 and 1871.
 
   The "Klüber Index" is based on the "Hamburg Passenger Lists" from the Hamburg State Archives. These lists are also available online at Ancestry as the
