@@ -183,7 +183,7 @@
 
     **Publisher:** [alter Köln (Old Köln) website](https://altes-koeln.de/wiki/Hauptseite)  
 
-    This list of emgirants from Köln was developed by German family researchers who meet monthly in Köln,  
+    This list of emgirants from Köln was developed by German family researchers who meet monthly in Köln,
     most of whom are members of the [West German Society for Family History](https://www.wgff.de/) and [CompGen](https://compgen.de)
 
 - [Die Auswanderer aus dem Fürstentum Lippe (bis 1877) : Nach ungedruckten und gedruckten Quellen](https://worldcat.org/title/9619390?oclcNum=9619390) / gesammelt und bearbeitet von
