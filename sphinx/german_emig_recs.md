@@ -8,8 +8,7 @@
 
   **Contents:** Covers both 18th and 19th centures.
 
- - South German Genealogical Society list of 
-[German Emigrant Databases](https://www.wgff.de/linkliste.php?subject=auswanderer).
+- [German Emigrant Databases](https://www.wgff.de/linkliste.php?subject=auswanderer) from South German Genealogical Society.
 
 - [Bibliography from St Louis library](https://www.slcl.org/sites/default/files/Sources%20in%20the%20History%20&%20Genealogy%20Department%20pertaining%20to%2019th%20German%20immigration.pdf)
 
