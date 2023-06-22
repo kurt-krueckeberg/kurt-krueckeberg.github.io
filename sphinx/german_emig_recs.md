@@ -17,7 +17,7 @@ South
 
   **Author:** St. Louis Library
 
- - [German Origins in the United States: A Guide to Local History and Genealogy Sources](https://guides.loc.gov/german-genealogy/emigration-from-germany/palatinate)
+- [German Origins in the United States: A Guide to Local History and Genealogy Sources](https://guides.loc.gov/german-genealogy/emigration-from-germany/palatinate)
 
    **Author:** Library of Congress
 
@@ -35,8 +35,7 @@ South
 
     **Note:** The link is to a German online antiqurian book dealer that ships internationally.
 
-- [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/)\
-    [Amerikaauswanderer-Kreis-Herford.pdf](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
+- [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/)   [Amerikaauswanderer-Kreis-Herford.pdf](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
 
     You can download the PDF above that consists of these three volumes:
 
