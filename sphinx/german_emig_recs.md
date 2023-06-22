@@ -69,20 +69,20 @@ South
     Here you can see a certainly not exhaustive list of 419 women and men and their children who left Greven to start a new and better
     life in the New World, mainly in North America.
 
-- [Holz, Martin: List of Münsterland clergymen in 1882 in US-Münsterland Catholic communities](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Aufstellung-M%C3%BCnsterl%C3%A4nder-Geistlicher-1882.pdf)
+- PDF: [Holz, Martin: List of Münsterland clergymen in 1882 in US-Münsterland Catholic communities](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Aufstellung-M%C3%BCnsterl%C3%A4nder-Geistlicher-1882.pdf)
 
     List of Münster area clergymen in 1882 in US-Münster-area Catholic communities, under the original heading of the then author and
     priest Müller, JB: Outline of the Münsterland German-speaking priests, as well as the German Catholic communities in the United
     States of North America
 
-- [Holz, Martin: Auswanderer nach Brasilien](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-nach-Brasilien.pdf)
+- PDF: [Holz, Martin: Auswanderer nach Brasilien](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Auswanderer-nach-Brasilien.pdf)
 
     **Source:** Amtsblätter der Königlichen Regierung zu Münster von 1860–1871.
 
     **Contents:** The emigrants are mainly reservists and persons liable to military service, who did not comply with the mobilization order or
     the call-up to military service and emigrated without permission
 
-- [Holz, Martin: German Immigrants from Bremen to New York, 1847-1871](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/German-Immigrants-from-Bremen-to-New-York-1847-1871.pdf)
+- PDF: [Holz, Martin: German Immigrants from Bremen to New York, 1847-1871](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/German-Immigrants-from-Bremen-to-New-York-1847-1871.pdf)
 
     In Germany, as in other countries, there are places and farming communities of the same name in different parts of the country. If
     you use this source, you have to check the evaluation in the church
@@ -90,9 +90,9 @@ South
     Münsterland (worked out by Irmgard Niehaus from Beckum, 62 pages).
     Based on an idea by Martin Holz.
 
-- [Niermann, Wilhelm: Emigrant Database for Stemwede, Nordrhein-Westfalen](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
+- PDF: [Niermann, Wilhelm: Emigrant Database for Stemwede, Nordrhein-Westfalen](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
 
-    [Stemwede Emigrant Namelist (list of names)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
+    PDF: [Stemwede Emigrant Namelist (list of names)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
 
     Stemwede is in central Germany, between Hannover and Osnabrück, not far from the Dümmer See. Stemwede is a relatively new name for the
     area, becoming a municipality in 1973 when the villages in the parishes of Levern, Wehdem, Oppenwehe and Dielingen were combined
