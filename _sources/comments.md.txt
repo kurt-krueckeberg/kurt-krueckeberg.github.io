@@ -2,7 +2,7 @@
 
 ## History of this Documentaion
 
-Much of the information on this site originally came from the now defunct `Genealoger.com`. It was extracted from the **October 16, 2021,
+Much of the information on this site originally came from the defunct `Genealoger.com`. It was extracted from the **October 16, 2021,
 WayBackMachine** version of
 [www.genealoger.com/german/ger_emigration_records.htm](https://web.archive.org/web/20230000000000*/http://www.genealoger.com/german/ger_emigration_records.htm).
 
