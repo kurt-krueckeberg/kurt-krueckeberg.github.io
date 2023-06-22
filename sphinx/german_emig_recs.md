@@ -121,7 +121,7 @@ South
 
   "We do not claim that our data is complete, as the work is not yet fully completed. The data collected so far can be searched here."
 
-- [Online Index zum Auswandererarchiv der Amerika Gesellschaft e.V. Bad Segeberg (Index of the emigration archiv of the American Society e.V. Bad Segeberg](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/namens-index-auswandererarchiv-bad-segeberg)
+- [Online Index zum Auswandererarchiv der Amerika Gesellschaft e.V. Bad Segeberg (Index of the emigration archiv of the American Society e.V. Bad Segeberg)](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/namens-index-auswandererarchiv-bad-segeberg)
 
   An index to the emigration archive of the America Society Bad Segeberg.
 
