@@ -217,6 +217,10 @@
 
   **Contents:** Alphabetical list of individual's name, birthdate, parents, where they settled in America, and comments (on year of emigration, sometimes with ship name, and/or whom they married)
   
+- PDF: [Von Irlich nach Amerika 1840 bis 1940](https://stolpersteine-neuwied.de/images/PDF_Files/kaufmann_heinemann/dames_familie_kaufmann.pdf)
+
+  **Content:** Six page article about "Die Suche nach dem Schicksal von Menschen, die ihre Heimat für immer verließen hat, um eine bessere Zukunft in Nordamerika zu finden (he search for the fate of people who left their homeland forever to find a better future in North America)."
+
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
     (Rhineland).
   
