@@ -35,22 +35,26 @@ South
 
     **Note:** The link is to a German online antiqurian book dealer that ships internationally.
 
-- [Auswanderer aus Herford](https://hf-gen.de/auswandererlisten/)
+- Auswanderer aus dem Kreis Herford (Emigrants from the District of Herford)
   
-  PDF version:  [Amerikaauswanderer-Kreis-Herford.pdf](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
+  - PDF: [Amerikaauswanderer-Kreis-Herford (Emigrants to America from the Distict of Herford)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
 
-  You can download the PDF above that consists of these three volumes:
+  - PDF [Index der Familiennamen von den Auswanderern aus Herford (Surname index of Emigrants from Herford)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford-Index.pdf)
+    
+  ** **Contents:** A list of 19th emigrants to America from Kreis Herford; arrangement is
+  by town then year of emigration, with a separate name index. Many settled in the Middle West.
 
-  - Volume 1: “America Emigrants from the Spenge and Enger Offices”, June 1987
+    Three volumes:
 
-  - Volume 2: "America Emigrants from Herford, Hiddenhausen and
-    Vlotho in the 19th Century", November 1988
+    - Volume 1: “America Emigrants from the Spenge and Enger Offices”, June 1987
 
-  - Volume 3: "America emigrants from Bünde, Rödinghausen, Kirchlengern and Gohfeld-Mennighüffen in the 19th century", September 1990.
+    - Volume 2: "America Emigrants from Herford, Hiddenhausen and
+      Vlotho in the 19th Century", November 1988
 
-  **Contents:** A list of 19th emigrants to America from Kreis Herford; arrangement is
-  by town then year of emigration, with a name index. Many settled in the Middle West.
+    - Volume 3: "America emigrants from Bünde, Rödinghausen, Kirchlengern and Gohfeld-
+ Mennighüffen in the 19th century", September 1990.
 
+  
 - [Bielefelder in Nordamerika Auswanderergeschichte(n) des 19. Jahrhunderts](https://www.stadtarchiv-bielefeld.de/Portals/0/PDFs/BielefelderInNordamerika.pdf)
 
     **Author:** Minninger, Monika
