@@ -17,7 +17,7 @@ Go to [German Emigration Records](german_emig_recs.md).
 This documentation website  was built using the open-source [Sphinx](https://www.sphinx-doc.org/en/master/) tool. It was written in [Markdown](https://www.markdownguide.org/) and the
 [myst-parser](https://www.sphinx-doc.org/en/master/usage/markdown.html) extension was used to parser the Markdown.
 
-## MIT Copyright Described
+## MIT Copyright
 
 Copyright (c) 2023 Kurt Krueckeberg   
 Copyright © 2005-2013 Genealoger.com. All Rights Reserved.
