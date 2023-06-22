@@ -1,10 +1,14 @@
 # Bibliography of German Emigration Record Sources
 
+## Other Bibliographies
+
 - [CompGen: Bibliography of German and American Sources for German Emigration to America](https://www.genealogienetz.de/misc/emig/emigrati.html)
 
   **Author:** Michael P. Palmer.
 
   **Contents:** Covers both 18th and 19th centures.
+
+## Sources
 
 - [Auswanderer aus Villingendorf](https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/labw_auswanderer/12763/Auswanderer%20aus%20Villingendorf)
 
