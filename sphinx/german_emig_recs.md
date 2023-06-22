@@ -92,7 +92,7 @@ South
 
 - PDF: [Niermann, Wilhelm: Emigrant Database for Stemwede, Nordrhein-Westfalen](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Stemwede-Emigrant-Database.pdf)
 
-  **Contents:** A list of emigrants containing: their name, birth date, place of origin within Stemmede, occupation, country to which emigrating. Often has additional detailed comments
+  **Contents:** A list of emigrants containing: their name, birth date, place of origin within Stemmede, occupation, country to which emigrating. Often has detailed comments
   about the individual.
   
   Stemwede is in central Germany, between Hannover and Osnabrück, not far from the Dümmer See. Stemwede is a relatively new name for the
