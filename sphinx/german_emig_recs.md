@@ -98,7 +98,7 @@ South
   Stemwede is in central Germany, between Hannover and Osnabrück, not far from the Dümmer See. Stemwede is a relatively new name for the
   area, becoming a municipality in 1973 when the villages in the parishes of Levern, Wehdem, Oppenwehe and Dielingen were combined together.
 
-- [Emigrants from Baden and Württemberg 1816/17, extracted from Aufbruch nach Amerika](https://worldcat.org/title/12104494?oclcNum=12104494)
+- [Emigrants from Baden and Württemberg 1816/17, extracted from Aufbruch nach Amerika (Departure to America)](https://worldcat.org/title/12104494?oclcNum=12104494)
 
   **Author:** Andrusko, Samuel M.
 
