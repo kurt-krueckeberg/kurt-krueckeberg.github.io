@@ -29,7 +29,7 @@ South
 
     **Author:** Ackermann, Gotthilf
 
-    **Publisher:** Self Publishing, 1936
+    **Publisher:** Self Published, 1936
 
     List of emigrants from Unterschlechtbach.
 
