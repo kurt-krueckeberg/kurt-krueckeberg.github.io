@@ -265,6 +265,10 @@
 
   **Publisher:** Website of Dr Sibylle Nagel
 
+- [1832 - 1840 Auswandererliste Gross-Umstadt (Emigrants to North America 1832 - 1840)](https://www.umstead.org/gr-um%20more.html#anchor2402451)
+  
+  **Website Author's Notes:** The book 1250 JAHRE GROSS-UMSTADT (1250 Years Gross-Umstadt) includes an "Auswandererliste" and a list of "Einwanders" on pages 263 and following. For the years 1832 - 1840, there is a reproduction of an old printed document, followed by additional information on some of the listed emigrants, added by Georg Brenner. Following that is a list of additional emigrants, not shown on the old document, although from the same time period and also from following years. Then emigrants INTO Gross-Umstadt. I can't absolutely guarantee that I've read all the names from the old printed document correctly, but I should be close. Be creative, look at all the names. If your name is Wünsch, look at Münsch, for example, as it was very difficult to distinguish between a W and an M in this particular printed script.
+
 - [Germany, Bavaria, Fürth, Emigration and City Directories, 1805-1913](https://www.familysearch.org/search/collection/1976142)
 
   **Publisher:** Family Search
