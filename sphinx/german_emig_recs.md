@@ -770,17 +770,12 @@
     The three focal pointsx of the new Center are: experiencing
     migration, tracing roots, and understanding migration.  
 
- [German Emigration Research by Progenealogists](http://www.progenealogists.com/palproject/articles.htm).
+- [German Emigration Research by Progenealogists](http://www.progenealogists.com/palproject/articles.htm).
 
-- The [German Migration Resource Center](http://www.germanmigration.com/)
+- [The German Migration Resource Center](http://www.germanmigration.com/)
 
-    Encourages a world-wide exchange of genealogy information about German immigrants. Visitors
-    may post or read an Immigrant Query, post or locate a German Family Reunion or Festival, and order genealogy books.  
-
-- [German Resources](http://www.routes.de/linksammlung/004.htm)
-
-    Detailed listings of local databases. Regional emigrant lists and
-    databases.  
+  Encourages a world-wide exchange of genealogy information about German immigrants. Visitors
+  may post or read an Immigrant Query, post or locate a German Family Reunion or Festival, and order genealogy books.  
 
 - *Germanic emigrants register* \[microform\]. Jan. 1992 ed.
     Diepholz, Germany : \[Germanic Emigrants Register\]; Warthausen :
