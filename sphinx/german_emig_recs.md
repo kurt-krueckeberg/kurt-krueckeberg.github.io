@@ -216,11 +216,35 @@
   **Authors:** Larry Knarr; edited and completed by Gabrielle Herold and Bernhard Braun.
 
   **Contents:** Alphabetical list of individual's name, birthdate, parents, where they settled in America, and comments (on year of emigration, sometimes with ship name, and/or whom they married)
+
+- [Emigrants from Siebeldinger Since 1829 Translated to English by Ernst Dierich](https://freepages.rootsweb.com/~keating/genealogy/history.htm)
   
-- PDF: [Von Irlich nach Amerika 1840 bis 1940](https://stolpersteine-neuwied.de/images/PDF_Files/kaufmann_heinemann/dames_familie_kaufmann.pdf)
+  **Publisher:**  Ortsgemeinde Siebeldingen Bürgermeisteramt, D-76833 Siebeldingen, Germany
 
-  **Content:** Six page article about "Die Suche nach dem Schicksal von Menschen, die ihre Heimat für immer verließen hat, um eine bessere Zukunft in Nordamerika zu finden (he search for the fate of people who left their homeland forever to find a better future in North America)."
+- [Emigrants from Esseneim in the 18th Century](https://www.mossel.de/auswanderer-aus-essenheim/18-jahrhundert.html)
+  
+  **Publisher:**  Stefan Mossel's [website](https://www.mossel.de/startseite.html) > Section on Emigrants from Essenheim > 18th Century Emigrants
 
+- [Emigrants from Esseneim in the 19th Century](https://www.mossel.de/auswanderer-aus-essenheim/19-jahrhundert.html)
+
+   **Publisher:**  Stefan Mossel's [website](https://www.mossel.de/startseite.html) > Section on Emigrants from Essenheim > 19th Century Emigrants
+
+- [Emigrants from Külsheim, Baden-Württemberg, Germany to America and elsewhere]
+  
+  **Publisher:**  Homepage of [Otto Karl Spengler](https://spengler.li/otto/index_engl.htm) > Emigrants from Külsheim
+
+- [Emigrants from Külsheim-Hundheim, Baden-Württemberg, Germany to America and elsewhere](https://spengler.li/otto/emigration_hundheim_engl.htm)
+  
+  **Publisher:**  Homepage of [Otto Karl Spengler](https://spengler.li/otto/index_engl.htm) > Emigrants from Hundheim
+
+- [Emigrants from Uissigheim, Baden-Württemberg, Germany to America and elsewhere](https://spengler.li/otto/emigration_uissigheim.htm)
+  
+  **Publisher:**  Homepage of [Otto Karl Spengler](https://spengler.li/otto/index_engl.htm) > Emigrants from Uissigheim
+
+- [Emigrants from Königheim, Baden-Württemberg, Germany to America and elsewhere](https://spengler.li/otto/emigration_koenigheim_engl.htm)
+  
+  **Publisher:**  Homepage of [Otto Karl Spengler](https://spengler.li/otto/index_engl.htm) > Emigrants from Königheim
+  
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
     (Rhineland).
   
