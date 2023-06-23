@@ -14,7 +14,7 @@ Welcome to German Emigration Records's documentation!
    intro.md
    ports.md
    german_emig_recs.md
-
+   other_bibliog.md
 
 Indices and tables
 ==================
