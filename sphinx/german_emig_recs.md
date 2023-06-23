@@ -685,7 +685,7 @@
   - [volume one](https://www.familysearch.org/library/books/records/item/98795-lists-of-swiss-emigrants-in-the-eighteenth-century-to-the-american-colonies-vol-1)
   - [volume two](https://www.familysearch.org/library/books/records/item/104312-lists-of-swiss-emigrants-in-the-eighteenth-century-to-the-american-colonies-vol-2)
 
-- Filby, P. William. *Passenger and Immigration Lists Bibliography, 1538-1900*  
+- [Passenger and immigration lists bibliography, 1538-1900 : being a guide to published lists of arrivals in the United States and Canada](https://www.worldcat.org/title/passenger-and-immigration-lists-bibliography-1538-1900-being-a-guide-to-published-lists-of-arrivals-in-the-united-states-and-canada/oclc/18413213)
   (2nd ed., Detroit: Gale Research, 1988)  
 
 - Filby, P. William, Mary K. Meyer and Paula K. Woolverton. *Passenger and Immigration Lists Index.* (Detroit: Gale Research, 1981ff.).  

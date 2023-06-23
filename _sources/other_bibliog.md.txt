@@ -21,3 +21,9 @@
 - [Online German Emigration Records, Lists and Indexes](https://www.germanroots.com/emigration.html)
 
   **Author:** [German Roots: German Genealogy. Resources for German Genealogy on the Internet](https://www.germanroots.com)
+
+- [Passenger and immigration lists bibliography, 1538-1900 : being a guide to published lists of arrivals in the United States and Canada](https://www.worldcat.org/title/passenger-and-immigration-lists-bibliography-1538-1900-being-a-guide-to-published-lists-of-arrivals-in-the-united-states-and-canada/oclc/18413213)
+
+  **Author:** P. William Filby
+
+  **Publisher:** Gale Research Co., Detroit, Mich., ©1988, 2nd ed
