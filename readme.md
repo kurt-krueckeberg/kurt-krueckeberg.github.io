@@ -12,7 +12,7 @@ Each entry is currently being double checked. Many broken links have been correc
 ## Sphinx Subfolder
 
 The `html` files in the root folder compise the actual website files of <https://kurt-krueckeberg.github.io>. They are copied to the root after they have been built using the `build` bash executabe
-A python virtual environment is used to install Sphinx themes and Sphinx extension like `myst-parser` and to build the website files. This is done using the `build` exectuable:
+A python virtual environment is used to install Sphinx themes and Sphinx extension like `myst-parser` and to build the website files. This is done using the `build` script:
 
 ```bash
 #!/usr/bin/env bash
