@@ -197,15 +197,15 @@
   
   **Publisher:**  Ortsgemeinde Siebeldingen Bürgermeisteramt, D-76833 Siebeldingen, Germany
 
-- [Emigrants from Esseneim in the 18th Century](https://www.mossel.de/auswanderer-aus-essenheim/18-jahrhundert.html)
+- [Emigrants from Esseheim in the 18th Century](https://www.mossel.de/auswanderer-aus-essenheim/18-jahrhundert.html)
   
   **Publisher:**  Stefan Mossel's [website](https://www.mossel.de/startseite.html) > Section on Emigrants from Essenheim > 18th Century Emigrants
 
-- [Emigrants from Esseneim in the 19th Century](https://www.mossel.de/auswanderer-aus-essenheim/19-jahrhundert.html)
+- [Emigrants from Esseheim in the 19th Century](https://www.mossel.de/auswanderer-aus-essenheim/19-jahrhundert.html)
 
    **Publisher:**  Stefan Mossel's [website](https://www.mossel.de/startseite.html) > Section on Emigrants from Essenheim > 19th Century Emigrants
 
-- [Emigrants from Külsheim, Baden-Württemberg, Germany to America and elsewhere]
+- [Emigrants from Külsheim, Baden-Württemberg, Germany to America and elsewhere](https://spengler.li/otto/emigration_kuelsheim_engl.htm)
   
   **Publisher:**  Homepage of [Otto Karl Spengler](https://spengler.li/otto/index_engl.htm) > Emigrants from Külsheim
 
