@@ -1,4 +1,4 @@
-# Other Bibliographies
+# Other Bibliographies of German Emigraion
 
 - [CompGen: Bibliography of German and American Sources for German Emigration to America](https://www.genealogienetz.de/misc/emig/emigrati.html)
 
