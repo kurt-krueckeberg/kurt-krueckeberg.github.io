@@ -22,6 +22,6 @@ make clean && make html
 cp -r _build/html/* ..
 cd ..
 deactivate
-# gadd is script to add, commit and push the changes to github
+# gadd is a short script to add, commit and push any changes to github
 gadd 'updates'
 ```
