@@ -4,3 +4,4 @@ A a "Bibligoraphies" section:
 - <https://www.routes.de/linksammlung/004RP.htm>
 - <https://www.germanroots.com/emigration.html>
 - <https://freepages.rootsweb.com/~herz/genealogy/kuppenheim/kphm_immigr.htm>
+- https://magsgen.com/cpage.php?pt=37

@@ -20,6 +20,10 @@
 
    **Author:** Library of Congress
 
+- [Online German Emigration Records, Lists and Indexes](https://www.germanroots.com/emigration.html)
+
+  **Author:** [German Roots: German Genealogy. Resources for German Genealogy on the Internet](https://www.germanroots.com)
+
 ## Sources
 
 - [Auswanderer aus Villingendorf](https://www.leo-bw.de/web/guest/detail/-/Detail/details/DOKUMENT/labw_auswanderer/12763/Auswanderer%20aus%20Villingendorf)
@@ -256,7 +260,21 @@
 - [Emigrants from Weisweil](https://www.weisweil.de/geschichte/)
 
   **Publisher:** <htpps://Weisweil.de>
-  
+
+- [US Emigrants from Stockstadt am Main](https://familienforschung-stockstadt-am-main.de/EN_usa.html)
+
+  **Publisher:** Website of Dr Sibylle Nagel
+
+- [Germany, Bavaria, Fürth, Emigration and City Directories, 1805-1913](https://www.familysearch.org/search/collection/1976142)
+
+  **Publisher:** Family Search
+
+  **Contents:** Collection of emigration records (1805-1874) and city directories (1884-1913) from the city of Fürth, Bavaria, Germany
+
+- [19th Century Emigrants ​From Central Franconia To ​North America](https://www.sgsmi.org/19th-century-emigrants-list.html)
+
+  **Publisher:** [Saginaw Michigan Genealogical Society](https://www.sgsmi.org/)
+
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
     (Rhineland).
   
