@@ -1635,7 +1635,7 @@
 
   **Contents:**
 
-  - V. 1. [Oberamts]: Backnang, Besigheim, Biberach, Blaubeuren, Böblingen, Brackenheim, Calw, Horb
+  - v. 1. [Oberamts]: Backnang, Besigheim, Biberach, Blaubeuren, Böblingen, Brackenheim, Calw, Horb
   - v. 2. [Oberamts]: Nagold, Nürtingen, Rottenburg, Rottweil, Schorndorf
   - v. 3. [Oberamts]: Balingen, Calw, Freuden- stadt, Herrenberg, Nagold, Sulz
   - v. 4. [Oberamts]: Geislingen, Kirchheim, Leonberg, Reutlingen
