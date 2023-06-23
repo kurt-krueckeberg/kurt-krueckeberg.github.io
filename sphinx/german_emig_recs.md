@@ -770,8 +770,6 @@
     The three focal pointsx of the new Center are: experiencing
     migration, tracing roots, and understanding migration.  
 
-- [German Emigration Research by Progenealogists](http://www.progenealogists.com/palproject/articles.htm).
-
 - [The German Migration Resource Center](http://www.germanmigration.com/)
 
   Encourages a world-wide exchange of genealogy information about German immigrants. Visitors
