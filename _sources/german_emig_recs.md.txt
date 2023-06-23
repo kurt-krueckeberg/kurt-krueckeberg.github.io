@@ -686,15 +686,22 @@
   - [volume two](https://www.familysearch.org/library/books/records/item/104312-lists-of-swiss-emigrants-in-the-eighteenth-century-to-the-american-colonies-vol-2)
 
 - [Passenger and immigration lists bibliography, 1538-1900 : being a guide to published lists of arrivals in the United States and Canada](https://www.worldcat.org/title/passenger-and-immigration-lists-bibliography-1538-1900-being-a-guide-to-published-lists-of-arrivals-in-the-united-states-and-canada/oclc/18413213)
-  (2nd ed., Detroit: Gale Research, 1988)  
 
-- Filby, P. William, Mary K. Meyer and Paula K. Woolverton. *Passenger and Immigration Lists Index.* (Detroit: Gale Research, 1981ff.).  
+  **Author:** P. William Filby
 
-- [Forschungsstelle Niedersächsische Auswanderer in den USA](http://www.uni-oldenburg.de/nausa/) (research institute for
-    emigration from Lower Saxony to USA)  
+  **Publisher:** Gale Research Co., Detroit, Mich., ©1988, 2nd ed
 
-- Fouche, N.  *Emigration alsacienne Etats-Unis, 1815-1870*.
-    Publications de la Sorbonne. Paris, 1992.  
+- [Forschungsstelle Niedersächsische Auswanderer in den USA (Lower Saxony Emigrants in the USA Research Centre)](http://www.uni-oldenburg.de/nausa/)
+
+  Research institute for emigration from Lower Saxony to USA.
+
+- [Emigration alsacienne Etats-Unis, 1815-1870 (Alsatian emigration to the United States, 1815-1870)](https://worldcat.org/search?q=Emigration+alsacienne+Etats-Unis%2C+1815-1870)
+
+  **Author:** Nicole Fouché, Université de Paris I: Panthéon-Sorbonne
+
+  **Format:** Available both as book and eBook
+
+  **Publisher:** Publications de la Sorbonne, Paris, 1992
 
 - Freund, Hanns Egon. *Emigration records from the German Eifel
     region, 1834-1911*. Crystal Lake, Ill. : McHenry County Illinois
