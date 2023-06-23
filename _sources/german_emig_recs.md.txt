@@ -384,15 +384,15 @@
 
   **Notes:** Report on the voyage by Jacob Ernst Ruth and passenger list. Originally published in Pfälzische Familienund Wappenkunde, 1964  
 
-- [Auswanderer aus Enkenbach seit Beginn des 18. Jahrhunderts](https://worldcat.org/title/7507091)
-  
-  **Authors:** Fritz Braun, Heimatstelle Pfalz
-
-  **Publisher:**Heimatstelle Pfalz, Kaiserslautern, \[196-\]
-
-  **Notes:** "Sonderdruck aus dem Heimatbuch: Aus Enkenbachs Vergangenheit."
-
 - Braun, Fritz works:
+
+  - [Auswanderer aus Enkenbach seit Beginn des 18. Jahrhunderts](https://worldcat.org/title/7507091)
+    
+    **Authors:** Fritz Braun, Heimatstelle Pfalz
+
+    **Publisher:**Heimatstelle Pfalz, Kaiserslautern, \[196-\]
+
+    **Notes:** "Sonderdruck aus dem Heimatbuch: Aus Enkenbachs Vergangenheit."
 
   - [Auswanderer aus Kaiserslautern im 18. Jahrhundert](https://worldcat.org/title/7514850)
 
@@ -667,9 +667,23 @@
   as Emsland, Niedersachsen, and settled in the mid-western United
   States.  
 
-- Faust & Brumbaug.  Swiss Emigrants in the 18th Century to the American Colonies.  
-  Zurich (1734-1744), Bern (1706-1795) and Basel (1734-1794) archives.  
-  2,300 names.  
+- [Lists of Swiss emigrants in the eighteenth century to the American colonies](https://www.worldcat.org/title/2569)
+
+  **Authors:** Albert Bernhardt Faust, Gaius Marcus Brumbaugh (Editor)
+
+  **Publisher:** Genealogical Pub. Co., Baltimore, 1968 [©1920-25]
+
+  **Contents:**
+
+  - v. 1. Zurich, 1734-1744, from the Archives of Switzerland / by Albert Bernhardt Faust
+  - v. 2. From the State Archives of Bern and Basel, Switzerland / compiled and edited by Albert Bernhardt Faust and Gaius Marcus Brumbaugh
+
+  **Online Digital Version:**
+
+  Family Search Digital Version (photocopy of the original, 2001):
+
+  - [volume one](https://www.familysearch.org/library/books/records/item/98795-lists-of-swiss-emigrants-in-the-eighteenth-century-to-the-american-colonies-vol-1)
+  - [volume two](https://www.familysearch.org/library/books/records/item/104312-lists-of-swiss-emigrants-in-the-eighteenth-century-to-the-american-colonies-vol-2)
 
 - Filby, P. William. *Passenger and Immigration Lists Bibliography, 1538-1900*  
   (2nd ed., Detroit: Gale Research, 1988)  
