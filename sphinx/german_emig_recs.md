@@ -233,6 +233,8 @@
   
   **Publisher:**  Homepage of [Otto Karl Spengler](https://spengler.li/otto/index_engl.htm) > Emigrants from Külsheim
 
+- [Emigrants from Kuppenheim, organized by Sruname and sections of the the alphabet (using the first letter of the surname)](https://freepages.rootsweb.com/~herz/genealogy/kuppenheim/kphm_immigr.htm)
+
 - [Emigrants from Külsheim-Hundheim, Baden-Württemberg, Germany to America and elsewhere](https://spengler.li/otto/emigration_hundheim_engl.htm)
   
   **Publisher:**  Homepage of [Otto Karl Spengler](https://spengler.li/otto/index_engl.htm) > Emigrants from Hundheim
@@ -244,6 +246,16 @@
 - [Emigrants from Königheim, Baden-Württemberg, Germany to America and elsewhere](https://spengler.li/otto/emigration_koenigheim_engl.htm)
   
   **Publisher:**  Homepage of [Otto Karl Spengler](https://spengler.li/otto/index_engl.htm) > Emigrants from Königheim
+
+- [Emigrants of Neuhausen ob Eck](https://www.lang-germany.de/Archiv/Auswanderer_/auswanderer_.htm)
+
+  **Publisher:** Webpage of Kurt Lang.
+
+  **Sources:** Sources: 1. Sigmaringen State Archives, holdings of the Tuttlingen Oberamt. 2. Parish archive Neuhausen ob Eck.
+  
+- [Emigrants from Weisweil](https://www.weisweil.de/geschichte/)
+
+  **Publisher:** <htpps://Weisweil.de>
   
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
     (Rhineland).
