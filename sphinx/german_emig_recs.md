@@ -615,7 +615,7 @@
 
   **Author:** Kreisheimatverein Herford
 
-  **Publisher:** Kreisheimatverein Herford, Herford, ©1989
+  **Publisher:** Kreisheimatverein Herford, Herford, ©1989f
 
 - [Emigration and settlement patterns of German communities in North America](https://worldcat.org/title/34068081)
 
@@ -854,39 +854,43 @@
 
   - [Auswanderungen aus dem nördlichen Bodenseeraum im 17. and 18. Jahrhundert](https://worldcat.org/title/1734912?oclcNum=1734912)
 
-        **Publihser:** Verlag Hegau-Geschichtsverein, Singen, 1975
+    **Publihser:** Verlag Hegau-Geschichtsverein, Singen, 1975
 
-- Auswanderungen aus dem südöstlichen Schwarzwald zwischen Hochrhein, Baar und Kinzig insbesondere nach Südosteuropa im 17. und 18. Jahrhundert(<https://worldcat.org/title/471004258>)
+  - [Auswanderungen aus dem südöstlichen Schwarzwald zwischen Hochrhein, Baar und Kinzig insbesondere nach Südosteuropa im 17. und 18. Jahrhundert](https://worldcat.org/title/471004258)
 
-- Hacker, Werner, fl. 1970- *Auswanderungen aus Rheinpfalz und
+    **Publisher:** Southeast German Historical Commission
+
+    **Series:** Buchreihe der Südostdeutschen Historischen Kommission, Bd. 29 (Book Series of the Southeast German Historical Commission, Vol. 29)
+
+  - Hacker, Werner, fl. 1970- *Auswanderungen aus Rheinpfalz und
     Saarland im 18. Jahrhundert* / Werner Hacker. Stuttgart : K. Theiss,
     c1987. 797 pages : facsims., map ; 24 cm.  
 
-- Hacker, Werner. *Auswanderer vom Oberen Neckar nach Südosteuropa
-    im 18. Jahrhundert*. München, R. Oldenbourgh, 1970. 246 p. map (in
-    pocket) 25 cm.  
+  - Hacker, Werner. *Auswanderer vom Oberen Neckar nach Südosteuropa
+      im 18. Jahrhundert*. München, R. Oldenbourgh, 1970. 246 p. map (in
+      pocket) 25 cm.  
 
-- Hacker, Werner, fl. 1970- *Auswanderungen aus Baden und dem Breisgau
-    : obere und mittlere rechtsseitige Oberrheinlande im 18. Jahrhundert
-    archivalisch dokumentiert* / Werner Hacker. Stuttgart ; Aalen :
-    Theiss, 1980. 743 pages : ill., facsims. ; 24 cm.  
+  - Hacker, Werner, fl. 1970- *Auswanderungen aus Baden und dem Breisgau
+      : obere und mittlere rechtsseitige Oberrheinlande im 18. Jahrhundert
+      archivalisch dokumentiert* / Werner Hacker. Stuttgart ; Aalen :
+      Theiss, 1980. 743 pages : ill., facsims. ; 24 cm.  
 
-- Hacker, Werner, editor. *Eighteenth century register of emigrants
-    from southwest Germany (to America and other countries)*. Apollo,
-    Pa. : Closson Press, \[1994\]  A combined index listing only those
-    who emigrated to America from the author’s *Auswanderung aus dem
-    früheren Hochstift Speyer nach Südosteuropa und Übersee im XVIII.
-    Jahrhundert*, *Auswanderung aus Baden und dem Breisgau*,
-    *Auswanderungen aus Oberschwaben im 17. und 18. Jahrhundert
-    archivalisch dokumentiert*, "Auswanderung aus den Territorien der
-    Reichstadt Ulm," and to all emigrants listed in the author’s
-    *Kurpfälzische Auswanderer vom unteren Neckar* and *Auswanderung aus
-    Rheinpfalz und Saarland im 18. Jahrhundert*. A list of approximately
-    65,000 emigrants.  
+  - Hacker, Werner, editor. *Eighteenth century register of emigrants
+      from southwest Germany (to America and other countries)*. Apollo,
+      Pa. : Closson Press, \[1994\]  A combined index listing only those
+      who emigrated to America from the author’s *Auswanderung aus dem
+      früheren Hochstift Speyer nach Südosteuropa und Übersee im XVIII.
+      Jahrhundert*, *Auswanderung aus Baden und dem Breisgau*,
+      *Auswanderungen aus Oberschwaben im 17. und 18. Jahrhundert
+      archivalisch dokumentiert*, "Auswanderung aus den Territorien der
+      Reichstadt Ulm," and to all emigrants listed in the author’s
+      *Kurpfälzische Auswanderer vom unteren Neckar* and *Auswanderung aus
+      Rheinpfalz und Saarland im 18. Jahrhundert*. A list of approximately
+      65,000 emigrants.  
 
-- Hacker, Werner, fl. 1970- *Kurpfälzische Auswanderer vom unteren
-    Neckar : rechtsrheinische Gebiete der Kurpfalz* / Werner Hacker.
-    Stuttgart : K. Theiss, c1983. 208, \[1\] p. : ill., maps ; 24 cm.  
+  - Hacker, Werner, fl. 1970- *Kurpfälzische Auswanderer vom unteren
+      Neckar : rechtsrheinische Gebiete der Kurpfalz* / Werner Hacker.
+      Stuttgart : K. Theiss, c1983. 208, \[1\] p. : ill., maps ; 24 cm.  
 
 - Hall, Charles M., editor. *The Antwerp emigration index* / by
     Charles M. Hall and Heritage International. Logan, Utah (Box 368,
