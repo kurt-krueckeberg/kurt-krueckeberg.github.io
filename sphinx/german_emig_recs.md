@@ -247,15 +247,15 @@
 
   **Contents:** Collection of emigration records (1805-1874) and city directories (1884-1913) from the city of Fürth, Bavaria, Germany
 
-- [19th Century Emigrants ​From Central Franconia To ​North America](https://www.sgsmi.org/19th-century-emigrants-list.html)
+- [List of 19th Century Emigrants ​From Central Franconia To ​North America](https://www.sgsmi.org/19th-century-emigrants-list.html)
 
   **Publisher:** [Saginaw Michigan Genealogical Society](https://www.sgsmi.org/)
 
   **Contents:** List of emigrants lists from Central Franconia that contains: name, occupation, place or origin, destination, notes and reference.
 
-  **Notes:** These records are a combination of two indexes of family names which were compiled in the State Archive of Central Franconia (or Mittel Franken) at Nuremberg.
-  As a Sesquicentennial gift, the City of Gunzenhausen sent this information to its sister city of Frankenmuth, Michigan.  Frankenmuth Historical Association staff &
-  volunteers translated the information and compiled these charts.
+  **Notes:** These records are a combination of two indexes of family names which were compiled in the State Archive of Central Franconia (or Mittel
+  Franken) at Nuremberg. As a Sesquicentennial gift, the City of Gunzenhausen sent this information to its sister city of Frankenmuth, Michigan.
+  Frankenmuth Historical Association staff & volunteers translated the information and compiled these charts.
 
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
 
