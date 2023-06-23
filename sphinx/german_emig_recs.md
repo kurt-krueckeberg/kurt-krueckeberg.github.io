@@ -1626,7 +1626,7 @@
 
 - [Wuerttemberg Emigration Index, 8 Volumes](https://worldcat.org/title/13311619)
 
-  **Comment:** An online searchable version of these volume is available on Ancestry. See the reference immediately above this on.
+  **Comment:** An online searchable version of these volume is available on Ancestry. See the reference immediately above.
 
   **Authors:** Trudy Schenk, Ruth Froelke, Inge Bork
 
