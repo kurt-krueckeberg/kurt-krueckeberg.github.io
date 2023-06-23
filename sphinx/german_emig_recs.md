@@ -12,9 +12,7 @@
 
     **Note:** The link is to a German online antiqurian book dealer that ships internationally.
 
-- Auswanderer aus dem Kreis Herford (Emigrants from the District of Herford)
-  
-  - PDF: [Amerikaauswanderer-Kreis-Herford (Emigrants to America from the Distict of Herford)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
+- PDF: [Amerikaauswanderer-Kreis-Herford (Emigrants to America from the Distict of Herford)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
 
   - PDF [Index der Familiennamen von den Auswanderern aus Herford (Surname index of Emigrants from Herford)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford-Index.pdf)
 
@@ -254,8 +252,7 @@
   **Publisher:** [Saginaw Michigan Genealogical Society](https://www.sgsmi.org/)
 
 - [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
-    (Rhineland).
-  
+
   **Author:** Werner Lichter
 
   **Content:**  Alphabetical list of 4,742 people emigrants from the area of the former Prussian government district of Trier; 1700-1900.
@@ -267,33 +264,28 @@
 
 - [Auswanderer aus Gechingen, Kreis Calw](https://www.schwarzwaldverein-gechingen.de/index.php?page=auswanderung) Württemberg.
 
-    Emigrants from the Kreis district of Calw. The list of individual's names is grouped by the region or country to which they emigrated.
+   **Content:** Emigrants from the Kreis district of Calw. The list of individual's names is grouped by the region or country to which they emigrated.
 
 - [Auswanderer-Museum-Oberalben](http://www.auswanderermuseum.de/).
   
-    The Museum displays the history of emigration from the Palatinate to America. Some reference literature and name lists. Limited opening
-    hours.  
+  The Museum displays the history of emigration from the Palatinate to America. Some reference literature and name lists. Limited opening
+   hours.  
 
 - [Auswanderer und ihre Familien aus dem ehemaligen Großherzogtum Oldenburg](https://www.auswanderer-oldenburg.de/index.php)
   
-    Database of emigrants from the former Grandduchy of Oldenburg.
-
-- [Auswanderung aus Bayern nach Amerika](http://www.hdbg.de/auswanderung/)
-
-    Web site of Haus der Bayerischen Geschichte at Munich. In 2004 and 2005 the Haus der Bayerischen Geschichte did present an extensive exhibit Bye Bye
-    Bayern – Grüß Gott Americ". Catalog may still be available.
+  Database of emigrants from the former Grandduchy of Oldenburg.
 
 - [Auswanderer aus Mestlin - Mecklenburg](http://www.emecklenburg.de/Mestlin/personen/emigrat.html)
 
-    List of emigrants to America and information about emigration to America from Mestlin.
+  List of emigrants to America and information about emigration to America from Mestlin.
 
 - [Auswanderung aus Südwestdeutschland](https://www.leo-bw.de/web/guest/themen/auswanderer)
   
-   Emigrants from southwest Germany
+  Emigrants from southwest Germany
 
-   In LEO-BW you will find more than 300,000 emigrant entries. These are summarized in approx. 4,200 lists according to the places
-   of origin of the emigrants . In addition to the names of the emigrants, biographical data, emigration destinations and times of
-   emigration can be called up. LEO-BW thus offers a research entry point for family research.
+  In LEO-BW you will find more than 300,000 emigrant entries. These are summarized in approx. 4,200 lists according to the places
+  of origin of the emigrants . In addition to the names of the emigrants, biographical data, emigration destinations and times of
+  emigration can be called up. LEO-BW thus offers a research entry point for family research.
 
 <!--- Incorporate the information from https://www.wgff.de/linkliste.php?subject=auswanderer at this point. Check entires below: --->
 
@@ -301,13 +293,19 @@
 
 - [MyHeritage.com: Germany, Emigrants from Southwestern Germany, 1736-1963](https://www.myheritage.com/research/collection-10749/germany-emigrants-from-southwestern-germany-1736-1963?tr_funnel=supersearch&tr_country=US&tr_creative=oct19historicalrecords)
 
-    This is an index of emigrants leaving Southwestern Germany between 1736 and 1963.
+  This is an index of emigrants leaving Southwestern Germany between 1736 and 1963.
 
-    Records may contain the following searchable information: first and last name, birth date, date and county of emigration, and first and last name of a relative.
+  Records may contain the following searchable information: first and last name, birth date, date and county of emigration, and first
+  and last name of a relative.
 
 - [Ancestry.com: Baden, Germany Emigration Index, 1866-1911](https://www.ancestry.com/search/collections/4610/)
 
-   This index, compiled by the Badischen Generallandesarchive Karlsruhe and microfilmed by the Genealogical Society of Utah, contains the names of over 28,000 persons who left Baden between 1866 and 1911. Each entry includes the emigrant's name, residence or place of birth, and the year of departure. Wives were not indexed separately unless they traveled alone or with their children. Children who left with one or both parents were not indexed. Some cards state that the person whose name is listed was traveling with "five persons" without naming each individual. The emigration lists were sent from district offices scattered throughout the state of Baden, to one central office. From these lists a card index was developed.
+  This index, compiled by the Badischen Generallandesarchive Karlsruhe and microfilmed by the Genealogical Society of Utah, contains the names
+  of over 28,000 persons who left Baden between 1866 and 1911. Each entry includes the emigrant's name, residence or place of birth, and the year
+  of departure. Wives were not indexed separately unless they traveled alone or with their children. Children who left with one or both parents
+  were not indexed. Some cards state that the person whose name is listed was traveling with "five persons" without naming each individual. The
+  emigration lists were sent from district offices scattered throughout the state of Baden, to one central office. From these lists a card index
+  was developed.
 
    Not everyone who left Baden applied for permission to emigrate, but others of the same surname may have emigrated at another time. When tracking an ancestor with an uncommon surname who can't be identified in the database, it may be worthwhile to search the church records of the towns where others with the same surname originated.
 
@@ -376,22 +374,23 @@
 
 <!--- TODO: Finish the next two entries and join them with those immediately below them. --->
 
-- Braun, Fritz, comp. *Auswanderer auf dem Schiff Samuel M. Fox.
-    Ankunft New York, 4. Aug. 1852*.
+- [Auswanderer auf dem Schiff Samuel M. Fox. Ankunft New York, 4. Aug. 1852](https://worldcat.org/title/12751257?oclcNum=12751257)
 
-    (Kaiserslautern, Heimatstelle Pfalz \[1964\])
+  **Authors:** Fritz Braun (Compiler), Jacob Ernst Ruth
 
-    (Schriften zur Wanderungsgeschichte der Pfälzer,
-    Folge 21) Report on the voyage by Jacob Ernst Ruth and passenger
-    list. Originally published in Pfälzische Familien- und
-    Wappenkunde, 1964. Passenger list of emigrants from the Palatinate
-    who arrived in New York on August 4, 1852; contains some
-    genealogical information.  
+  **Publisher:** Heimatstelle Pfalz, (Kaiserslautern, [1964])
 
-- Braun, Fritz. *Auswanderer aus Enkenbach seit Beginn des 18.
-    Jahrhunderts*. Heimatstelle Pfalz, \[196-\] 27 p. (Schriften zur
-    Wanderungsgeschichte der Pfälzer ; Folge 11) Emigrants from
-    Enkenbach since the beginning of the 18th century.  
+  **Series:** Schriften zur Wanderungsgeschichte der Pfälzer, Folge 21
+
+  **Notes:** Report on the voyage by Jacob Ernst Ruth and passenger list. Originally published in Pfälzische Familienund Wappenkunde, 1964  
+
+- [Auswanderer aus Enkenbach seit Beginn des 18. Jahrhunderts](https://worldcat.org/title/7507091)
+  
+  **Authors:** Fritz Braun, Heimatstelle Pfalz
+
+  **Publisher:**Heimatstelle Pfalz, Kaiserslautern, \[196-\]
+
+  **Notes:** "Sonderdruck aus dem Heimatbuch: Aus Enkenbachs Vergangenheit."
 
 - Braun, Fritz works:
 
@@ -413,15 +412,15 @@
 
 - [Bremen Passenger Lists, 1920-1939](http://wwwpassengerlists.de/)
 
-    From 1875-1908, the staff of the *Nachweisungsbureau* decided to
-    destroy all lists older than 3 years because of lack of office
-    space. With the exception of 2,953 passenger lists for the years
-    1920–1939 all other lists were lost in World War II. This is a set
-    of 3,017 lists dating 1920-1939 (of 4420 made during this time
-    period), which was saved by *Die Maus,* a Bremen based genealogical
-    society. Over 635,000 passengers are in the database which can be
-    searched by surname, ship name, day of departure, destination harbor
-    and hometown of the passenger.
+   **Notes:** From 1875-1908, the staff of the *Nachweisungsbureau* decided to
+   destroy all lists older than 3 years because of lack of office
+   space. With the exception of 2,953 passenger lists for the years
+   1920–1939 all other lists were lost in World War II. This is a set
+   of 3,017 lists dating 1920-1939 (of 4420 made during this time
+   period), which was saved by *Die Maus,* a Bremen based genealogical
+   society. Over 635,000 passengers are in the database which can be
+   searched by surname, ship name, day of departure, destination harbor
+   and hometown of the passenger.
 
 - [Bremen Passenger Lists 1920-1939](http://www.schiffslisten.de/index_en.html).  
 
