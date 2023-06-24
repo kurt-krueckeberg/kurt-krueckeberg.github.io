@@ -5,3 +5,7 @@ A a "Bibligoraphies" section:
 - <https://www.germanroots.com/emigration.html>
 - <https://freepages.rootsweb.com/~herz/genealogy/kuppenheim/kphm_immigr.htm>
 - https://magsgen.com/cpage.php?pt=37
+
+## Creative Commons Licenses
+
+See <https://creativecommons.org/about/cclicenses/>
