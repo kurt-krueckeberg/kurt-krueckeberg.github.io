@@ -209,7 +209,7 @@
   
   **Publisher:**  Homepage of [Otto Karl Spengler](https://spengler.li/otto/index_engl.htm) > Emigrants from Külsheim
 
-- [Emigrants from Kuppenheim, organized by Sruname and sections of the the alphabet (using the first letter of the surname)](https://freepages.rootsweb.com/~herz/genealogy/kuppenheim/kphm_immigr.htm)
+- [Emigrants from Kuppenheim, organized by Surname and sections of the the alphabet (using the first letter of the surname)](https://freepages.rootsweb.com/~herz/genealogy/kuppenheim/kphm_immigr.htm)
 
 - [Emigrants from Külsheim-Hundheim, Baden-Württemberg, Germany to America and elsewhere](https://spengler.li/otto/emigration_hundheim_engl.htm)
   
