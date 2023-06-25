@@ -378,8 +378,6 @@
 
   **Format:** Database of the Geislingen/Steige, Heidenheim, Blaubeuren, Ulm and Göppingen Family History Society
 
-<!--- TODO: Finish the next two entries and join them with those immediately below them. --->
-
 - [Auswanderer auf dem Schiff Samuel M. Fox. Ankunft New York, 4. Aug. 1852](https://worldcat.org/title/12751257?oclcNum=12751257)
 
   **Authors:** Fritz Braun (Compiler), Jacob Ernst Ruth
@@ -396,7 +394,7 @@
   
     **Authors:** Fritz Braun, Heimatstelle Pfalz
 
-    **Publisher:**Heimatstelle Pfalz, Kaiserslautern, [196-]
+    **Publisher:** Heimatstelle Pfalz, Kaiserslautern, [196-]
 
     **Notes:** "Sonderdruck aus dem Heimatbuch: Aus Enkenbachs Vergangenheit."
 
@@ -646,7 +644,7 @@
   did not emigrate from Schleswig or Holstein, but from other places. Searching is free, but emigrant’s place of origin provided by compiler upon fee payment."
 
 - [Auswandererlisten des ehemaligen Herzogtums Braunschweig. Ohne Stadt Braunschweig und Landkreis Holzminden, 1846-1871  
- Emigrant List from the former Duchy of Braunschweig 1846-1871. Excluding the city of Braunschweig and the County of Holzminden  
+ [Emigrant List from the former Duchy of Braunschweig 1846-1871. Excluding the city of Braunschweig and the County of Holzminden]  
  ](https://worldcat.org/title/1298763074?oclcNum=1298763074)
 
   **Author:** Fritz Gruhne
@@ -665,7 +663,7 @@
 
 - [Emigrants from Schleswig-Holstein to New Amsterdam (now New York) in 1636-1667](http://www.genealogy-sh.com/timm/1636-1667.htm)  
 
-- *Emigrants from the Attendorn* (Germany) area, see:\_Heimatblatter fur das kurkolnische Sauerland\_, volumes from around 1948-1958  
+- *Emigrants from the Attendorn* (Germany) area, see:\_Heimatblatter fur das kurkolnische Sauerland, volumes from around 1948-1958  
 
 - [Emigrants from the former Amt Damme, Oldenburg (now Niedersachsen), Germany, mainly to the United States, 1830-1849](http://www.honkomp.de/damme-auswanderung/chapte12.htm)  
 
