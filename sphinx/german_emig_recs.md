@@ -1025,9 +1025,8 @@
 
 - [IMAR Mecklenburg Emigrant Database](http://www.feefhs.org/igs/imed/igs-imed.html)
 
- Over 25,000 names (of 170,000) have been entered so far into this database,
- which is searchable online by surname only. A donation is requested
- to obtain the full listing by mail.  
+  Over 25,000 names (of 170,000) have been entered so far into this database, which is searchable online by surname only. A donation is requested
+  to obtain the full listing by mail.  
 
 - [Immigrants from Villingendorf, Germany to America in the 19th century](http://www.geocities.com/Heartland/Valley/7707/emigrationtoamerica.html).
 
