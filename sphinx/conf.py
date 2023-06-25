@@ -12,7 +12,7 @@
 project = 'German Emigration Records'
 copyright = "MIT License"
 author = 'Kurt Krueckeberg'
-release = ''
+release = '0.7'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

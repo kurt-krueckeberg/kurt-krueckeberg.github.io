@@ -412,21 +412,17 @@
 
 - [Auswanderer aus Queidersbach, 1764 bis 1938](https://worldcat.org/title/6108771)
 
-    **Authors:** Fritz Braun, Stefan Aicher
+  **Authors:** Fritz Braun, Stefan Aicher
 
-    **Publisher:** Heimatstelle Pfalz, Kaiserslautern, 1966
+  **Publisher:** Heimatstelle Pfalz, Kaiserslautern, 1966
 
 - [Bremen Passenger Lists, 1920-1939](http://wwwpassengerlists.de/)
 
-   **Notes:** From 1875-1908, the staff of the *Nachweisungsbureau* decided to
-   destroy all lists older than 3 years because of lack of office
-   space. With the exception of 2,953 passenger lists for the years
-   1920–1939 all other lists were lost in World War II. This is a set
-   of 3,017 lists dating 1920-1939 (of 4420 made during this time
-   period), which was saved by *Die Maus,* a Bremen based genealogical
-   society. Over 635,000 passengers are in the database which can be
-   searched by surname, ship name, day of departure, destination harbor
-   and hometown of the passenger.
+  **Notes:** From 1875-1908, the staff of the *Nachweisungsbureau* decided to  destroy all lists older than 3 years because of lack of office
+  space. With the exception of 2,953 passenger lists for the years 1920–1939 all other lists were lost in World War II. This is a set
+  of 3,017 lists dating 1920-1939 (of 4420 made during this time period), which was saved by *Die Maus,* a Bremen based genealogical
+  society. Over 635,000 passengers are in the database which can be searched by surname, ship name, day of departure, destination harbor
+  and hometown of the passenger.
 
 - [Bremen Passenger Lists 1920-1939](http://www.schiffslisten.de/index_en.html).  
 
@@ -788,19 +784,22 @@
   entire former German Empire and emigration years from 1820 through 1918. Each fiche includes at the end an index of
   names listed on that fiche and their frame location.
 
-- *Germanic Genealogy: A Guide to Worldwide Sources and Migration
-    Patterns.* St. Paul, Minnesota: Germanic Genealogy Society, 1995.
-
-- [Germanic genealogy : a guide to worldwide sources and migration patterns](https://worldcat.org/title/150936080?oclcNum=150936080)
+- [Germanic Genealogy: A Guide to Worldwide Sources and Migration Patterns](https://worldcat.org/title/150936080)
 
   **Authors:** Edward R. Brandt, Germanic Genealogy Society
 
-  **Abstract:** A guide to how to research Germanic family history, including passenger and arrival lists and the
-  history of German speaking people in Europe and their migration across the world.
+  **Abstract:** A guide to how to research Germanic family history, including passenger and arrival lists and the history of German speaking people
+  in Europe and their migration across the world 
 
-  **Format:** Print Book, English, 2007, 3rd ed
-
+  **Format:** Print Book, English, 2007
+  **Edition:** 3rd ed
   **Publisher:** Germanic Genealogy Society, St. Paul, MN, 2007
+
+  - [1995 Online Version](https://archive.org/details/germanicgenealog0000unse)
+    
+    **Format:** Open access online version
+
+    **Publisher:** Publisher St. Paul, MN : Germanic Genealogy Society, 1995
 
 - *Germans to America* lists of passengers arriving at U.S. ports".
 
