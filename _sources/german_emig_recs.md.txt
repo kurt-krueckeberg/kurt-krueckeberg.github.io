@@ -104,7 +104,7 @@
   (Genealogy Association Schleswig-Holstein) e. V. had taken on the task of entering those index cards into the computer. Here is a publication of the index to these cards.
   The data do not claim to be complete. These were adopted as far as possible as they could be found on the index cards.
 
-- Auerbach, Inge  works:
+- Inge Auerbach works:
 
   - [Auswanderer aus Hessen-Kassel 1840-1850 (Emigrants from Hessen-Kassel 1840-1850)](https://worldcat.org/title/866233127)
 
@@ -1685,45 +1685,59 @@
   
   A collection of "twenty-four articles dealing with German-speaking emigrants of the eighteenth century". Contains a personal name index.
 
-- Zimmerman, Gary and Marion Wolfert works:
+- Gary Zimmerman and Marion Wolfert works:
 
-- [German immigrants : lists of passengers bound from Bremen to New York [dates], with places of origin](https://worldcat.org/title/12389585)
+  - [German immigrants : lists of passengers bound from Bremen to New York [dates], with places of origin](https://worldcat.org/title/12389585)
 
-  **Authors:** Gary J. Zimmerman (Compiler), Marion Wolfert (Compiler)
+    **Authors:** Gary J. Zimmerman (Compiler), Marion Wolfert (Compiler)
 
-  **Publisher:** Genealogical Pub. Co., Baltimore, 1993.
+    **Publisher:** Genealogical Pub. Co., Baltimore, 1993.
 
-  **Contents:** A partial reconstruction of some Bremen passenger lists, based on American sources. Only those
-  passengers are included for whom a specific place of origin is given. 4 volumes:
+    **Contents:** A partial reconstruction of some Bremen passenger lists, based on American sources. Only those
+    passengers are included for whom a specific place of origin is given. 4 volumes:
 
-  - [1] 1847-1854
+    - [1] 1847-1854
 
-  - [2] 1855-1862
+    - [2] 1855-1862
 
-  - [3] 1863-1867
+    - [3] 1863-1867
 
-  - [4] 1868-1871  
+    - [4] 1868-1871  
 
-- [German Immigrants from Bremen to New York 1847-1862](https://worldcat.org/title/260189177).
+  - [German Immigrants from Bremen to New York 1847-1862](https://worldcat.org/title/260189177).
 
-  **Authors:**  Zimmerman, Gary J. & Marion Wolfert.
+    **Authors:**  Zimmerman, Gary J. & Marion Wolfert.
 
-  **Summary:** A partial reconstruction of Bremen passenger lists based on U.S. sources. Not
-  all Bremen passengers are included; only those giving a specific place of origin in Germany. This is about 21%; those giving only
-  "Germany" as place of origin was about 79%  
+    **Summary:** A partial reconstruction of Bremen passenger lists based on U.S. sources. Not
+    all Bremen passengers are included; only those giving a specific place of origin in Germany. This is about 21%; those giving only
+    "Germany" as place of origin was about 79%  
 
-- German immigrants: Lists of passengers bound from Bremen to New York, 1855-1862*. 1986
+  - [German immigrants: Lists of passengers bound from Bremen to New York, 1855-1862](https://worldcat.org/search?q=ti%3AGerman+immigrants%3A+Lists+of+passengers+bound+from+Bremen+to+New+York%2C+1855-1862)
+    
+    **Authors:** Zimmerman, Gary J. & Wolfert, M.
 
-  **Compilers:** Zimmerman, Gary J. & Wolfert, M.
+    **Format:** Print Book, English, 1986
 
-- German Immigrants: Lists of Passengers Bound from Bremen to New York 1863-1867, with Place of Origin
-  
-  **Compilers:** Zimmerman, Gary J. & Wolfert, M.
+    **Publisher:** Genealogical Publishing Co., Inc, Baltimore, MD, 1986
 
-  **Publisher:** Baltimore, Maryland: Genealogical Publishing Co., 1988.
+  - [German Immigrants: Lists of Passengers Bound from Bremen to New York 1863-1867, with Place of Origin](https://worldcat.org/title/1152961233?oclcNum=1152961233)
+    
+    **Compilers:** Zimmerman, Gary J. & Wolfert, M.
 
-- German Immigrants: Lists of Passengers Bound from Bremen to New York 1868-1871, with Places of Origin.
+    **Format:** Print Book, 1988
 
-  **Compilers:** Zimmerman, Gary J. & Wolfert, Marion
+    **Publisher:** Baltimore, Maryland: Genealogical Publishing Co., 1988.
 
-  **Publihser:** Baltimore, Maryland, Genealogical Publishing Co.l, 1993.
+  - [German Immigrants: Lists of Passengers Bound from Bremen to New York 1868-1871, with Places of Origin](https://worldcat.org/title/27272253)
+
+    **Author:** Marion Wolfert
+
+    **Format:** Print Book, 1988
+
+    **Publihser:** Baltimore, Maryland, Genealogical Publishing Co.l, 1993.
+
+    **Summary:** "Owing to the total destruction of the original Bremen passenger lists, this volume, like the others, is the only practical
+    means of discovering information on thousands of individuals for whom immigrant origin data was thought to be irretrievably lost. In effect,
+    it is a partial reconstruction of the Bremen records, based on official passenger lists and manifests in the custody of the National Archives.
+    It is, therefore, a record of arrivals rather than departures, and is the closest we are ever likely to come to duplicating information in the
+    lost Bremen records"--Publisher website (December)
