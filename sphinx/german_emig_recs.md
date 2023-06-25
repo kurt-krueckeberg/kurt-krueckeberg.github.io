@@ -295,8 +295,6 @@
   of origin of the emigrants . In addition to the names of the emigrants, biographical data, emigration destinations and times of
   emigration can be called up. LEO-BW thus offers a research entry point for family research.
 
-<!--- Incorporate the information from https://www.wgff.de/linkliste.php?subject=auswanderer at this point. Check entires below: --->
-
 - [Ancestry.com’s searchable Baden, Germany Emigration Index, 1866-1911](https://www.ancestry.com/search/collections/4610/)
 
 - [MyHeritage.com: Germany, Emigrants from Southwestern Germany, 1736-1963](https://www.myheritage.com/research/collection-10749/germany-emigrants-from-southwestern-germany-1736-1963?tr_funnel=supersearch&tr_country=US&tr_creative=oct19historicalrecords)
@@ -332,7 +330,7 @@
   - Emigrant letters in the archive of the Hamburg Emigrant Mission
   - Emigrant database (old homepage)
 
-- [Palatinate Library in Kaiserslauten](https://www.bv-pfalz.de/kultur-bildung/pfalzbibliothek-kaiserslautern/)
+- [Palatinate Library in Kaiserslauten](https://www.bv-pfalz.de/kultur-bildung/pfalzbibliothek-kaiserslautern/) in Rheinland-Pfalz, Germany
 
   - [list of the libraries services](https://www.pfalzbibliothek.de/service/)
   - [online search](https://pfalzbibliothek.bibliotheca-open.de/SUCHE/Erweiterte-Suche)
@@ -772,12 +770,6 @@
     Australian Register. The South Australian Government Gazette
     *(return showing deaths on board Emigrant ships 1849 to 5th June
     1865)* has also been consulted.  
-
-- German Emigration Records. The LDS Family History Library has the
-    1991 edition of the Germanic Emigrants Register (FHL fiche 6312192;
-    computer number 445448). The list consists of 10 microfiche and
-    contains about 118,000 names. You can also write to: Germanic
-    Emigrants Register, Postfach 10 08 22, 51608 Gummersbach, Germany.  
 
 - [German Emigration Center / Deutsches Auswandererhaus](http://www.dah-bremerhaven.de/)
 
