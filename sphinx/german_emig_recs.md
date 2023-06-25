@@ -392,7 +392,7 @@
 
   **Notes:** Report on the voyage by Jacob Ernst Ruth and passenger list. Originally published in Pfälzische Familienund Wappenkunde, 1964  
 
-- Braun, Fritz works:
+- Fritz Braun works:
 
   - [Auswanderer aus Enkenbach seit Beginn des 18. Jahrhunderts](https://worldcat.org/title/7507091)
   
