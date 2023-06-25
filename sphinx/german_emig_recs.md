@@ -83,7 +83,7 @@
 
 - [Emigrants from Schleswig-Holstein Online Database](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/passagierlisten-auswandererschiffe-hamburg-suche)
 
-  **Author:** Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V. (Genealogy Working Group of Schleswig-Holstein)
+  **Author:** Arbeits-Gemeinschaft Genealogie Schleswig-Holstein e.V. [Genealogy Working Group of Schleswig-Holstein]
 
   **Contents:** A list of names for the passenger lists of the emigrant ships that set sail via Hamburg for the period 1850 to 1871 (index cards, created by Karl
   Werner Klüber ). Members of AGGSH e.V.  (Genealogy Working Group of Schleswig-Holstein) looked through these index cards to find the emigrants from Schleswig-Holstein ("Voss" and others) who left
@@ -94,11 +94,12 @@
 
   "We do not claim that our data is complete, as the work is not yet fully completed. The data collected so far can be searched here."
 
-- [Online Index zum Auswandererarchiv der Amerika Gesellschaft e.V. Bad Segeberg (Index of the emigration archiv of the American Society e.V. Bad Segeberg)](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/namens-index-auswandererarchiv-bad-segeberg)
+- [Online Index zum Auswandererarchiv der Amerika Gesellschaft e.V. Bad Segeberg  
+  [Index of the emigration archiv of the American Society e.V. Bad Segeberg]](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/namens-index-auswandererarchiv-bad-segeberg)
 
   An index to the emigration archive of the America Society Bad Segeberg.
 
-  The members of the Amerika Gesellschaft (American Society) e.V. in Bad Segeberg have been working for years on creating an emigration archive with data on
+  The members of the Amerika Gesellschaft [American Society] e.V. in Bad Segeberg have been working for years on creating an emigration archive with data on
   people from Schleswig-Holstein who emigrated. In the meantime, this file has reached the size of approx. 5,000 cards. The Arbeits-Gemeinschaft Genealogie Schleswig-Holstein
   (Genealogy Association Schleswig-Holstein) e. V. had taken on the task of entering those index cards into the computer. Here is a publication of the index to these cards.
   The data do not claim to be complete. These were adopted as far as possible as they could be found on the index cards.
@@ -123,7 +124,8 @@
 
     **Notes:** Separate lists of Hessian emigrants from Hanau and Hesse-Kassel; includes place of origin.
 
-  - [Auswanderung aus Kurhessen : nach Osten oder Westen? (Emigration from Kurhessen : to the east of the west?)](https://worldcat.org/title/31413781)
+  - [Auswanderung aus Kurhessen : nach Osten oder Westen?  
+    [Emigration from Kurhessen : to the east of the west?]](https://worldcat.org/title/31413781)
 
     **Series:** Schriften des Hessischen Staatsarchivs Marburg (Publications of the Hessian State Archives Marburg)
 
