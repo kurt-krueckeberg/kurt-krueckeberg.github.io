@@ -73,15 +73,13 @@
   Stemwede is in central Germany, between Hannover and Osnabrück, not far from the Dümmer See. Stemwede is a relatively new name for the
   area, becoming a municipality in 1973 when the villages in the parishes of Levern, Wehdem, Oppenwehe and Dielingen were combined together.
 
-- [Emigrants from Baden and Württemberg 1816/17, extracted from Aufbruch nach Amerika (Departure to America)](https://worldcat.org/title/12104494?oclcNum=12104494)
+- [Emigrants from Baden and Württemberg 1816/17, extracted from Aufbruch nach Amerika [Departure to America]](https://worldcat.org/title/12104494?oclcNum=12104494)
 
   **Author:** Andrusko, Samuel M.
 
   **Publisher:** S.M. Andrusko, Silver Spring, Md. (95 E. Wayne Ave., Apt. T-2, Silver Spring 20901), 1984
 
-  **Notes:** An introduction and English translation of selected information on certain emigrants from the
-  book [Aufbruch nach Amerika : Friedrich List u. d. Auswanderung aus Baden u. Württemberg 1816/17 : Dokumentation e. sozialen Bewegung (Departure to America : Friedrich List and the Emigration from Baden and Württemberg in 1816/17 : Documentation of a Social Movement)](https://worldcat.org/title/6088787) by Ingrid Schöberl and Günter
-  Moltmann, 1979
+  **Notes:** An introduction and English translation of selected information on certain emigrants from Aufbruch nach Amerika / unter Mitarb. von Ingrid Schöberl, hrsg. von Günter Moltmann, 1979
 
 - [Emigrants from Schleswig-Holstein Online Database](https://www.aggsh.net/index.php/projekte/auswanderungen-aus-schleswig-holstein/passagierlisten-auswandererschiffe-hamburg-suche)
 
@@ -137,7 +135,8 @@
 
     **Notes:** Extracted from Hessian sheets for folk and cultural research, new volume 17, 1985
 
-- [Auf nach Amerika! Beiträge zur Amerika-Auswanderung des 19. Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der historischen Beziehungen im 20. Jahrhundert (Off to America! Contributions to the 19th century emigration to America from the Paderborn region and to the revival of historical relations in the 20th century)](https://worldcat.org/title/722544364)
+- [Auf nach Amerika! Beiträge zur Amerika-Auswanderung des 19. Jahrhunderts aus dem Paderborner Land und zur Wiederbelebung der historischen Beziehungen im 20. Jahrhundert  
+  [Off to America! Contributions to the 19th century emigration to America from the Paderborn region and to the revival of historical relations in the 20th century]](https://worldcat.org/title/722544364)
 
   **Author:** Deutsch-Amerikanischer Freundeskreis Paderborn-Belleville (Issuing body)
 
@@ -170,12 +169,13 @@
 
 - [Online database of Emigrants from Köln](https://altes-koeln.de/wiki/Auswanderer_aus_K%C3%B6ln)
 
-    **Publisher:** [alter Köln (Old Köln) website](https://altes-koeln.de/wiki/Hauptseite)  
+    **Publisher:** [Alter Köln [Old Köln] website](https://altes-koeln.de/wiki/Hauptseite)  
 
     This list of emgirants from Köln was developed by German family researchers who meet monthly in Köln,
     most of whom are members of the [West German Society for Family History](https://www.wgff.de/) and [CompGen](https://compgen.de)
 
-- [Die Auswanderer aus dem Fürstentum Lippe (bis 1877) : Nach ungedruckten und gedruckten Quellen (The Emigrants from the Principality of Lippe (until 1877) : According to unprinted and printed sources)](https://worldcat.org/title/9619390?oclcNum=9619390)
+- [Die Auswanderer aus dem Fürstentum Lippe (bis 1877) : Nach ungedruckten und gedruckten Quellen  
+  [The Emigrants from the Principality of Lippe (until 1877) : According to unprinted and printed sources]](https://worldcat.org/title/9619390?oclcNum=9619390)
 
     **Compiler:** Fritz Verdenhalven
 
@@ -257,7 +257,7 @@
   Franken) at Nuremberg. As a Sesquicentennial gift, the City of Gunzenhausen sent this information to its sister city of Frankenmuth, Michigan.
   Frankenmuth Historical Association staff & volunteers translated the information and compiled these charts.
 
-- [PDF: Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
+- PDF: [Auswanderer aus dem Gebiet des ehemaligen preußischen Regierungsbezirks Trier 1700-1900](https://www.wgff.de/trier/download/ABC/Auswanderer.pdf)
 
   **Author:** Werner Lichter
 
@@ -432,9 +432,9 @@
 
 - [The emigration of the Mülheimers to Pennsylvania : both a local and German culture picture from the 17th century](https://worldcat.org/title/25464543)
 
-  **Authoer:** Broermann, Karl
+  **Author:** Broermann, Karl
 
-  **Publisher:** Publisher:R.N. Castleberry, Windermere, Fla. (12404 Summerport Ln., Windermere 34786), ©1991
+  **Publisher:** R.N. Castleberry, Windermere, Fla. (12404 Summerport Ln., Windermere 34786), ©1991
 
   **Notes:** "With also a photocopy of the original German article: Die Auswanderung der Mülheimer nach Pennsylvanien. The original article was published in the December, 1938 issue of the Mülheim Historical Society's Zeitschrift"--Foreword
 
@@ -507,7 +507,7 @@
 
   - [Eighteenth Century Emigrants from the Northern Alsace to America](https://worldcat.org/title/27244738)
 
-    **Publisher:** Picton Press ; Available from AKB Publications, Camden, Me., Myerstown, Pa. (691 Weavertown Rd., Myerstown 17067-2642), ©1992\
+    **Publisher:** Picton Press ; Available from AKB Publications, Camden, Me., Myerstown, Pa. (691 Weavertown Rd., Myerstown 17067-2642), ©1992
 
     **Summary:** "Prepared for distribution to members of the Pennsylvania German Society during 1992
     as Volume XXVI in its series of publications on Pennsylvania German history and culture".
@@ -527,7 +527,7 @@
 
   - [Grossgartach, Wuerttemberg, to Pennsylvania  : some early colonial German immigrants](https://worldcat.org/title/42249159)
 
-    **Publisher:** AKB Publications, Myerstown, Pa., 1999.
+    **Publisher:** AKB Publications, Myerstown, Pa., 1999
 
     **Summary:** Extensive genealogical information on the 18th century emigrants from Grossgartach who settled in Pennsylvania.  
 
@@ -725,7 +725,7 @@
     Eifel region, "with major emphasis on those emigrants whose final
     destinations were Illinois, Wisconsin and Michigan."  
 
-- [Genealogie im Oldenburger Münsterland](http://www.familie-bloemer.de/gene/).
+- [Genealogie im Oldenburger Münsterland](http://www.familie-bloemer.de/gene/)
 
     Lists from the Southern part of Oldenburg, known as "Oldenburger Muensterland" (predominantly Catholic).
 
@@ -845,19 +845,11 @@
     943.41 W2gi); Schmahl, Helmut, *Die Auswanderung aus Rheinhessen
     im 18. und 19. Jahrhundert* (FHL 943.41 W2sh)*.*
 
-- [Großeneder Auswanderer](http://www.grosseneder.de/GESCHICHTE/MENSCHEN/EMIGRANTS/EMIGRANTS.HTML).
-    List of 19th century emigrants from the village of Grosseneder in
-    Nordrhein-Westfalen.  
+- [Großeneder Auswanderer](http://www.grosseneder.de/GESCHICHTE/MENSCHEN/EMIGRANTS/EMIGRANTS.HTML)
+
+  List of 19th century emigrants from the village of Grosseneder in  Nordrhein-Westfalen.  
 
 - [Gross-Umstadt Emigrants](http://www.umstead.org/gr-um%20more.html)
-
-- Gruhne, Fritz. *Auswandererlisten des ehemaligen Herzogtums
-    Braunschweig. Ohne Stadt Braunschweig u. Landkrels Holzminden.
-    1846-1871*. (Braunschweig) Braunschweigischer
-    Geschichtsverein, 1971. 293 p. 24 cm. (Quellen und Forschungen zur
-    braunschweigischen Geschichte, Bd. 20)  Emigrants are listed by
-    town; a surname index follows. Does not include emigrants from the
-    city of Braunschweig and the district of Holzminden. [Every Name Index](http://www.thomas-erbe.de/ahnen/buch/001.htm) to this work.
 
 - Works by Hacker, Werner  
 
@@ -968,24 +960,28 @@
     [Family History Library Catalog](http://familysearch.org/) enter
     "Reisepasse Protokolle." The 323 films are listed by number.  
 
-- [Hegensdorfer Auswanderer 1824-1893](http://home.att.net/~wee-monster/hegensdorf/auswanderer.html).
+- [Hegensdorfer Auswanderer 1824-1893](http://home.att.net/~wee-monster/hegensdorf/auswanderer.html)
+
     List of emigrants from the village of Hegensdorf in
     Nordrhein-Westfalen. Also includes the nearby village of
     Keddinghausen.  
 
-- [Heimliche Auswanderung (Secret Emigration) aus 15 Orten (709 Personen)](http://www.mynetcologne.de/~nc-kornhomi/secr_emi.htm) A
-    list of 709 people who emigrated from the Eastern part of Westfalen
-    (today Nordrhein-Westfalen). These emigrants are from the following
-    towns: Auenhausen, Borgentreich, Borgholz, Buehne, Dalhausen,
-    Drankhausen, Manrode, Muddenhagen, Natingen, Natzungen, Ossendorf,
-    Rothe, Sandebeck, Scherfede. **Note:** this webpage loads very
-    slowly as it is almost 1 mb in size.
+- [Heimliche Auswanderung (Secret Emigration) aus 15 Orten (709 Personen)](http://www.mynetcologne.de/~nc-kornhomi/secr_emi.htm)
+
+   A list of 709 people who emigrated from the Eastern part of Westfalen
+   (today Nordrhein-Westfalen). These emigrants are from the following
+   towns: Auenhausen, Borgentreich, Borgholz, Buehne, Dalhausen,
+   Drankhausen, Manrode, Muddenhagen, Natingen, Natzungen, Ossendorf,
+   Rothe, Sandebeck, Scherfede. **Note:** this webpage loads very
+   slowly as it is almost 1 mb in size.
 
   - [Geduldete Auswanderung [Permitted Emigration]](http://www.mynetcologne.de/~nc-kornhomi/leg_emi.htm)
 
 - Herber, Marie. *Woher sie kamen–, –wohin sie gingen :
     Auswanderungen aus dem ehemaligen Kreis Grünberg in der 2. Häfte
-    des 19. Jahrhunderts*. Grünberg-Queckborn : R.u.M. Herber, c1992.
+    des 19. Jahrhunderts*.
+    
+  Grünberg-Queckborn : R.u.M. Herber, c1992.
     182 p. "Schiffsgelegenheiten von Bremen nach Nord-Amerika : nach
     New-York und Baltimore." Listings of emigrants from Kreis Grünberg
     during the second half of the nineteenth century; arrangement is by
@@ -997,7 +993,8 @@
     W29a)*;* Auerbach, Inge, *Auswanderung aus Kurhessen* (FHL 943.41
     W2ai)\_. \_
 
-- [Hessisches Archiv-Dokumentations- und Informations-System](http://www.hadis.hessen.de/scripts/HADIS.DLL/home?SID=9DDD-5030937-BBA88&PID=4B3F).
+- [Hessisches Archiv-Dokumentations- und Informations-System](http://www.hadis.hessen.de/scripts/HADIS.DLL/home?SID=9DDD-5030937-BBA88&PID=4B3F)
+
     Online inventory system for the Hessen State archives. Enter the
     surname in the box labeled "Schnellsuche". Emigrants specifically
     are found under the heading "Auswanderer-Nachweise", but can be
@@ -1005,6 +1002,7 @@
     list of entries.
 
 - [Hessisches Staatsarchiv Darmstadt Auswanderer-Nachweise](http://www.hadis.hessen.de/scripts/HADIS.DLL/home?SID=675F-10E84D-B6755&PID=29A1)
+
     Emigration database from the Hessen State Archives in Darmstadt
     (type a name or surname into the box under "Schnellsuche" then click
     the magnifying glass icon)  
@@ -1012,10 +1010,11 @@
 - [Historic Emigration Office](http://users.cybercity.dk/~ccc13652/addr/ger_heo.htm),
     Hamburg
 
-- [Historical Family Research -](http://home.arcor.de/emigration-research/). **Author:** Reinhart
-    Hofer The list consists of over 7000 emigrants of the period of 1830
-    to 1914. They mostly originate from districts of Lower and Upper
-    Bavaria as well as Upper Palatinate and Frankonia. Sources are:
+- [Historical Family Research -](http://home.arcor.de/emigration-research/)
+ 
+  **Author:** Reinhart Hofer
+  
+  The list consists of over 7000 emigrants of the period of 1830 to 1914. They mostly originate from districts of Lower and Upper Bavaria as well as Upper Palatinate and Frankonia. Sources are:
     state and church archives, private collections, contemporary
     newspaper publications and literature. If you find your emigrant
     ancestor, please contact Hofer for more information. He will send it
@@ -1030,10 +1029,11 @@
 - Humphrey, John I. "Researching German Ancestors: Part II -
     Emigration Records." *N.G.S. Newsmagazine.* May/June 2001, 138-140.
 
-- [IMAR Mecklenburg Emigrant Database](http://www.feefhs.org/igs/imed/igs-imed.html). Over 25,000
-    names (of 170,000) have been entered so far into this database,
-    which is searchable online by surname only. A donation is requested
-    to obtain the full listing by mail.  
+- [IMAR Mecklenburg Emigrant Database](http://www.feefhs.org/igs/imed/igs-imed.html)
+
+ Over 25,000 names (of 170,000) have been entered so far into this database,
+ which is searchable online by surname only. A donation is requested
+ to obtain the full listing by mail.  
 
 - [Immigrants from Villingendorf, Germany to America in the 19th century](http://www.geocities.com/Heartland/Valley/7707/emigrationtoamerica.html).
 
@@ -1042,9 +1042,9 @@
 
 - [Index to Palatine passenger lists](http://www.rootsweb.com/~ote/palalist.htm)  
 
-- [Institute for Migration and Ancestral Research](http://www.imar-mv.com/), an organization that deals with
-    emigration to America from Mecklenburg. It has at its disposal a
-    database with 25,000 emigrants. No online access to records.  
+- [Institute for Migration and Ancestral Research](http://www.imar-mv.com/)
+
+  an organization that deals with emigration to America from Mecklenburg. It has at its disposal a     database with 25,000 emigrants. No online access to records.  
 
 - Jacobs, H. E.  *The German emigration to America, 1709-1740*.
     Published 1898. For reprints see: Tolzman, D. H.  
