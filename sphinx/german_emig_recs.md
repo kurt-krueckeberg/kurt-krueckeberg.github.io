@@ -396,7 +396,7 @@
   
     **Authors:** Fritz Braun, Heimatstelle Pfalz
 
-    **Publisher:**Heimatstelle Pfalz, Kaiserslautern, \[196-\]
+    **Publisher:**Heimatstelle Pfalz, Kaiserslautern, [196-]
 
     **Notes:** "Sonderdruck aus dem Heimatbuch: Aus Enkenbachs Vergangenheit."
 
@@ -786,7 +786,7 @@
 
 - [Germanic emigrants register](https://worldcat.org/search?q=ti%3AGermanic+emigrants+register)
 
-  **Publisher:**  Diepholz, Germany : \[Germanic Emigrants Register\]; Warthausen : COM-Service EDV Habel, 1992. 23 microfiches.
+  **Publisher:**  Diepholz, Germany : [Germanic Emigrants Register]; Warthausen : COM-Service EDV Habel, 1992. 23 microfiches.
 
   **Format:** microform. Jan. 1992 ed.
 
@@ -849,8 +849,7 @@
     List of 19th century emigrants from the village of Grosseneder in
     Nordrhein-Westfalen.  
 
-- [Gross-Umstadt \[Groß-Umstadt](http://www.umstead.org/gr-um%20more.html)
-    Emigrants\]  
+- [Gross-Umstadt Emigrants](http://www.umstead.org/gr-um%20more.html)
 
 - Gruhne, Fritz. *Auswandererlisten des ehemaligen Herzogtums
     Braunschweig. Ohne Stadt Braunschweig u. Landkrels Holzminden.
@@ -893,7 +892,7 @@
 
   - Hacker, Werner, editor. *Eighteenth century register of emigrants
       from southwest Germany (to America and other countries)*. Apollo,
-      Pa. : Closson Press, \[1994\]  A combined index listing only those
+      Pa. : Closson Press, [1994]  A combined index listing only those
       who emigrated to America from the author’s *Auswanderung aus dem
       früheren Hochstift Speyer nach Südosteuropa und Übersee im XVIII.
       Jahrhundert*, *Auswanderung aus Baden und dem Breisgau*,
@@ -906,7 +905,7 @@
 
   - Hacker, Werner, fl. 1970- *Kurpfälzische Auswanderer vom unteren
       Neckar : rechtsrheinische Gebiete der Kurpfalz* / Werner Hacker.
-      Stuttgart : K. Theiss, c1983. 208, \[1\] p. : ill., maps ; 24 cm.  
+      Stuttgart : K. Theiss, c1983. 208, [1] p. : ill., maps ; 24 cm.  
 
 - Hall, Charles M., editor. *The Antwerp emigration index* / by
     Charles M. Hall and Heritage International. Logan, Utah (Box 368,
@@ -982,8 +981,7 @@
     Rothe, Sandebeck, Scherfede. **Note:** this webpage loads very
     slowly as it is almost 1 mb in size.
 
-  - [Geduldete Auswanderung \[Permitted Emigration](http://www.mynetcologne.de/~nc-kornhomi/leg_emi.htm)\]
-        from the same area.  
+  - [Geduldete Auswanderung [Permitted Emigration]](http://www.mynetcologne.de/~nc-kornhomi/leg_emi.htm)
 
 - Herber, Marie. *Woher sie kamen–, –wohin sie gingen :
     Auswanderungen aus dem ehemaligen Kreis Grünberg in der 2. Häfte
@@ -1122,8 +1120,8 @@
 - [Landkreis Cuxhaven Emigrants 1830-1930](http://hapag-halle-cuxhaven.de/english/cuxausindex_e.html)
 
 - *Let’s go to America! : the path of emigrants from Eastern
-    Westphalia to the USA* / \[translated by William George\]. Löhne
-    : H. Brackmann, \[1986?\]  Lists of emigrants are arranged by town;
+    Westphalia to the USA* / [translated by William George]. Löhne
+    : H. Brackmann, [1986?]  Lists of emigrants are arranged by town;
     contains a name index.  
 
 - [Link to Your Roots](http://linktoyourroots.com/index_e.php)**.**
@@ -1169,7 +1167,7 @@
 
 - Mergen, Josef. *Die Auswanderungen aus den ehemals preussischen
     Teilen des Saarlandes im 19. Jahrhundert*. Saarbrücken : Saarbrücker
-    Zeitung u. Druckerei \[in Komm.\] 1973-\<1987\> v. \<1-2\>
+    Zeitung u. Druckerei [in Komm.] 1973-\<1987\> v. \<1-2\>
     Veröffentlichungen des Instituts für Landeskunde des Saarlandes; Bd.
     20, \<28\>) Contents: 1. Voraussetzungen und Grundmerkmale – 2. Die
     Auswanderer. Volume 2, "Die Auswanderer," lists emigrants from the
@@ -1267,8 +1265,8 @@
     German-speaking lands, not only just the Palatinate but they also
     have a special focus on the Palatinate.  
 
-- *Passenger lists, Holland-America Line, 1900-1940* \*\*
-    \[microform\] / Gemeentelijke Archiefdienst Rotterdam. Lisse, The
+- *Passenger lists, Holland-America Line, 1900-1940*
+    [microform] / Gemeentelijke Archiefdienst Rotterdam. Lisse, The
     Netherlands : MMF Publications, 1995. 1053 microfiches. In Dutch
     with accompanying guide in English. Accompanied by a printed guide,
     entitled: Guide & concordances to Passenger lists of the
@@ -1342,9 +1340,9 @@
     list of emigrants from Kreis Ludwigsburg; contains surname and place
     indexes.
 
-- \[.headline\]# [Saxon Forefathers - Immigrants to America - Sächsische Vorfahren - Auswanderer nach Amerika](http://www.beepworld.de/members81/saxonforefathers/index.htm).
-    Lists names and date of emigration, but not town of origin.
-    Additional information can be requested from site owner. \#  
+- [Saxon Forefathers - Immigrants to America - Sächsische Vorfahren - Auswanderer nach Amerika](http://www.beepworld.de/members81/saxonforefathers/index.htm).
+
+   Lists names and date of emigration, but not town of origin. Additional information can be requested from site owner.  
 
 - [Schaumburger Auswanderer 1820-1914](http://home.arcor.de/histagschaumburg/Auswanderer.htm)  
 
@@ -1533,8 +1531,8 @@
     Hamburger Schiffslisten 1855 bis 1866 : eine Studie des Instituts
     für Europäische Ethnologie und Kulturforschung der Universität
     Marburg* / herausgegeben von Peter Assion ; in Verbindung mit
-    Bettina Bagunk …​ \[et al.\]. Marburg : Institut für Europäische
-    Ethnologie und Kulturforschung der Universität Marburg \[in Kommission bei Jonas\], 1991. An alphabetical list of Hessian
+    Bettina Bagunk …[et al.]. Marburg : Institut für Europäische
+    Ethnologie und Kulturforschung der Universität Marburg [in Kommission bei Jonas], 1991. An alphabetical list of Hessian
     emigrants during the period 1855 to 1866 appears on pages 177
     to 346. The names were found in the Hamburg ship lists for that time
     period.  
@@ -1595,8 +1593,8 @@
     Archives, Administrative District, Stettin, housed in the Manuscript
     Division of the Library of Congress.  
 
-- *Westfälisch Auswanderer in 19. Jahrhundert.*\* \* In *Beiträge zur
-    Westfälischen Familienforschung*\*.\* Münster, Aschendorff. Volumes
+- Westfälisch Auswanderer in 19. Jahrhundert. In *Beiträge zur
+    Westfälischen Familienforschung. Münster, Aschendorff. Volumes
     22-24 in one volume (1964-1966); volumes 38-39 in one volume
     (1980-1981); volumes 47-48 (1989-1990). Emigrants from Westphalia
     during the 19th century. Volumes 22-24 list emigrants from the
@@ -1687,7 +1685,7 @@
 
 - Zimmerman, Gary and Marion Wolfert works:
 
-- [German immigrants : lists of passengers bound from Bremen to New York \\\[dates\], with places of origin](https://worldcat.org/title/12389585)
+- [German immigrants : lists of passengers bound from Bremen to New York [dates], with places of origin](https://worldcat.org/title/12389585)
 
   **Authors:** Gary J. Zimmerman (Compiler), Marion Wolfert (Compiler)
 
@@ -1696,13 +1694,13 @@
   **Contents:** A partial reconstruction of some Bremen passenger lists, based on American sources. Only those
   passengers are included for whom a specific place of origin is given. 4 volumes:
 
-  - \[1\] 1847-1854
+  - [1] 1847-1854
 
-  - \[2\] 1855-1862
+  - [2] 1855-1862
 
-  - \[3\] 1863-1867
+  - [3] 1863-1867
 
-  - \[4\] 1868-1871  
+  - [4] 1868-1871  
 
 - [German Immigrants from Bremen to New York 1847-1862](https://worldcat.org/title/260189177).
 
