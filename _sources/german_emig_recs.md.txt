@@ -14,7 +14,7 @@
 
 - PDF: [Amerikaauswanderer-Kreis-Herford (Emigrants to America from the Distict of Herford)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford.pdf)
 
-  - PDF [Index der Familiennamen von den Auswanderern aus Herford (Surname index of Emigrants from Herford)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford-Index.pdf)
+  - PDF: [Index der Familiennamen von den Auswanderern aus Herford (Surname index of Emigrants from Herford)](https://hf-gen.de/wp-content/uploads/informationen/amerikanetz/Amerikaauswanderer-Kreis-Herford-Index.pdf)
 
   **Contents:** A list of 19th emigrants to America from Kreis Herford; arrangement is by town then year of emigration, with a separate name index. Many settled in the Middle West.
 
