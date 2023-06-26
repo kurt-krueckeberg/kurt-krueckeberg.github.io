@@ -982,7 +982,7 @@
     Herzogtum Nassau* (FHL 943.42 W2s;  Auerbach, Inge, *Hessische
     Auswanderer — Auswanderer aus Hessen-Kassel 1840-1850* (FHL 943.41
     W29a)*;* Auerbach, Inge, *Auswanderung aus Kurhessen* (FHL 943.41
-    W2ai)\_. \_
+    W2ai). 
 
 - [Hessisches Archiv-Dokumentations- und Informations-System](http://www.hadis.hessen.de/scripts/HADIS.DLL/home?SID=9DDD-5030937-BBA88&PID=4B3F)
 
