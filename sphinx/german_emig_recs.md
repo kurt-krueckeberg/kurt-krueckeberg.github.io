@@ -582,7 +582,7 @@
 
   **Author:** Ehmann, Karl
 
-  **Publisher:** Publisher:Verein für Familien- und Wappenkunde, Stuttgart, 1977
+  **Publisher:** Verein für Familien- und Wappenkunde, Stuttgart, 1977
 
   **Notes:** "Südwestdeutsche Blätter für Familien- und Wappenkunde. Sonderheft 1977."  
   Lists emigrants to New England from towns in the Enz district of Baden-Württemberg during the 18th century.  
