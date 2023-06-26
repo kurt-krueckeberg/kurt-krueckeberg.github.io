@@ -1535,14 +1535,14 @@
     und bearbeitet von Fritz Verdenhalven. Bielefeld : Verlag für
     Regionalgeschichte, 1995. 231 p. Sonderveröffentlichungen des
     Naturwissenschaftlichen und Historischen Vereins für das Land Lippe
-    ; Bd. 42) Continues \_Die Auswanderer aus dem Fürstentum Lippe (bis
-    1877). \_
+    ; Bd. 42) Continues Die Auswanderer aus dem Fürstentum Lippe (bis
+    1877). 
 
 - [Verein für mecklenburgishce Familien- und Personen-geschichte e.  V.](http://www.emecklenburg.de/MFP/database/auswanderer.php)
     Database of Mecklenburg-Strelitz emigrants.  
 
-- *Viernheimer Auswandererbuch* / hrsg. von Hans Knapp ; \[Zeichn., Karl Fischer\]. Viernheim, Seegartenstr. 13 : H. Knapp
-    \[Selbstverl.\], 1975. Lists of emigrants from Viernheim, many of
+- *Viernheimer Auswandererbuch* / hrsg. von Hans Knapp ; [Zeichn., Karl Fischer]. Viernheim, Seegartenstr. 13 : H. Knapp
+    [Selbstverl.], 1975. Lists of emigrants from Viernheim, many of
     whom came to America; no cumulative index.  
 
 - Waldeck. Thomas, Karl, *Die Waldecksche Auswanderung zwischen 1829
