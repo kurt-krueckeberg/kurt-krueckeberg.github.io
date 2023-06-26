@@ -1,5 +1,0 @@
-pandoc german_emig_recs.md -t rst -o german_emig_recs.rst
-pandoc other_bibliog.md -t rst -o other_bibliog.rst
-pandoc comments.md -t rst -o comments.rst
-pandoc intro.md -t rst -o intro.rst
-pandoc ports.md -t rst -o ports.rst

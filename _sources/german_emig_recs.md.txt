@@ -1658,20 +1658,46 @@
 
   **Contents:**
 
-  - v. 1. [Oberamts]: Backnang, Besigheim, Biberach, Blaubeuren, Böblingen, Brackenheim, Calw, Horb
-  - v. 2. [Oberamts]: Nagold, Nürtingen, Rottenburg, Rottweil, Schorndorf
-  - v. 3. [Oberamts]: Balingen, Calw, Freuden- stadt, Herrenberg, Nagold, Sulz
-  - v. 4. [Oberamts]: Geislingen, Kirchheim, Leonberg, Reutlingen
-  - v. 5. [Oberamts]: Crailsheim, Gaildorf, Geislingen, Hall, Künzelsau, Mergentheim, Welzheim
-  - v. 6. [Oberamts]: Brackenheim, Gmuen, Hall, Heilbronn, Leonberg, Maulbronn, Neckarsulm, Nuertingen, Oehringen, Schorndorf, Spaichingen, Stuttgart, Urach, Waldsee, Weinsberg
-  - v. 7. [Oberamts]: Aalen, Esslingen, Heidenheim, Marbach, Muensingen, Riedlingen, Tuttlingen, Vaihingen
-  - v. 8. [Oberamts]: Cannstatt, Goeppingen, Laupheim, Leutkirch, Ludwigsburg, Ravensburg, Saulgau, Stuttgart, Tettnang, Tuebingen, Ulm
+  - v. 1. \[Oberamts\]: Backnang, Besigheim, Biberach, Blaubeuren, Böblingen, Brackenheim, Calw, Horb
+  - v. 2. \[Oberamts\]: Nagold, Nürtingen, Rottenburg, Rottweil, Schorndorf
+  - v. 3. \[Oberamts\]: Balingen, Calw, Freuden- stadt, Herrenberg, Nagold, Sulz
+  - v. 4. \[Oberamts\]: Geislingen, Kirchheim, Leonberg, Reutlingen
+  - v. 5. \[Oberamts\]: Crailsheim, Gaildorf, Geislingen, Hall, Künzelsau, Mergentheim, Welzheim
+  - v. 6. \[Oberamts\]: Brackenheim, Gmuen, Hall, Heilbronn, Leonberg, Maulbronn, Neckarsulm, Nuertingen, Oehringen, Schorndorf, Spaichingen, Stuttgart, Urach, Waldsee, Weinsberg
+  - v. 7. \[Oberamts\]: Aalen, Esslingen, Heidenheim, Marbach, Muensingen, Riedlingen, Tuttlingen, Vaihingen
+  - v. 8. \[Oberamts\]: Cannstatt, Goeppingen, Laupheim, Leutkirch, Ludwigsburg, Ravensburg, Saulgau, Stuttgart, Tettnang, Tuebingen, Ulm
 
-- Yoder, Don, editor. Rhineland emigrants : lists of German settlers in colonial America. Baltimore
--
-  Genealogical Pub. Co., 1981.
+- [Genealogies of Pennsylvania families : from the Pennsylvania genealogical magazine](https://worldcat.org/title/8329978)
   
-  A collection of "twenty-four articles dealing with German-speaking emigrants of the eighteenth century". Contains a personal name index.
+  **Format:** Print Book, English, 1982
+
+  **Publisher:** Genealogical Pub. Co., Baltimore, 1982
+
+  **Contents:**  
+  - v. 1. Arnold-Hertzel
+  - v. 2. Hinman-Sotcher
+  - v. 3. Stauffer-Zerbe (with bible records)
+
+- Don Yoder works:
+
+  **TODO:** Finish adding these works: 
+
+  - <https://worldcat.org/title/6627429>
+  - <https://worldcat.org/title/7364551>
+  - <https://worldcat.org/title/2291670>
+  - <https://worldcat.org/title/812794157>
+  - <https://worldcat.org/title/41690591>
+  - <https://worldcat.org/title/31256008>
+  - <https://worldcat.org/title/530365541> 
+  - <https://worldcat.org/title/530365531>
+  - <https://worldcat.org/title/530365533>
+  - <https://worldcat.org/title/438495957>
+
+  - [Rhineland emigrants : lists of German settlers in colonial America](https://worldcat.org/title/7364551)
+
+    **Publisher:** Genealogical Publishing Co., Baltimore, 1981
+  
+- A collection of "twenty-four articles dealing with German-speaking emigrants of the eighteenth century". Contains a personal name index.
 
 - Gary Zimmerman and Marion Wolfert works:
 
