@@ -1697,7 +1697,7 @@
     **Authors:**  Zimmerman, Gary J. & Marion Wolfert.
 
     **Summary:** A partial reconstruction of Bremen passenger lists based on U.S. sources. Not
-    all Bremen passengers are included; only those giving a specific place of origin in Germany. This is about 21%; those giving only
+    all Bremen passengers are included; only those giving a specific place of origin in Germany. This is about 21%. Those giving only
     "Germany" as place of origin was about 79%  
 
   - [German immigrants: Lists of passengers bound from Bremen to New York, 1855-1862](https://worldcat.org/search?q=ti%3AGerman+immigrants%3A+Lists+of+passengers+bound+from+Bremen+to+New+York%2C+1855-1862)
