@@ -1693,9 +1693,9 @@
   - <https://worldcat.org/title/530365533>
   - <https://worldcat.org/title/438495957>
 
-  - [Rhineland emigrants : lists of German settlers in colonial America](https://worldcat.org/title/7364551)
+- [Rhineland emigrants : lists of German settlers in colonial America](https://worldcat.org/title/7364551)
 
-    **Publisher:** Genealogical Publishing Co., Baltimore, 1981
+  **Publisher:** Genealogical Publishing Co., Baltimore, 1981
   
 - A collection of "twenty-four articles dealing with German-speaking emigrants of the eighteenth century". Contains a personal name index.
 
