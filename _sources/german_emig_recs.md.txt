@@ -1718,16 +1718,16 @@
 
     - [4] 1868-1871  
 
-  - [German Immigrants from Bremen to New York 1847-1862](https://worldcat.org/title/260189177).
+- [German Immigrants from Bremen to New York 1847-1862](https://worldcat.org/title/260189177)
 
-    **Authors:**  Zimmerman, Gary J. & Marion Wolfert.
+  **Authors:**  Zimmerman, Gary J. & Marion Wolfert.
 
-    **Summary:** A partial reconstruction of Bremen passenger lists based on U.S. sources. Not
-    all Bremen passengers are included; only those giving a specific place of origin in Germany. This is about 21%. Those giving only
-    "Germany" as place of origin was about 79%  
+  **Summary:** A partial reconstruction of Bremen passenger lists based on U.S. sources. Not
+  all Bremen passengers are included; only those giving a specific place of origin in Germany. This is about 21%. Those giving only
+  "Germany" as place of origin was about 79%  
 
   - [German immigrants: Lists of passengers bound from Bremen to New York, 1855-1862](https://worldcat.org/search?q=ti%3AGerman+immigrants%3A+Lists+of+passengers+bound+from+Bremen+to+New+York%2C+1855-1862)
-    
+
     **Authors:** Zimmerman, Gary J. & Wolfert, M.
 
     **Format:** Print Book, English, 1986
@@ -1735,7 +1735,7 @@
     **Publisher:** Genealogical Publishing Co., Inc, Baltimore, MD, 1986
 
   - [German Immigrants: Lists of Passengers Bound from Bremen to New York 1863-1867, with Place of Origin](https://worldcat.org/title/1152961233?oclcNum=1152961233)
-    
+  
     **Compilers:** Zimmerman, Gary J. & Wolfert, M.
 
     **Format:** Print Book, 1988
