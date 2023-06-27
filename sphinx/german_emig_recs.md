@@ -1656,11 +1656,60 @@
   **Format:** Article, 1953
 
   **Content:**  Examines German immigration to the U.S. following the failed 1848
-    revolution in Germany.  
+  revolution in Germany.
+
+- **Germans to America** passenger lists series by Ira A. Glazier, P. William Filby:
+
+  **Contents:** Contents:
+
+  **TODO:** add links to each volume
+
+  - v. 1. January 1850-May 1851
+  - v. 2. May 1851-June 1852
+  - v. 3. June 1852-September 1852
+  - v. 4. September 1852-May 1853
+  - v. 5. May 1853-October 1853
+  - v. 6. October 1853-May 1854
+  - v. 7. May 1854-August 1854
+  - v. 8. August 1854-December 1854
+  - v. 9. December 1854-December 1855
+  - v. 10. January 1856-April 1857
+  - v. 11. April 1857-November 1857
+  - v. 12. November 1857-July 1859
+  - v. 13. August 1859-December 1860
+  - v. 14. January 1861-May 1863
+
+  **Summary:** Each volume is divided into two parts: first, a chronological listing of ships arriving at US ports with their passenger lists; second,
+  an alphabetical listing by surname of immigrants. Other information in the lists sometimes includes age, sex, occupation, province, village, and
+  destination in the US
+
+  **Notes:** Includes indexes
+
+- **Germans to America, series II**:
+
+  **TODO:** Add details: volues and links.
+
+- **TODO: Complete this entry** Germans to America and the Hamburg passenger lists : coordinated schedules
+
+  **Authors:** Roger P. Minert, Kathryn Boeckel, Caren Winters
+
+  **Summary:** Germans to America, published in 1988, is an index of names of Germans on ships' passenger lists filed at ports of arrival in the
+  United States. The Hamburg passenger lists are a collection of records with data on passengers who departed Germany on ships leaving Hamburg. This
+  index combines and coordinates information from the two sources in table form
+
+- [Passenger lists of German immigrants : supplemental list](https://worldcat.org/title/369164252)
+
+  **Authors:** Ira A. Glazier, P. William Filby
+
+  **Format:** Print Book, English, <[1988]->
+
+  **Publisher:** Publisher:Scholarly Resources, Wilmington, Del., <[1988]->]  
+
+  **Noites:** Supplement to Germans To America
 
 - [German immigrants : lists of passengers bound from Bremen to New York [dates], with places of origin](<https://worldcat.org/title/12389585>)
 
-  **Authors:** Authors:Gary J. Zimmerman (Compiler), Marion Wolfert (Compiler)
+  **Authors:** Gary J. Zimmerman (Compiler), Marion Wolfert (Compiler)
 
   **Contents:** Four volumes:  
   - [1] 1847-1854
@@ -1675,7 +1724,7 @@
 
   The Württemberg Emigration Index is an eight volume work (See immediately below) that represents the thousands of German and Prussian immigrants to the United States that made application to emigrate at Württemberg, Germany. This collection, filmed at Ludwigsburg, contains the names of approximately 60,000 persons who made application to leave Germany from the late eighteenth century to 1900. The information supplied on each person includes: name, date and place of birth, residence at time of application and application date, and microfilm number.
 
-- [Wuerttemberg Emigration Index, 8 Volumes](https://worldcat.org/title/13311619)
+- [Württemberg Emigration Index, 8 Volumes](https://worldcat.org/title/13311619)
 
   **Comment:** An online searchable version of these volume is available on Ancestry. See the reference immediately above.
 
