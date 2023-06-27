@@ -830,7 +830,7 @@
 
     - Volume 22, No. 1, 1998 (17 May 1850 - 25 May 1850).  
 
-- Grand Duchy of Hessen-Darmstadt: Emmigration Index 1800-1900,
+- Grand Duchy of Hessen-Darmstadt: Emigration Index 1800-1900,
     incomplete (FHL 1124278, 1124279, 1124280, 1124319, 1124320); Gieg,
     Ella *Auswanderungen aus dem Odenwalkdreis*, five volumes (FHL
     943.41 W2gi); Schmahl, Helmut, *Die Auswanderung aus Rheinhessen
