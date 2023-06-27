@@ -844,11 +844,14 @@
   indexes which cover emigration from the modern districts of Dieburg, Bergstrasse and Erbach. All arranged alphabetically. (Except the
   1825 index which is arranged in roughly reverse chronological order)
 
--  **TODO: Fix this:** Die Auswanderung aus Rheinhessen im 18. und 19. Jahrhundert
+- [Die Auswanderung aus Rheinhessen im 18. und 19. Jahrhundert unter besonderer Berücksichtigung von Ober-Flörsheim und Umgebung](https://worldcat.org/title/866274410)
 
-    (FHL 943.41 W2sh)
+  **Author:** Schmahl, Helmut 
 
-   **Author:** Schmahl, Helmut 
+  **Format:** Manuscript
+
+  **Notes:** Study of emigration from Rhenish Hesse, a province of the Grand Duchy of Hesse, Germany. Gives special attention to Ober-Flörsheim
+  and the surrounding area. Covers the 18th and 19th centuries
 
 - [Auswanderungen aus dem Odenwaldkreis](https://worldcat.org/title/720407027)
 
