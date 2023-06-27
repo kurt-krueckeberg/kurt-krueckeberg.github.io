@@ -1662,7 +1662,10 @@
 
   **Contents:** Contents:
 
-  **TODO:** add links to each volume
+  **TODO:** Check the list of volumes by comparing with those of the CD version listed at\
+  <https://www.familysearch.org/search/catalog/582490?availability=Family%20History%20Library> and the
+  LOC catalog entries at <https://catalog.loc.gov/vwebv/search?searchCode=TALL&searchArg=Germans+to+America&searchType=1&limitTo=none&fromYear=&toYear=&limitTo=LOCA%3Dall&limitTo=PLAC%3Dall&limitTo=TYPE%3Dall&limitTo=LANG%3Dall&recCount=25>
+  and add links to each volume
 
   - v. 1. January 1850-May 1851
   - v. 2. May 1851-June 1852
@@ -1687,7 +1690,8 @@
 
 - **Germans to America, series II**:
 
-  **TODO:** Add details: volues and links.
+  **TODO:** Add details: volues and links.\
+  FamilySerch  Catalog entry: <https://www.familysearch.org/search/catalog/1029014?availability=Family%20History%20Library>
 
 - **TODO: Complete this entry** Germans to America and the Hamburg passenger lists : coordinated schedules
 
@@ -1696,6 +1700,11 @@
   **Summary:** Germans to America, published in 1988, is an index of names of Germans on ships' passenger lists filed at ports of arrival in the
   United States. The Hamburg passenger lists are a collection of records with data on passengers who departed Germany on ships leaving Hamburg. This
   index combines and coordinates information from the two sources in table form
+
+- **TODO:** Add:
+  - https://www.familysearch.org/search/catalog/507214?availability=Family%20History%20Library
+  - https://www.familysearch.org/search/catalog/472317?availability=Family%20History%20Library
+  - https://www.familysearch.org/search/catalog/2709954
 
 - [Passenger lists of German immigrants : supplemental list](https://worldcat.org/title/369164252)
 
