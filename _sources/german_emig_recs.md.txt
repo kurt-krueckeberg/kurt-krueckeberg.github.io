@@ -830,11 +830,36 @@
 
     - Volume 22, No. 1, 1998 (17 May 1850 - 25 May 1850).  
 
-- Grand Duchy of Hessen-Darmstadt: Emigration Index 1800-1900,
-    incomplete (FHL 1124278, 1124279, 1124280, 1124319, 1124320); Gieg,
-    Ella *Auswanderungen aus dem Odenwalkdreis*, five volumes (FHL
-    943.41 W2gi); Schmahl, Helmut, *Die Auswanderung aus Rheinhessen
-    im 18. und 19. Jahrhundert* (FHL 943.41 W2sh)*.*
+- [Auswandererkartei 1800-1900](https://worldcat.org/title/865637089?oclcNum=865637089)
+
+  - Family Search: [Auswandererkartei 1800-1900](https://www.familysearch.org/search/catalog/223975?availability=Family%20History%20Library)
+
+  **Note:** The mircofilm is viewable online at Family Search.
+ 
+  **Authors:** Hessen (Großherzogtum). Auswanderungsamt (Main Author)
+
+  **Format:** Manuscript/Manuscript on Film, 5 rolls
+  
+  **Notes:** Emigration card indexes for the Grandduchy of Hessen, Germany. Includes general indexes of Hessen and specific
+  indexes which cover emigration from the modern districts of Dieburg, Bergstrasse and Erbach. All arranged alphabetically. (Except the
+  1825 index which is arranged in roughly reverse chronological order)
+
+-  **TODO: Fix this:** Die Auswanderung aus Rheinhessen im 18. und 19. Jahrhundert
+
+    (FHL 943.41 W2sh)
+
+   **Author:** Schmahl, Helmut 
+
+- [Auswanderungen aus dem Odenwaldkreis](https://worldcat.org/title/720407027)
+
+  **Author:** Ella Gieg
+
+  **Publisher:** Ella Gieg, Lützelbach, 1989
+
+  **Subjects:** Auswanderung\
+  Germany, Hessen Emigration and immigration\
+  Geschichte 1700-1900\
+  Odenwaldkreis
 
 - [Großeneder Auswanderer](http://www.grosseneder.de/GESCHICHTE/MENSCHEN/EMIGRANTS/EMIGRANTS.HTML)
 
