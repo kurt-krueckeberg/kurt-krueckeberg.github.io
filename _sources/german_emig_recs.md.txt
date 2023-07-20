@@ -1766,9 +1766,17 @@
 
 - Don Yoder works:
 
+  - [Pennsylvania German immigrants, 1709-1786 : lists consolidated from yearbooks of the Pennsylvania German Folklore Society](https://worldcat.org/title/6627429)
+ 
+    **Format:** Print Book, English, 1980
+
+    **Publisher:** Genealogical Pub. Co., Baltimore, Md., 1980
+
+    **Summary:** The lists making up this remarkable work try to identify German emigrants in their homeland and in Pennsylvania. Thus they are cited with reference to manumission records, parish registers, passports, and other papers of German and Swiss provenance, and noted again, where possible, with reference to an equivalent range of Pennsylvania source materials, notably church records, wills, and tax lists. The materials antedating immigration often indicate causes, dates of emigration, the emigrant's occupation, his dates of birth and marriage, place of birth and residence, and names of family members, sometimes with lines of descent for several generations
+    
+
   **TODO:** Finish adding these works: 
 
-  - <https://worldcat.org/title/6627429>
   - <https://worldcat.org/title/7364551>
   - <https://worldcat.org/title/2291670>
   - <https://worldcat.org/title/812794157>
