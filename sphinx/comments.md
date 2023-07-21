@@ -12,7 +12,7 @@ Each entry is currently being double checked; many broken links have been correc
 
 Go to [German Emigration Records](german_emig_recs.md).
 
-## Webiste Construction Tools
+## Website Construction Tools
 
 This documentation website  was built using the open-source [Sphinx](https://www.sphinx-doc.org/en/master/) tool. It was written in [Markdown](https://www.markdownguide.org/) and the
 [myst-parser](https://www.sphinx-doc.org/en/master/usage/markdown.html) extension was used to parser the Markdown.
