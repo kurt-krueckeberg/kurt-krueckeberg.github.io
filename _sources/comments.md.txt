@@ -14,7 +14,7 @@ Go to [German Emigration Records](german_emig_recs.md).
 
 ## Website Construction Tools
 
-This documentation website  was built using [Sphinx-doc](https://www.sphinx-doc.org/en/master/) and the [myst-parser](https://www.sphinx-doc.org/en/master/usage/markdown.html) extension.
+This documentation website was built using [Sphinx-doc](https://www.sphinx-doc.org/en/master/) and the [myst-parser](https://www.sphinx-doc.org/en/master/usage/markdown.html) extension.
 The content was written in [MyST Markdown](https://mystmd.org/guide).
 
 ## Creative Commons Attribution-NonCommercial 4.0 International Public License
