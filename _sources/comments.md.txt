@@ -5,7 +5,7 @@
 Much of the information on this site is from the defunct webiste `Genealoger.com`, whose [October 16, 2021 version](https://web.archive.org/web/20230000000000*/http://www.genealoger.com/german/ger_emigration_records.htm)
 is in the archives of the [WaybackMacine](https://wayback.archive.org).
 
-Since the 2013 copyright (that was located in the footer in the October 16, 2021, WayBackMachine version) has expired, the [German Emigration Records](https://web.archive.org/web/20230000000000*/http://www.genealoger.com/german/ger_emigration_records.htm)
+Since the 2013 copyright (located in the footer of the October 16, 2021, WayBackMachine version) has expired, the [German Emigration Records](https://web.archive.org/web/20230000000000*/http://www.genealoger.com/german/ger_emigration_records.htm)
 was converted to [Markdown](https://daringfireball.net/projects/markdown/).
 
 Each entry is currently being double checked; many broken links have been corrected; other sources and their links added; in the case of broken links where no correct current link could be found, the entry was removed.
