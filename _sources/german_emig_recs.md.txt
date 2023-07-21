@@ -1774,11 +1774,21 @@
 
     **Summary:** The lists making up this remarkable work try to identify German emigrants in their homeland and in Pennsylvania. Thus they are cited with reference to manumission records, parish registers, passports, and other papers of German and Swiss provenance, and noted again, where possible, with reference to an equivalent range of Pennsylvania source materials, notably church records, wills, and tax lists. The materials antedating immigration often indicate causes, dates of emigration, the emigrant's occupation, his dates of birth and marriage, place of birth and residence, and names of family members, sometimes with lines of descent for several generations
     
+  - [Rhineland emigrants : lists of German settlers in colonial America](https://worldcat.org/title/7364551)
 
-  **TODO:** Finish adding these works: 
+    **Format:** Print Book, English, 1981
+    
+    **Publisher:** Genealogical Pub. Co., Baltimore, 1981
 
-  - <https://worldcat.org/title/7364551>
-  - <https://worldcat.org/title/2291670>
+  - [Front cover image for Pennsylvania German pioneers from the County of Wertheim Pennsylvania German pioneers from the County of Wertheim](https://worldcat.org/title/2291670)
+
+    **Authors:** Otto Langguth (Author), Donald Herbert Yoder 
+    **Format:** Print Book, English, 1947
+
+    **Publisher:** Pennsylvania German Folklore Society, Allentown, Pa., 1947
+
+  TODO:  
+
   - <https://worldcat.org/title/812794157>
   - <https://worldcat.org/title/41690591>
   - <https://worldcat.org/title/31256008>

@@ -10,7 +10,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'German Emigration Records'
-copyright = "MIT License"
+#copyright = "MIT License"
+copyright = "Creative Commons Attribution-NonCommercial 4.0 International Public License"
 author = 'Kurt Krueckeberg'
 release = '0.7'
 
