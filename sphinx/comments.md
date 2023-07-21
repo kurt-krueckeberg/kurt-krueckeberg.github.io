@@ -3,7 +3,7 @@
 ## History of this Documentaion
 
 Much of the information on this site originally came from the defunct `Genealoger.com`. The **October 16, 2021** version of [www.genealoger.com/german/ger_emigration_records.htm](https://web.archive.org/web/20230000000000*/http://www.genealoger.com/german/ger_emigration_records.htm).
-was extracted from the [WayBackMachine]**. 
+was dwonloaded from [wayback.archive.org](https://wayback.archive.org). 
 
 Since the 2013 copyright (that was located in the footer in the October 16, 2021, WayBackMachine version) has expired, the [German Emigration Records](https://web.archive.org/web/20230000000000*/http://www.genealoger.com/german/ger_emigration_records.htm)
 was converted to [Markdown](https://daringfireball.net/projects/markdown/).
