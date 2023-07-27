@@ -1,2 +1,4 @@
 sphinx/_build
 .github
+*.swp
+.*.swp

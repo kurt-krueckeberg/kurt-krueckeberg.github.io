@@ -31,10 +31,9 @@ source_suffix = {
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_imaterial'
+html_theme = 'sphinx_immaterial'
 
 extensions.append("sphinx_immaterial")
-html_theme = "sphinx_immaterial"
 
 # material theme options (see theme.conf for more information)
 html_theme_options = {
@@ -87,33 +86,9 @@ html_theme_options = {
     ],
     # BEGIN: version_dropdown
     "version_dropdown": True,
-#   "version_info": [
-#       {
-#           "version": "https://sphinx-immaterial.rtfd.io",
-#           "title": "ReadTheDocs",
-#           "aliases": [],
-#       },
-#       {
-#           "version": "https://jbms.github.io/sphinx-immaterial",
-#           "title": "Github Pages",
-#           "aliases": [],
-#       },
-#   ],
     # END: version_dropdown
     "toc_title_is_page_title": True,
     # BEGIN: social icons
-#   "social": [
-#       {
-#           "icon": "fontawesome/brands/github",
-#           "link": "https://github.com/jbms/sphinx-immaterial",
-#           "name": "Source on github.com",
-#       },
-#       {
-#           "icon": "fontawesome/brands/python",
-#           "link": "https://pypi.org/project/sphinx-immaterial/",
-#       },
-#   ],
-    # END: social icons
 }
 
 # Options for sphinx_material
