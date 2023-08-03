@@ -20,7 +20,12 @@ release = '0.8'
 
 extensions = ['myst_parser', 'sphinx_immaterial']
 
+myst_enable_extensions = [
+  "colon_fence", "deflist"
+]
+
 templates_path = ['_templates']
+
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'readme.md']
 
 source_suffix = {
