@@ -3,18 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to German Emigration Records's documentation!
-=====================================================
+Welcome to the Krückeberg Genealogy
+===================================
+
+This is merely an online attempt to share some of the sources of interest to small group of
+Krückeberg genealogists. It may be the enception of something more elaborate.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
-
-   comments.md
-   intro.md
-   ports.md
-   german_emig_recs.md
-   other_bibliog.md
+   :glob:
+   
+   intro*
+   immanuel-bios.md
+   * 
 
 Indices and tables
 ==================
